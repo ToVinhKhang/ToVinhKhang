@@ -1,6 +1,6 @@
 <img width="220" height="150" src="https://gigarettes.com/c/49-tm_home_default/kent.jpg" align="right" />
 
-# Hi, I'm Kent
+# Hi, I'm Kent! :D
 ## Software Engineering
 > Frontend Developer/UI-UX Designer/BrSE/BA
 
