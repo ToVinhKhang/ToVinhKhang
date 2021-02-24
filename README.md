@@ -1,9 +1,8 @@
 <img width="220" height="150" src="https://gigarettes.com/c/49-tm_home_default/kent.jpg" align="right" />
 
-# Hi, I'm [![Kent](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ToVinhKhang/)
-> Frontend Developer/Designer/BA-BrSE
-
+# Hi, I'm Kent
 ## Software Engineering
+> Frontend Developer/Designer/BA-BrSE
 
 <br />
 
