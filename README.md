@@ -1,4 +1,4 @@
-<img src="https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/148400239_1787160114795979_1608361134727682530_o.jpg?_nc_cat=108&ccb=3&_nc_sid=09cbfe&_nc_ohc=aDQ-7sZeV4kAX9D1-qg&_nc_ht=scontent.fsgn2-3.fna&oh=d8e2c10b1c5ab0b7fc32d8e16f532760&oe=605C4536" align="right" />
+<img style="width:130px; height:200px;" src="https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/151146099_1788706397974684_8837574208876288879_n.jpg?_nc_cat=101&ccb=3&_nc_sid=8bfeb9&_nc_ohc=FeCWSmRkUlwAX8oTEPC&_nc_ht=scontent.fsgn2-4.fna&oh=cddd1ae30fde8105ccf18aba48b48176&oe=605C9CB5" align="right" />
 
 ## Hi, I'm Kent!
 
