@@ -8,12 +8,12 @@
 
 ### Main Knowledge:
 <img align="left" alt="HTML" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />
-<img align="left" alt="CSS" width="28px" src="https://res.cloudinary.com/eternitech/images/f_auto,q_auto/v1588246378/eternitech/CSS3/CSS3.png" />
-<img align="left" alt="JS" width="32px" src="https://tedu.edu.vn/frontend/workwise/upload/images/tintuc/mtB9_Javascript-shield.png" />
+<img align="left" alt="CSS" width="26px" src="https://res.cloudinary.com/eternitech/images/f_auto,q_auto/v1588246378/eternitech/CSS3/CSS3.png" />
+<img align="left" alt="JS" width="33px" src="https://tedu.edu.vn/frontend/workwise/upload/images/tintuc/mtB9_Javascript-shield.png" />
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="NodeJS" width="30px" src="https://hoctapit.com/wp-content/uploads/2018/01/nodejs-logo-e1497443346889.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/452/mongodb.png" />
-<img align="left" alt="Pug" width="42px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" alt="Pug" width="41px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="PHP" width="40px" src="https://pngimg.com/uploads/php/php_PNG43.png" />
 <img align="left" alt="MySQL" width="35px" src="https://portal.cloudclusters.io/media/product_logo/MySQL.png" />
 <img align="left" alt="C" width="30px" src="https://www.techbaz.org/Course/img/c-logo.png" />
