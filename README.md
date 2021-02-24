@@ -1,8 +1,6 @@
 ### Hi, I'm Kent!
 ## Frontend Developer/Designer/BA-BrSE :squirrel:
 
-<br />
-
 ### Have knowledge about:
 ### Languages:
 <img align="left" alt="HTML5" width="32px" src="https://rapidapi.com/blog/wp-content/uploads/2018/06/logo-2582748_640.png" />
@@ -31,7 +29,7 @@
 [<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
 [<img align="left" alt="Instagram" width="40px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />][instagram]
 
-<br /><br />
+<br /><br /><br /><br />
 ---
 <details>
   <summary>Show GitHub Stats</summary>
