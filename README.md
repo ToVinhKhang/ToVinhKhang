@@ -7,9 +7,9 @@
 <br />
 
 ### Main Knowledge:
-<img align="left" alt="HTML" width="32px" src="https://rapidapi.com/blog/wp-content/uploads/2018/06/logo-2582748_640.png" />
-<img align="left" alt="CSS" width="32px" src="https://www.joykal.com/wp-content/uploads/2019/09/css3.png" />
-<img align="left" alt="JS" width="35px" src="https://tedu.edu.vn/frontend/workwise/upload/images/tintuc/mtB9_Javascript-shield.png" />
+<img align="left" alt="HTML" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />
+<img align="left" alt="CSS" width="32px" src="https://res.cloudinary.com/eternitech/images/f_auto,q_auto/v1588246378/eternitech/CSS3/CSS3.png" />
+<img align="left" alt="JS" width="32px" src="https://tedu.edu.vn/frontend/workwise/upload/images/tintuc/mtB9_Javascript-shield.png" />
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="NodeJS" width="30px" src="https://hoctapit.com/wp-content/uploads/2018/01/nodejs-logo-e1497443346889.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/452/mongodb.png" />
