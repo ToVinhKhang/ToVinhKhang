@@ -1,11 +1,6 @@
 ### Hi, I'm Kent!
 ## Frontend Developer/Designer/BA-BrSE :squirrel:
 
-### Contact Me:
-
-[<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
-[<img align="left" alt="Instagram" width="40px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />][instagram]
-
 <br />
 
 ### Have knowledge about:
@@ -28,6 +23,13 @@
 <img align="left" alt="Git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="BA" width="30px" src="https://apprecs.org/gp/images/app-icons/300/0a/com.softsolutions.ba.jpg" />
 <img align="left" alt="BrSE" width="48px" src="https://jpjobs.vn/wp-content/uploads/2019/10/brse.png" />
+
+<br />
+
+### Contact Me:
+
+[<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
+[<img align="left" alt="Instagram" width="40px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />][instagram]
 
 <br /><br />
 ---
