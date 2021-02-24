@@ -1,4 +1,4 @@
-<img width="300" height="150" src="https://gigarettes.com/c/49-tm_home_default/kent.jpg" align="right" />
+<img width="200" height="140" src="https://gigarettes.com/c/49-tm_home_default/kent.jpg" align="right" />
 
 # Hi, I'm Kent!
 
