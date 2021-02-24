@@ -2,7 +2,7 @@
 
 # Hi, I'm Kent
 ## Software Engineering
-> Frontend Developer/Designer/BA-BrSE
+> Frontend Developer/UI-UX Designer/BrSE/BA
 
 <br />
 
@@ -23,10 +23,6 @@
 ### Editor:
 <img align="left" alt="SublimeText" width="30px" src="https://www.quyetnv.com/wp-content/uploads/2019/01/sublimetext_funnytuts.png" />
 <img align="left" alt="VisualStudioCode" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-### Other Skills:
-<img align="left" alt="BA" width="30px" src="https://apprecs.org/gp/images/app-icons/300/0a/com.softsolutions.ba.jpg" />
-<img align="left" alt="BrSE" width="48px" src="https://jpjobs.vn/wp-content/uploads/2019/10/brse.png" />
 
 <br /><br />
 
