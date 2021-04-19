@@ -2,7 +2,7 @@
 
 # Hi, I'm Kent! :D
 ## Software Engineering
-> Frontend Developer/UI-UX Designer/BrSE/BA
+> UI-UX Designer/BA/BrSE
 
 <br />
 
