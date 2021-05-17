@@ -29,7 +29,7 @@ Leadership / Communication / Design / Analytical / Presentation / Foreign Langua
 
 <br /><br />
 
-## Contact Me:
+## Contact:
 
 [<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
 [<img align="left" alt="Instagram" width="40px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />][instagram]
