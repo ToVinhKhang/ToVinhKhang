@@ -25,7 +25,17 @@
 <br />
 
 ### Skills:
-Leadership / Communication / Social / Design / Analytical / Presentation / English-Korean Language
+• Leadership
+<br />
+• Communication & Teamwork
+<br />
+• Design & Analytical by modeling
+<br />
+• Understand Korean culture 
+<br />
+• Presentation in English 
+<br />
+
 
 <br />
 
