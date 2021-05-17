@@ -22,12 +22,12 @@
 
 <br />
 
-<br /><br />
+<br />
 
 ### Skills:
 Leadership / Communication / Social / Design / Analytical / Presentation / English-Korean Language
 
-<br /><br />
+<br />
 
 ## Contact:
 
