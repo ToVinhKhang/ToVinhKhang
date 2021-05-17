@@ -1,8 +1,8 @@
 <img width="220" height="150" src="https://gigarettes.com/c/49-tm_home_default/kent.jpg" align="right" />
 
-# Hi, I'm Kent! :D
-## Software Engineering
-> UI-UX Designer/BA/BrSE
+# Hi, I'm Kent! You can call me Khan :D
+## Bachelor of Software Engineering
+> TON DUC THANG UNIVERSITY - VIETNAM
 
 <br />
 
@@ -31,6 +31,8 @@ Leadership / Communication / Design / Analytical / Presentation / Foreign Langua
 
 [<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
 [<img align="left" alt="Instagram" width="40px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />][instagram]
+[<img align="left" alt="Instagram" width="40px" src="https://pics.freeicons.io/uploads/icons/png/2659939281579738432-512.png" />][google]
+
 
 <br /><br /><br />
 ---
@@ -41,3 +43,5 @@ Leadership / Communication / Design / Analytical / Presentation / Foreign Langua
 
 [facebook]: https://www.facebook.com/VinceKent1996/
 [instagram]: https://www.instagram.com/vkent_/
+[google]: https://sites.google.com/view/vkent/
+
