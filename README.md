@@ -25,7 +25,7 @@
 <br /><br />
 
 ### Skills:
-Leadership / Communication / Design / Analytical / Presentation / Foreign Language
+Leadership / Communication / Social / Design / Analytical / Presentation / English-Korean Language
 
 <br /><br />
 
