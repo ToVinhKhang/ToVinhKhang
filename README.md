@@ -16,9 +16,9 @@
 <img align="left" alt="GIT" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="Pug" width="45px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="Canva" width="60px" src="https://1000logos.net/wp-content/uploads/2020/02/Canva-logo.png" />
-<img align="left" alt="ERP" width="40px" src="https://icon-library.com/images/erp-system-icon/erp-system-icon-9.jpg" />
-<img align="left" alt="AdobeXD" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
-<img align="left" alt="Figma" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png" />
+<img align="left" alt="ERP" width="38px" src="https://icon-library.com/images/erp-system-icon/erp-system-icon-9.jpg" />
+<img align="left" alt="AdobeXD" width="39px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
+<img align="left" alt="Figma" width="38px" src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png" />
 
 <br />
 
