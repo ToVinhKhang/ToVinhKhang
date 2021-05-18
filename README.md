@@ -44,6 +44,7 @@
 [<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
 [<img align="left" alt="Instagram" width="40px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />][instagram]
 [<img align="left" alt="Google" width="40px" src="https://icons-for-free.com/iconfiles/png/512/google-1320568243143037383.png" />][google]
+[<img align="left" alt="Wikipedia" width="40px" src="http://pngimg.com/uploads/wordpress/wordpress_PNG42.png" />][wikipedia]
 
 
 <br /><br /><br />
@@ -56,4 +57,5 @@
 [facebook]: https://www.facebook.com/VinceKent1996/
 [instagram]: https://www.instagram.com/vkent_/
 [google]: https://sites.google.com/view/vkent/
+[wikipedia]: https://vi.wikipedia.org/wiki/user:ToVinhKhang
 
