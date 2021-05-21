@@ -3,17 +3,19 @@
 # Hi, I'm Kent! You can call me Khan :D
 ## Bachelor of Software Engineering
 > Concentration: Business Analysis, Consultant and Personnel
+
 <br />
+
 > Minor: Web Programming and Applications
 
 <br />
 
-### About Me:
+### About Me
 I have knowledge most of popular programing languages. I'm passionate about business analysis and consultant. I also have a knack for public speaking, demonstrated experience at management roles and have effective people skills. I’m a perfectionist who ensures that every task is completed with utmost attention to detail.
 
 <br />
 
-### Technical:
+### Technical
 <img align="left" alt="NodeJS" width="35px" src="https://hoctapit.com/wp-content/uploads/2018/01/nodejs-logo-e1497443346889.png" />
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="MongoDB" width="35px" src="https://img.icons8.com/color/452/mongodb.png" />
@@ -29,7 +31,11 @@ I have knowledge most of popular programing languages. I'm passionate about busi
 
 <br />
 
-### Skills:
+<br />
+
+<br />
+
+### Skills
 • Soft: Leadership, Communication, Problem Solving, Positive and Teamwork
 <br />
 • Design & Analytical: SWOT, Sketch, Mockup, Modeling, Diagram and Graph
@@ -39,7 +45,7 @@ I have knowledge most of popular programing languages. I'm passionate about busi
 
 <br />
 
-## Contact:
+## Contact
 [<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
 [<img align="left" alt="Instagram" width="40px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />][instagram]
 [<img align="left" alt="Google" width="40px" src="https://icons-for-free.com/iconfiles/png/512/google-1320568243143037383.png" />][google]
