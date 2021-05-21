@@ -3,6 +3,7 @@
 # Hi, I'm Kent! You can call me Khan :D
 ## Bachelor of Software Engineering
 > Concentration: Business Analysis, Consultant and Personnel
+<br />
 > Minor: Web Programming and Applications
 
 <br />
@@ -28,8 +29,6 @@ I have knowledge most of popular programing languages. I'm passionate about busi
 
 <br />
 
-<br />
-
 ### Skills:
 • Soft: Leadership, Communication, Problem Solving, Positive and Teamwork
 <br />
@@ -38,16 +37,13 @@ I have knowledge most of popular programing languages. I'm passionate about busi
 • Spoken Languages: Vietnamese, English, Cantonese and Korean
 <br />
 
-
 <br />
 
 ## Contact:
-
 [<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
 [<img align="left" alt="Instagram" width="40px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />][instagram]
 [<img align="left" alt="Google" width="40px" src="https://icons-for-free.com/iconfiles/png/512/google-1320568243143037383.png" />][google]
 [<img align="left" alt="Wikipedia" width="40px" src="http://pngimg.com/uploads/wordpress/wordpress_PNG42.png" />][wikipedia]
-
 
 <br /><br /><br />
 ---
