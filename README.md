@@ -1,4 +1,4 @@
-<img width="200" height="200" style="border-radius: 50%" src="https://scontent.fhan14-1.fna.fbcdn.net/v/t1.6435-9/162516350_1811085182403472_6857034457156540236_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=9rPnN6DtoK8AX-VnZOa&_nc_ht=scontent.fhan14-1.fna&oh=3c21b1dbd6e0d33c83c7824f8796f0b5&oe=60CBE8FF" align="right" />
+<img width="220" height="220" src="https://scontent.fhan14-1.fna.fbcdn.net/v/t1.6435-9/162516350_1811085182403472_6857034457156540236_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=9rPnN6DtoK8AX-VnZOa&_nc_ht=scontent.fhan14-1.fna&oh=3c21b1dbd6e0d33c83c7824f8796f0b5&oe=60CBE8FF" align="right" />
 
 # Hi, I'm Kent! You can call me Khan :D
 ## Bachelor of Software Engineering
