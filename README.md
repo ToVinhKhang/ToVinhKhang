@@ -3,7 +3,6 @@
 # Hi, I'm Kent! You can call me Khan :D
 ## Bachelor of Software Engineering
 > Concentration: Business Analysis, Consultant and Personnel
-
 <br />
 
 > Minor: Web Programming and Applications
