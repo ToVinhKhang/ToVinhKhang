@@ -4,7 +4,6 @@
 ## Bachelor of Software Engineering
 > Concentration: Business Analysis, Consultant and Personnel
 
-<br />
 > Minor: Web Programming and Applications
 
 <br />
