@@ -48,6 +48,7 @@ I have knowledge most of popular programing languages. I'm passionate about busi
 [<img align="left" alt="Instagram" width="40px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />][instagram]
 [<img align="left" alt="Google" width="40px" src="https://icons-for-free.com/iconfiles/png/512/google-1320568243143037383.png" />][google]
 [<img align="left" alt="Wikipedia" width="40px" src="http://pngimg.com/uploads/wordpress/wordpress_PNG42.png" />][wikipedia]
+[<img align="left" alt="Linkedin" width="40px" src="https://www.dtl.coventry.domains/wp-content/uploads/2020/07/LinkedIn-Logo-1024x1024.png" />][linkedin]
 
 <br /><br /><br />
 ---
@@ -60,4 +61,6 @@ I have knowledge most of popular programing languages. I'm passionate about busi
 [instagram]: https://www.instagram.com/vkent_/
 [google]: https://sites.google.com/view/vkent/
 [wikipedia]: https://vi.wikipedia.org/wiki/user:ToVinhKhang
+[linkedin]: https://www.linkedin.com/in/kent-khang-821662212/
+
 
