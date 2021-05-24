@@ -4,6 +4,7 @@
 ## Bachelor of Software Engineering
 > Concentration: Business Analysis and Human Relations
 <br />
+
 > Minor: Web Programming and Applications
 
 <br />
