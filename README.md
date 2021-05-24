@@ -2,14 +2,13 @@
 
 # Hi, I'm Kent! You can call me Khan :D
 ## Bachelor of Software Engineering
-> Concentration: Business Analysis, Consultant and Personnel
-
+> Concentration: Business Analysis and Human Relations
 > Minor: Web Programming and Applications
 
 <br />
 
 ### About Me
-I have knowledge most of popular programing languages. I'm passionate about business analysis and consultant. I also have a knack for public speaking, demonstrated experience at management roles and have effective people skills. I’m a perfectionist who ensures that every task is completed with utmost attention to detail.
+I've knowledge most of popular programing languages. I'm passionate about analysis and problem solving. I've a knack for public speaking, demonstrated experience at management roles and have effective people skills. I’m a perfectionist who ensures that every task is completed with utmost attention to detail.
 
 <br />
 
