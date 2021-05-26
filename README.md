@@ -2,7 +2,7 @@
 
 # Hi, I'm Kent! You can call me Khan :D
 ## Bachelor of Software Engineering
-> Concentration: Business Analysis and Human Relationships
+> Concentration: Software Business Analyst and Human Relationships
 <br>
 
 > Minor: Web Programming and Applications
@@ -10,7 +10,7 @@
 <br />
 
 ### About Me
-I've knowledge most of popular programing languages. I'm passionate about analysis and problem solving. I've a knack for public speaking, demonstrated experience at management roles and have effective people skills. I’m a perfectionist who ensures that every task is completed with utmost attention to detail.
+I've knowledge most of popular programing languages. I'm passionate about software business analyst. I've a knack for public speaking, demonstrated experience at management roles and have effective people skills and problem solving. I’m a perfectionist who ensures that every task is completed with utmost attention to detail.
 
 <br />
 
@@ -33,11 +33,11 @@ I've knowledge most of popular programing languages. I'm passionate about analys
 <br />
 
 ### Skills
-• Soft: Leadership, Communication, Problem Solving, Positive and Teamwork
+• Socials: Leadership, Communication and Teamwork.
 <br />
-• Design & Analytical: SWOT, Sketch, Mockup, Modeling, Diagram and Graph
+• Design & Analytical: SWOT, URD, SRS, Sketch-Wireframe-Mockup, UML, Graph-Chart.
 <br />
-• Spoken Languages: Vietnamese, English, Cantonese and Korean
+• Spoken Languages: Vietnamese, English, Korean and Cantonese.
 <br />
 
 <br />
