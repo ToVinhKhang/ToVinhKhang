@@ -14,7 +14,7 @@ I've knowledge most of popular programing languages. I'm passionate about softwa
 
 <br />
 
-### Technical
+### Technicals
 <img align="left" alt="NodeJS" width="35px" src="https://hoctapit.com/wp-content/uploads/2018/01/nodejs-logo-e1497443346889.png" />
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="MongoDB" width="35px" src="https://img.icons8.com/color/452/mongodb.png" />
@@ -26,6 +26,8 @@ I've knowledge most of popular programing languages. I'm passionate about softwa
 <img align="left" alt="Canva" width="60px" src="https://1000logos.net/wp-content/uploads/2020/02/Canva-logo.png" />
 <img align="left" alt="AdobeXD" width="39px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
 <img align="left" alt="StartUML" width="35px" src="https://staruml.io/image/staruml_logo.png" />
+<img align="left" alt="Matlab" width="35px" src="https://tsgdoc.socsci.ru.nl/images/2/21/Matlab_Logo.png" />
+<img align="left" alt="Anaconda" width="35px" src="https://nektony.com/wp-content/uploads/2018/05/where-is-anaconda-located.png" />
 
 <br />
 
