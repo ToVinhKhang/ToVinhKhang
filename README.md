@@ -28,6 +28,7 @@ I've knowledge most of popular programing languages. I'm passionate about softwa
 <img align="left" alt="StartUML" width="35px" src="https://staruml.io/image/staruml_logo.png" />
 <img align="left" alt="Matlab" width="35px" src="https://tsgdoc.socsci.ru.nl/images/2/21/Matlab_Logo.png" />
 <img align="left" alt="Anaconda" width="35px" src="https://nektony.com/wp-content/uploads/2018/05/where-is-anaconda-located.png" />
+<img align="left" alt="PowerDesigner" width="35px" src="https://thichvn.com/wp-content/uploads/2017/11/PowerDesigner-logo.png" />
 
 <br />
 
