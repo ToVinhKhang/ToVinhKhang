@@ -19,11 +19,13 @@ I've knowledge most of popular programing languages. I'm passionate about softwa
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="MongoDB" width="35px" src="https://img.icons8.com/color/452/mongodb.png" />
 <img align="left" alt="C" width="35px" src="https://www.techbaz.org/Course/img/c-logo.png" />
-<img align="left" alt="CSharp" width="35px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
+<img align="left" alt="CSharp" width="35px" src="https://trungtq.com/wp-content/uploads/2018/12/c-sharp-logo-filled.png" />
 <img align="left" alt="PHP" width="45px" src="https://pngimg.com/uploads/php/php_PNG43.png" />
 <img align="left" alt="MySQL" width="40px" src="https://portal.cloudclusters.io/media/product_logo/MySQL.png" />
 <img align="left" alt="GIT" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="Pug" width="45px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" />
+
+<br />
 
 <br />
 
