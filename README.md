@@ -10,7 +10,7 @@
 <br />
 
 ### About Me
-I've knowledge most of popular programing languages. I'm passionate about software business analyst. I've a knack for public speaking, demonstrated experience at management roles and have effective people skills and problem solving. I’m a perfectionist who ensures that every task is completed with utmost attention to detail.
+I have knowledge most of popular programing languages. I'm passionate about software business analysis. I've a knack for public speaking, demonstrated experience at management roles and have effective people skills and problem solving. I’m a perfectionist who ensures that every task is completed with utmost attention to detail.
 
 <br />
 
@@ -46,9 +46,9 @@ I've knowledge most of popular programing languages. I'm passionate about softwa
 ### Skills
 • Socials: Leadership, Communication and Teamwork.
 <br />
-• Design & Analytical: SWOT, URD, SRS, Sketch-Wireframe-Mockup, UML, Graph-Chart.
+• Design & Analytical: URD, UseCases, Diagrams, SRS, SWOT, Sketch, Wireframe-Mockup and Prototype.
 <br />
-• Spoken Languages: Vietnamese, English, Korean and Cantonese.
+• Spoken Languages: Vietnamese, English, Cantonese and Korean.
 <br />
 
 <br />
