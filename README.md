@@ -2,7 +2,7 @@
 
 # Hi, I'm Kent! You can call me Khan :D
 ## Bachelor of Software Engineering
-> Concentration: Software Business Analysis and Human Relationships
+> Concentration: Software Business Analysis / Human Relationships
 <br>
 
 > Minor: Web Programming and Applications
