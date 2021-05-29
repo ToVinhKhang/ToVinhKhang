@@ -9,11 +9,12 @@
 
 <br />
 
-### About Me
+## About Me
 I have knowledge most of popular programing languages. I'm passionate about software business analysis. I've a knack for public speaking, demonstrated experience at management roles and have effective people skills and problem solving. I’m a perfectionist who ensures that every task is completed with utmost attention to detail.
 
 <br />
 
+## Hard Skills
 ### Technicals
 <img align="left" alt="NodeJS" width="35px" src="https://hoctapit.com/wp-content/uploads/2018/01/nodejs-logo-e1497443346889.png" />
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
@@ -43,7 +44,7 @@ I have knowledge most of popular programing languages. I'm passionate about soft
 
 <br />
 
-### Skills
+## Soft Skills
 • Socials: Leadership, Communication and Teamwork.
 <br />
 • Spoken Languages: Vietnamese, English, Cantonese and Korean.
