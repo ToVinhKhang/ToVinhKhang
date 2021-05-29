@@ -46,8 +46,6 @@ I have knowledge most of popular programing languages. I'm passionate about soft
 ### Skills
 • Socials: Leadership, Communication and Teamwork.
 <br />
-• Design & Analytical: URD, UseCases, Diagrams, SRS, SWOT, Sketch, Wireframe-Mockup and Prototype.
-<br />
 • Spoken Languages: Vietnamese, English, Cantonese and Korean.
 <br />
 
