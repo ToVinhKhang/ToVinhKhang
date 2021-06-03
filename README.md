@@ -36,9 +36,12 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 <img align="left" alt="StartUML" width="35px" src="https://staruml.io/image/staruml_logo.png" />
 <img align="left" alt="Matlab" width="35px" src="https://tsgdoc.socsci.ru.nl/images/2/21/Matlab_Logo.png" />
 <img align="left" alt="Anaconda" width="35px" src="https://nektony.com/wp-content/uploads/2018/05/where-is-anaconda-located.png" />
-<img align="left" alt="PowerDesigner" width="35px" src="https://thichvn.com/wp-content/uploads/2017/11/PowerDesigner-logo.png" />
 
 <br />
+
+### Clouds
+<img align="left" alt="Heroku" width="40px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/09/heroku.png" />
+<img align="left" alt="Netlify" width="40px" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" />
 
 <br />
 
