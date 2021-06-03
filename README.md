@@ -31,16 +31,16 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 <br />
 
 ### Tools
+<img align="left" alt="StartUML" width="35px" src="https://staruml.io/image/staruml_logo.png" />
+<img align="left" alt="Anaconda" width="35px" src="https://nektony.com/wp-content/uploads/2018/05/where-is-anaconda-located.png" />
 <img align="left" alt="Canva" width="60px" src="https://1000logos.net/wp-content/uploads/2020/02/Canva-logo.png" />
 <img align="left" alt="AdobeXD" width="39px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
-<img align="left" alt="StartUML" width="35px" src="https://staruml.io/image/staruml_logo.png" />
 <img align="left" alt="Matlab" width="35px" src="https://tsgdoc.socsci.ru.nl/images/2/21/Matlab_Logo.png" />
-<img align="left" alt="Anaconda" width="35px" src="https://nektony.com/wp-content/uploads/2018/05/where-is-anaconda-located.png" />
 
 <br />
 
 ### Clouds
-<img align="left" alt="Heroku" width="40px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/09/heroku.png" />
+<img align="left" alt="Heroku" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
 <img align="left" alt="Netlify" width="40px" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" />
 
 <br />
