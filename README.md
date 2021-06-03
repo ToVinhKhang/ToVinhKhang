@@ -9,14 +9,15 @@
 
 <br />
 
-## About Me
+## ABOUT ME
 I have knowledge of most of the popular programming languages. I'm passionate about business systems analysis. I have a knack for public speaking, demonstrated experience in management roles, and have effective people skills and problem-solving. I’m a perfectionist who ensures that every task is completed with utmost attention to detail.
 
 <br />
 
-## Hard Skills
+## KNOWLEDGES
 ### Technicals
 <img align="left" alt="NodeJS" width="35px" src="https://hoctapit.com/wp-content/uploads/2018/01/nodejs-logo-e1497443346889.png" />
+<img align="left" alt="ExpressJS" width="35px" src="https://merdi-akelax.github.io/images/techno-js.png" />
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="MongoDB" width="35px" src="https://img.icons8.com/color/452/mongodb.png" />
 <img align="left" alt="C" width="35px" src="https://www.techbaz.org/Course/img/c-logo.png" />
@@ -31,17 +32,20 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 <br />
 
 ### Tools
-<img align="left" alt="StartUML" width="35px" src="https://staruml.io/image/staruml_logo.png" />
+<img align="left" alt="StarUML" width="35px" src="https://staruml.io/image/staruml_logo.png" />
 <img align="left" alt="Anaconda" width="35px" src="https://nektony.com/wp-content/uploads/2018/05/where-is-anaconda-located.png" />
 <img align="left" alt="Canva" width="60px" src="https://1000logos.net/wp-content/uploads/2020/02/Canva-logo.png" />
 <img align="left" alt="AdobeXD" width="39px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
 <img align="left" alt="Matlab" width="35px" src="https://tsgdoc.socsci.ru.nl/images/2/21/Matlab_Logo.png" />
+<img align="left" alt="Word" width="39px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
+<img align="left" alt="Excel" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" />
+<img align="left" alt="Ppt" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2086px-Microsoft_PowerPoint_2013-2019_logo.svg.png" />
 
 <br />
 
 <br />
 
-### Clouds
+### Hosting
 <img align="left" alt="Netlify" width="40px" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" />
 <img align="left" alt="Heroku" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
 
@@ -51,7 +55,7 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 
 <br />
 
-## Soft Skills
+## SOFT SKILLS
 • Socials: Leadership, Communication and Teamwork.
 <br />
 • Spoken Languages: Vietnamese, English, Cantonese and Korean.
@@ -59,7 +63,7 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 
 <br />
 
-## Contact
+## CONTACTS
 [<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
 [<img align="left" alt="Instagram" width="40px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />][instagram]
 [<img align="left" alt="Google" width="40px" src="https://icons-for-free.com/iconfiles/png/512/google-1320568243143037383.png" />][google]
