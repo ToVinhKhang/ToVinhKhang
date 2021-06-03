@@ -39,9 +39,13 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 
 <br />
 
+<br />
+
 ### Clouds
 <img align="left" alt="Netlify" width="40px" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" />
 <img align="left" alt="Heroku" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
+
+<br />
 
 <br />
 
