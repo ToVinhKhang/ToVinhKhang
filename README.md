@@ -42,14 +42,16 @@ Pitch Writing, Priority Worksheet, Sitemap, TaskFlow, Wireframing, UAT.
 <br />
 
 ### ======[Web Programming and Application]======
-#### • Techinicals
+#### • Technicals
+<img align="left" alt="Html" width="35px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
+<img align="left" alt="Css" width="35px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" />
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="Flask" width="35px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
-<img align="left" alt="Bootstrap" width="35px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
 <img align="left" alt="PHP" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1024px-Webysther_20160423_-_Elephpant.svg.png" />
 <img align="left" alt="NodeJS" width="35px" src="https://hoctapit.com/wp-content/uploads/2018/01/nodejs-logo-e1497443346889.png" />
 <img align="left" alt="Pug" width="45px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />
 <img align="left" alt="GIT" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+<img align="left" alt="Bootstrap" width="35px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
 
 <br />
 
