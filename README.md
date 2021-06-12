@@ -23,7 +23,7 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 <img align="left" alt="NodeJS" width="35px" src="https://hoctapit.com/wp-content/uploads/2018/01/nodejs-logo-e1497443346889.png" />
 <img align="left" alt="ExpressJS" width="35px" src="https://merdi-akelax.github.io/images/techno-js.png" />
 <img align="left" alt="GIT" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img align="left" alt="Pug" width="35px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />
+<img align="left" alt="Pug" width="45px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />
 
 <br />
 
