@@ -16,7 +16,7 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 
 ## KNOWLEDGES
 ### Business Analysis
-<img align="left" alt="BRSvsSRS" width="70px" src="https://static.javatpoint.com/tutorial/software-testing/images/brs-vs-srs2.png" />
+<img align="left" alt="BRSvsSRS" width="120px" src="https://static.javatpoint.com/tutorial/software-testing/images/brs-vs-srs2.png" />
 
 <br />
 
