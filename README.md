@@ -62,8 +62,7 @@ Pitch Writing, Priority Worksheet, Sitemap, TaskFlow, Wireframing, UAT.
 
 <br />
 
-### =========================================
-## SOFT SKILLS
+### ===============[Soft Skills]===============
 • Problem Solving, Presentation, Leadership, Communication, Work Ethic and Teamwork.
 <br />
 • Spoken Languages: Vietnamese, English, Cantonese and Korean.
