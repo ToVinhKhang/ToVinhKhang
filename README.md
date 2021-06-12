@@ -16,36 +16,39 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 
 ## MAIN KNOWLEDGES
 ### Business Analysis
-<img align="left" alt="BRSvsSRS" width="120px" src="https://static.javatpoint.com/tutorial/software-testing/images/brs-vs-srs2.png" />
-
++ SRS/BRS Document (Use Case  Diagrams, ERD, Activity Diagrams, State Diagrams, Class Diagrams).
 <br />
 
++ UI Document (Pitch Writing, Priority Worksheet, Sitemap, TaskFlow, Wireframing, UAT).
 <br />
 
-### Programming Languages
-<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
-<img align="left" alt="Flask" width="35px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
-<img align="left" alt="PHP" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1024px-Webysther_20160423_-_Elephpant.svg.png" />
-<img align="left" alt="NodeJS" width="35px" src="https://hoctapit.com/wp-content/uploads/2018/01/nodejs-logo-e1497443346889.png" />
-<img align="left" alt="Pug" width="45px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />
-
-<br />
-
-<br />
-
-### Tools
++ Tools
 <img align="left" alt="StarUML" width="35px" src="https://staruml.io/image/staruml_logo.png" />
 <img align="left" alt="Word" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
 <img align="left" alt="Excel" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" />
 <img align="left" alt="Ppt" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2086px-Microsoft_PowerPoint_2013-2019_logo.svg.png" />
-<img align="left" alt="Anaconda" width="35px" src="https://nektony.com/wp-content/uploads/2018/05/where-is-anaconda-located.png" />
+
+<br />
+
+### Web Programming and Application
++ Techinicals
+<br />
+
+<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
+<img align="left" alt="Flask" width="35px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
+<img align="left" alt="Bootstrap" width="35px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
+<img align="left" alt="PHP" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1024px-Webysther_20160423_-_Elephpant.svg.png" />
+<img align="left" alt="NodeJS" width="35px" src="https://hoctapit.com/wp-content/uploads/2018/01/nodejs-logo-e1497443346889.png" />
+<img align="left" alt="Pug" width="45px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />
 <img align="left" alt="GIT" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 
 <br />
 
 <br />
 
-### Hosting
++ Hosting
+<br />
+
 <img align="left" alt="Netlify" width="40px" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" />
 <img align="left" alt="Heroku" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
 
