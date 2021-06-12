@@ -38,6 +38,8 @@ Pitch Writing, Priority Worksheet, Sitemap, TaskFlow, Wireframing, UAT.
 
 <br />
 
+<br />
+
 ### ======[Web Programming and Application]======
 #### • Techinicals
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
