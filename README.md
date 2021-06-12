@@ -14,7 +14,7 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 
 <br />
 
-## KNOWLEDGES
+## MAIN KNOWLEDGES
 ### Business Analysis
 <img align="left" alt="BRSvsSRS" width="120px" src="https://static.javatpoint.com/tutorial/software-testing/images/brs-vs-srs2.png" />
 
@@ -26,7 +26,6 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="Flask" width="35px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
 <img align="left" alt="PHP" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1024px-Webysther_20160423_-_Elephpant.svg.png" />
-<img align="left" alt="C" width="35px" src="https://www.techbaz.org/Course/img/c-logo.png" />
 <img align="left" alt="NodeJS" width="35px" src="https://hoctapit.com/wp-content/uploads/2018/01/nodejs-logo-e1497443346889.png" />
 <img align="left" alt="Pug" width="45px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />
 
@@ -41,7 +40,6 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 <img align="left" alt="Ppt" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2086px-Microsoft_PowerPoint_2013-2019_logo.svg.png" />
 <img align="left" alt="Anaconda" width="35px" src="https://nektony.com/wp-content/uploads/2018/05/where-is-anaconda-located.png" />
 <img align="left" alt="GIT" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img align="left" alt="Canva" width="60px" src="https://1000logos.net/wp-content/uploads/2020/02/Canva-logo.png" />
 
 <br />
 
