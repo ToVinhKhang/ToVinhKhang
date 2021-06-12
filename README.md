@@ -22,8 +22,8 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 <img align="left" alt="C" width="35px" src="https://www.techbaz.org/Course/img/c-logo.png" />
 <img align="left" alt="NodeJS" width="35px" src="https://hoctapit.com/wp-content/uploads/2018/01/nodejs-logo-e1497443346889.png" />
 <img align="left" alt="ExpressJS" width="35px" src="https://merdi-akelax.github.io/images/techno-js.png" />
-<img align="left" alt="Pug" width="50px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="GIT" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+<img align="left" alt="Pug" width="60px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" />
 
 <br />
 
