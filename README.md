@@ -15,14 +15,13 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 <br />
 
 ## KNOWLEDGES
-### Technicals
+### Programming Languages
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
+<img align="left" alt="Flask" width="35px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
+<img align="left" alt="PHP" width="60px" src="https://pngimg.com/uploads/php/php_PNG43.png" />
 <img align="left" alt="C" width="35px" src="https://www.techbaz.org/Course/img/c-logo.png" />
-<img align="left" alt="PHP" width="45px" src="https://pngimg.com/uploads/php/php_PNG43.png" />
-<img align="left" alt="MySQL" width="40px" src="https://portal.cloudclusters.io/media/product_logo/MySQL.png" />
 <img align="left" alt="NodeJS" width="35px" src="https://hoctapit.com/wp-content/uploads/2018/01/nodejs-logo-e1497443346889.png" />
 <img align="left" alt="ExpressJS" width="35px" src="https://merdi-akelax.github.io/images/techno-js.png" />
-<img align="left" alt="MongoDB" width="35px" src="https://img.icons8.com/color/452/mongodb.png" />
 <img align="left" alt="Pug" width="45px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="GIT" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 
@@ -35,8 +34,8 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 <img align="left" alt="Word" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
 <img align="left" alt="Excel" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" />
 <img align="left" alt="Ppt" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2086px-Microsoft_PowerPoint_2013-2019_logo.svg.png" />
-<img align="left" alt="Anaconda" width="35px" src="https://nektony.com/wp-content/uploads/2018/05/where-is-anaconda-located.png" />
 <img align="left" alt="Canva" width="60px" src="https://1000logos.net/wp-content/uploads/2020/02/Canva-logo.png" />
+<img align="left" alt="Anaconda" width="35px" src="https://nektony.com/wp-content/uploads/2018/05/where-is-anaconda-located.png" />
 <img align="left" alt="Matlab" width="35px" src="https://tsgdoc.socsci.ru.nl/images/2/21/Matlab_Logo.png" />
 
 <br />
