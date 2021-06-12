@@ -15,7 +15,7 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 <br />
 
 ## MAIN KNOWLEDGES
-### ============[Business Analysis]=============
+### ============[Business Analysis]============
 #### • SRS/BRS Document
 `
 Use Case Diagrams, ERD, Activity Diagrams, State Diagrams, Class Diagrams.
@@ -52,7 +52,7 @@ Pitch Writing, Priority Worksheet, Sitemap, TaskFlow, Wireframing, UAT.
 <br />
 
 <br />
-
+### =============================================
 #### • Cloud Hosting
 <img align="left" alt="Netlify" width="40px" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" />
 <img align="left" alt="Heroku" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
