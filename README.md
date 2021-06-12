@@ -16,15 +16,15 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 
 ## MAIN KNOWLEDGES
 ### Business Analysis
-#### SRS/BRS Document
+#### + SRS/BRS Document
 Use Case Diagrams, ERD, Activity Diagrams, State Diagrams, Class Diagrams.
 <br />
 
-#### UI Document
+#### + UI Document
 Pitch Writing, Priority Worksheet, Sitemap, TaskFlow, Wireframing, UAT.
 <br />
 
-#### Tools
+#### + Tools
 <img align="left" alt="StarUML" width="35px" src="https://staruml.io/image/staruml_logo.png" />
 <img align="left" alt="Word" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
 <img align="left" alt="Excel" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" />
@@ -35,7 +35,7 @@ Pitch Writing, Priority Worksheet, Sitemap, TaskFlow, Wireframing, UAT.
 <br />
 
 ### Web Programming and Application
-#### Techinicals
+#### + Techinicals
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="Flask" width="35px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
 <img align="left" alt="Bootstrap" width="35px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
@@ -48,7 +48,7 @@ Pitch Writing, Priority Worksheet, Sitemap, TaskFlow, Wireframing, UAT.
 
 <br />
 
-#### Hosting
+#### + Cloud Hosting
 <img align="left" alt="Netlify" width="40px" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" />
 <img align="left" alt="Heroku" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
 
