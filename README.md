@@ -32,9 +32,9 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 <img align="left" alt="Word" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
 <img align="left" alt="Excel" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" />
 <img align="left" alt="Ppt" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2086px-Microsoft_PowerPoint_2013-2019_logo.svg.png" />
-<img align="left" alt="Canva" width="60px" src="https://1000logos.net/wp-content/uploads/2020/02/Canva-logo.png" />
 <img align="left" alt="Anaconda" width="35px" src="https://nektony.com/wp-content/uploads/2018/05/where-is-anaconda-located.png" />
 <img align="left" alt="GIT" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+<img align="left" alt="Canva" width="60px" src="https://1000logos.net/wp-content/uploads/2020/02/Canva-logo.png" />
 
 <br />
 
