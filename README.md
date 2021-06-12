@@ -52,7 +52,6 @@ Pitch Writing, Priority Worksheet, Sitemap, TaskFlow, Wireframing, UAT.
 
 <br />
 
-### =============================================
 #### • Cloud Hosting
 <img align="left" alt="Netlify" width="40px" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" />
 <img align="left" alt="Heroku" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
@@ -63,6 +62,7 @@ Pitch Writing, Priority Worksheet, Sitemap, TaskFlow, Wireframing, UAT.
 
 <br />
 
+### =========================================
 ## SOFT SKILLS
 • Problem Solving, Presentation, Leadership, Communication, Work Ethic and Teamwork.
 <br />
