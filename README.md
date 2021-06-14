@@ -28,6 +28,12 @@ Pitch Writing, Priority Worksheet, Sitemap, TaskFlow, Wireframing, UAT.
 `
 <br />
 
+#### • Testing Document
+`
+Q & A, TestPlan, TestDesign, TestCase, TestReport, DefectList, Review CheckList.
+`
+<br />
+
 #### • Tools
 <img align="left" alt="StarUML" width="35px" src="https://staruml.io/image/staruml_logo.png" />
 <img align="left" alt="Word" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
