@@ -1,4 +1,4 @@
-<img width="220" height="220" src="https://scontent.fhan14-1.fna.fbcdn.net/v/t1.6435-9/162516350_1811085182403472_6857034457156540236_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=9rPnN6DtoK8AX-VnZOa&_nc_ht=scontent.fhan14-1.fna&oh=3c21b1dbd6e0d33c83c7824f8796f0b5&oe=60CBE8FF" align="right" />
+<img width="220" height="220" src="https://scontent.fpnh22-1.fna.fbcdn.net/v/t1.6435-9/162516350_1811085182403472_6857034457156540236_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=kkRVdQESZDYAX_-_jRS&_nc_ht=scontent.fpnh22-1.fna&oh=985ea42394b28b2975e100569b05a4ca&oe=60D1D7BF" align="right" />
 
 # Hi, You can call me Khann :D
 ## BACHELOR OF SOFTWARE ENGINEERING
@@ -74,7 +74,9 @@ Q & A, TestPlan, TestDesign, TestCase, TestReport, DefectList, Review CheckList.
 <br />
 
 ### ==============[Soft Skills]===============
-• Problem Solving, Presentation, Leadership, Communication, Work Ethic and Teamwork.
+• Attitude: Self-Motivated, Responsible, Detail-Oriented, Work Ethic.
+<br />
+• Socials: Problem Solving, Presentation, Leadership, Communication,Teamwork.
 <br />
 • Spoken Languages: Vietnamese, English, Cantonese and Korean.
 <br />
