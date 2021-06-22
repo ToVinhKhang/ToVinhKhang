@@ -99,6 +99,6 @@ Q & A, TestPlan, TestDesign, TestCase, TestReport, DefectList, Review CheckList.
 [facebook]: https://www.facebook.com/VinceKent1996/
 [instagram]: https://www.instagram.com/vkent_/
 [google]: https://sites.google.com/view/vkent/
-[linkedin]: https://www.linkedin.com/in/kent-khang-821662212/
+[linkedin]: https://www.linkedin.com/in/t%C3%B4-v%C4%A9nh-khang-821662212/
 
 
