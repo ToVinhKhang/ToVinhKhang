@@ -1,4 +1,4 @@
-<img width="220" height="220" src="https://scontent.fpnh22-1.fna.fbcdn.net/v/t1.6435-9/162516350_1811085182403472_6857034457156540236_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=kkRVdQESZDYAX_-_jRS&_nc_ht=scontent.fpnh22-1.fna&oh=985ea42394b28b2975e100569b05a4ca&oe=60D1D7BF" align="right" />
+<img width="220" height="220" src="https://tovinhkhang.netlify.app/images/skills.jpg" align="right" />
 
 # Hi, You can call me Khann :D
 ## BACHELOR OF SOFTWARE ENGINEERING
