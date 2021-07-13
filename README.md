@@ -15,25 +15,10 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 <br />
 
 ## MAIN KNOWLEDGES
-### ========[Business Systems Analysis]==========
+### Business Systems Analysis
 #### • SRS/BRS Document
-``
-Use Case Diagrams, ERD, Activity Diagrams, State Diagrams, Class Diagrams.
-``
-<br />
-
 #### • UI Document
-`
-Pitch Writing, Priority Worksheet, Sitemap, TaskFlow, Wireframing, UAT.
-`
-<br />
-
 #### • Testing Document
-`
-Q & A, TestPlan, TestDesign, TestCase, TestReport, DefectList, Review CheckList.
-`
-<br />
-
 #### • Tools
 <img align="left" alt="StarUML" width="35px" src="https://staruml.io/image/staruml_logo.png" />
 <img align="left" alt="Word" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
@@ -47,7 +32,7 @@ Q & A, TestPlan, TestDesign, TestCase, TestReport, DefectList, Review CheckList.
 
 <br />
 
-### ======[Web Programming and Application]======
+### Web Programming and Application
 #### • Technicals
 <img align="left" alt="Html" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />
 <img align="left" alt="Css" width="33px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" />
@@ -73,7 +58,7 @@ Q & A, TestPlan, TestDesign, TestCase, TestReport, DefectList, Review CheckList.
 
 <br />
 
-### ==============[Soft Skills]===============
+## Soft Skills
 • Attitude: Self-Motivated, Responsible, Detail-Oriented, Work Ethic.
 <br />
 • Socials: Problem Solving, Presentation, Leadership, Communication,Teamwork.
