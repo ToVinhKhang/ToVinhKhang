@@ -36,12 +36,13 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 <img align="left" alt="Bootstrap" width="35px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="Flask" width="35px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
-<img align="left" alt="PHP" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1024px-Webysther_20160423_-_Elephpant.svg.png" />
-<img align="left" alt="NodeJS" width="33px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
-<img align="left" alt="Pug" width="45px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />
 <img align="left" alt="GIT" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img align="left" alt="Netlify" width="38px" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" />
-<img align="left" alt="Heroku" width="38px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
+<img align="left" alt="Netlify" width="37px" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" />
+<img align="left" alt="Heroku" width="37px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
+<img align="left" alt="PHP" width="35px" src="https://pngimg.com/uploads/php/php_PNG10.png" />
+<img align="left" alt="NodeJS" width="32px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" alt="Pug" width="45px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />
+
 
 <br />
 
