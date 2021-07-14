@@ -10,12 +10,12 @@
 
 <br />
 
-## ABOUT ME
+# ABOUT ME
 I have knowledge of most of the popular programming languages. I'm passionate about business systems analysis. I have a knack for public speaking, demonstrated experience in management roles, and have effective people skills and problem-solving. I’m a perfectionist who ensures that every task is completed with utmost attention to detail.
 
 <br />
 
-## MAIN KNOWLEDGES
+# MAIN KNOWLEDGES
 ### Business Systems Analysis
 #### • Documents: SRS/BRS, TESTING, UID.
 #### • Tools:
