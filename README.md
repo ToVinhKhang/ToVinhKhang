@@ -24,16 +24,6 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 
 <br />
 
-<br />
-
-`
-BRS, SRS, TESTING, UID Documents
-`
-
-<br />
-
-<br />
-
 ### Web Programming and Application
 <img align="left" alt="Html" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />
 <img align="left" alt="Css" width="33px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" />
