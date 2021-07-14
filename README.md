@@ -1,7 +1,7 @@
 <img width="220" height="220" src="https://tovinhkhang.netlify.app/images/skills.jpg" align="right" />
 
-# Hi, You can call me Khann :D
-## BACHELOR OF SOFTWARE ENGINEERING
+# Hi, You can call me Khan :D
+## BSOFTWARE ENGINEERING
 > Concentration: Business Systems Analysis
 <br>
 
