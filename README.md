@@ -17,12 +17,14 @@ I have knowledge of most of the popular programming languages. I'm passionate ab
 
 # MAIN KNOWLEDGES
 ### Business Systems Analysis
-####  - Documents: BRS, SRS, TESTING, UID.
-####  - Tools:
 <img align="left" alt="StarUML" width="35px" src="https://staruml.io/image/staruml_logo.png" />
 <img align="left" alt="Word" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
 <img align="left" alt="Excel" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" />
 <img align="left" alt="Ppt" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2086px-Microsoft_PowerPoint_2013-2019_logo.svg.png" />
+
+`
+BRS, SRS, TESTING, UID Documents
+`
 
 <br />
 
