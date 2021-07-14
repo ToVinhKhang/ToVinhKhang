@@ -1,7 +1,8 @@
 <img width="220" height="220" src="https://tovinhkhang.netlify.app/images/skills.jpg" align="right" />
 
-# Hi, You can call me Khan :D
-### SOFTWARE ENGINEERING
+# SOFTWARE ENGINEERING
+<br>
+
 > Concentration: Business Systems Analysis
 <br>
 
