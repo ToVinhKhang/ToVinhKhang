@@ -11,7 +11,7 @@
 <br />
 
 # ABOUT ME
-I have knowledge of the most popular programming languages and the skill to build a system model intuitive overview. I am passionate about business systems analysis as a Business Analyst. Besides, I also have the ability to design sketches, interfaces in the role of Frontend or UI Designer. I have a knack for public speaking, have demonstrated experience in a management role, and have effective people and problem-solving skills. As a perfectionist who ensures that every task is completed with the utmost attention to detail.
+I have knowledge of the most popular programming languages and the skill to build a system model intuitive overview. I am passionate about business systems analysis as a Business Analyst. Besides, I also have the ability to design sketches, user interfaces in the role of UI Developer. I have a knack for public speaking, have demonstrated experience in a management role, and have effective people and problem-solving skills. As a perfectionist who ensures that every task is completed with the utmost attention to detail.
 
 <br />
 
