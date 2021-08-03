@@ -17,12 +17,12 @@ I have knowledge of the most popular programming languages and the skill to buil
 
 # MAIN KNOWLEDGES
 ### Business Systems Analysis
-<img align="left" alt="StarUML" width="35px" src="https://image.flaticon.com/icons/png/512/564/564199.png" />
-<img align="left" alt="StarUML" width="35px" src="https://icon-library.com/images/modeling-icon/modeling-icon-20.jpg" />
-<img align="left" alt="StarUML" width="35px" src="https://1xqdqy285sk7212bfiejcprr-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/crm_icon_modul.png" />
+<img align="left" alt="StarUML" width="35px" src="https://mk0loadviewlq8bvma1l.kinstacdn.com/wp-content/uploads/LoadView-Icon-step-curve.png" />
+<img align="left" alt="StarUML" width="35px" src="https://i.dlpng.com/static/png/6996307_preview.png" />
+<img align="left" alt="StarUML" width="35px" src="https://agileea.com/wp-content/uploads/2018/04/Use-Cases.png" />
 <img align="left" alt="StarUML" width="35px" src="https://icon-library.com/images/erp-system-icon/erp-system-icon-9.jpg" />
 <img align="left" alt="StarUML" width="35px" src="https://cdn0.iconfinder.com/data/icons/project-management-aqua-vol-2/500/Waterfall-512.png" />
-<img align="left" alt="StarUML" width="35px" src="https://thecrmteam.com/wp-content/uploads/2020/09/agile-icon-01.png" />
+<img align="left" alt="StarUML" width="35px" src="https://www.toolsqa.com/wp-content/uploads/2019/05/Agile-Logo.png" />
 <img align="left" alt="StarUML" width="35px" src="https://image.flaticon.com/icons/png/512/1484/1484822.png" />
 <img align="left" alt="StarUML" width="35px" src="https://www.shareicon.net/data/512x512/2016/09/09/827525_browser_512x512.png" />
 <img align="left" alt="StarUML" width="35px" src="https://lh3.googleusercontent.com/s5DCYTUbkC31lPP5HC_np5Kr2i8vQUZTkW8hOLw4AZv2TSjYJT9q3I7rgbRkHXI4mA" />
