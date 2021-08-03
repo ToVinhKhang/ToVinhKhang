@@ -20,15 +20,15 @@ I have knowledge of the most popular programming languages and the skill to buil
 <img align="left" alt="ERP" width="35px" src="https://img2.apksum.com/68/com.itech.erpapp/2.1/icon.png" />
 <img align="left" alt="CRM" width="35px" src="https://icon-library.com/images/crm-icon-png/crm-icon-png-6.jpg" />
 <img align="left" alt="Waterfall" width="36px" src="https://cdn0.iconfinder.com/data/icons/project-management-aqua-vol-2/500/Waterfall-512.png" />
-<img align="left" alt="Agile" width="38px" src="https://thecrmteam.com/wp-content/uploads/2020/09/agile-icon-01.png" />
+<img align="left" alt="Agile" width="40px" src="https://thecrmteam.com/wp-content/uploads/2020/09/agile-icon-01.png" />
 <img align="left" alt="Q&A" width="35px" src="https://mdpiblog.wordpress.sciforum.net/wp-content/uploads/sites/4/2015/11/QA_icon_round_final_03.11.2015.png" />
 <img align="left" alt="Planning" width="35px" src="https://image.flaticon.com/icons/png/512/1205/1205526.png" />
-<img align="left" alt="SWOT" width="34px" src="https://image.flaticon.com/icons/png/512/3997/3997551.png" />
+<img align="left" alt="SWOT" width="33px" src="https://image.flaticon.com/icons/png/512/3997/3997551.png" />
 <img align="left" alt="GraphChart" width="35px" src="https://mk0loadviewlq8bvma1l.kinstacdn.com/wp-content/uploads/LoadView-Icon-step-curve.png" />
 <img align="left" alt="DiagramS" width="35px" src="https://icon-library.com/images/network-flat-icon/network-flat-icon-4.jpg" />
-<img align="left" alt="Mockup" width="35px" src="https://www.hisarfever.com/wp-content/themes/hisarfever/assets/images/graphics-designing.png" />
+<img align="left" alt="Mockup" width="37px" src="https://www.hisarfever.com/wp-content/themes/hisarfever/assets/images/graphics-designing.png" />
 <img align="left" alt="Testing" width="35px" src="https://freepngimg.com/thumb/analysis/1-2-analysis-download-png.png" />
-<img align="left" alt="UAT" width="35px" src="https://icon-library.com/images/icon-testing/icon-testing-22.jpg" />
+<img align="left" alt="UAT" width="36px" src="https://icon-library.com/images/icon-testing/icon-testing-22.jpg" />
 
 <br />
 
