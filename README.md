@@ -19,19 +19,16 @@ I have knowledge of the most popular programming languages and the skill to buil
 ### Business Systems Analysis
 <img align="left" alt="StarUML" width="35px" src="https://mk0loadviewlq8bvma1l.kinstacdn.com/wp-content/uploads/LoadView-Icon-step-curve.png" />
 <img align="left" alt="StarUML" width="35px" src="https://cdn2.iconfinder.com/data/icons/computer-hardware-pack/128/ENTITY-RELATIONSHIP-DIAGRAM-512.png" />
-<img align="left" alt="StarUML" width="35px" src="https://icon-library.com/images/erp-system-icon/erp-system-icon-9.jpg" />
+<img align="left" alt="StarUML" width="35px" src="https://e7.pngegg.com/pngimages/714/635/png-clipart-logo-internet-brand-organization-graphics-crm-icon-blue-text-thumbnail.png" />
+<img align="left" alt="StarUML" width="35px" src="https://img2.apksum.com/68/com.itech.erpapp/2.1/icon.png" />
 <img align="left" alt="StarUML" width="35px" src="https://cdn0.iconfinder.com/data/icons/project-management-aqua-vol-2/500/Waterfall-512.png" />
-<img align="left" alt="StarUML" width="35px" src="https://3.bp.blogspot.com/-FOOYODEjs_w/WpPCD8m-PLI/AAAAAAAAF3U/lz8l14fALA8XUq5rL-bULwQHr5LDkOC2wCLcBGAs/s1600/agile-scrum-foundations-training.png" />
+<img align="left" alt="StarUML" width="35px" src="https://thecrmteam.com/wp-content/uploads/2020/09/agile-icon-01.png" />
 <img align="left" alt="StarUML" width="35px" src="https://image.flaticon.com/icons/png/512/1484/1484822.png" />
 <img align="left" alt="StarUML" width="35px" src="https://www.shareicon.net/data/512x512/2016/09/09/827525_browser_512x512.png" />
 <img align="left" alt="StarUML" width="35px" src="https://lh3.googleusercontent.com/s5DCYTUbkC31lPP5HC_np5Kr2i8vQUZTkW8hOLw4AZv2TSjYJT9q3I7rgbRkHXI4mA" />
 <img align="left" alt="StarUML" width="35px" src="https://image.flaticon.com/icons/png/512/1039/1039328.png" />
 <img align="left" alt="StarUML" width="35px" src="https://innovationm.com/images/concept-ux-design-icon-theme.png" />
 
-<img align="left" alt="StarUML" width="35px" src="https://staruml.io/image/staruml_logo.png" />
-<img align="left" alt="Word" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
-<img align="left" alt="Excel" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" />
-<img align="left" alt="Ppt" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2086px-Microsoft_PowerPoint_2013-2019_logo.svg.png" />
 
 <br />
 
@@ -39,6 +36,7 @@ I have knowledge of the most popular programming languages and the skill to buil
 <img align="left" alt="Html" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />
 <img align="left" alt="Css" width="33px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" />
 <img align="left" alt="JS" width="33px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
+<img align="left" alt="JQuery" width="33px" src="https://1.bp.blogspot.com/-P08TU96yQsU/VrB0Vcqq88I/AAAAAAAADSU/muRglwvmY5g/s1600/jquery-icon.png" />
 <img align="left" alt="Bootstrap" width="35px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
 <img align="left" alt="NodeJS" width="30px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
