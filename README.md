@@ -17,6 +17,17 @@ I have knowledge of the most popular programming languages and the skill to buil
 
 # MAIN KNOWLEDGES
 ### Business Systems Analysis
+<img align="left" alt="StarUML" width="35px" src="https://image.flaticon.com/icons/png/512/564/564199.png" />
+<img align="left" alt="StarUML" width="35px" src="https://icon-library.com/images/modeling-icon/modeling-icon-20.jpg" />
+<img align="left" alt="StarUML" width="35px" src="https://1xqdqy285sk7212bfiejcprr-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/crm_icon_modul.png" />
+<img align="left" alt="StarUML" width="35px" src="https://icon-library.com/images/erp-system-icon/erp-system-icon-9.jpg" />
+<img align="left" alt="StarUML" width="35px" src="https://cdn0.iconfinder.com/data/icons/project-management-aqua-vol-2/500/Waterfall-512.png" />
+<img align="left" alt="StarUML" width="35px" src="https://thecrmteam.com/wp-content/uploads/2020/09/agile-icon-01.png" />
+<img align="left" alt="StarUML" width="35px" src="https://image.flaticon.com/icons/png/512/1484/1484822.png" />
+<img align="left" alt="StarUML" width="35px" src="https://www.shareicon.net/data/512x512/2016/09/09/827525_browser_512x512.png" />
+<img align="left" alt="StarUML" width="35px" src="https://lh3.googleusercontent.com/s5DCYTUbkC31lPP5HC_np5Kr2i8vQUZTkW8hOLw4AZv2TSjYJT9q3I7rgbRkHXI4mA" />
+<img align="left" alt="StarUML" width="35px" src="https://image.flaticon.com/icons/png/512/1039/1039328.png" />
+
 <img align="left" alt="StarUML" width="35px" src="https://staruml.io/image/staruml_logo.png" />
 <img align="left" alt="Word" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
 <img align="left" alt="Excel" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" />
