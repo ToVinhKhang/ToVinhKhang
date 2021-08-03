@@ -23,10 +23,8 @@ I have knowledge of the most popular programming languages and the skill to buil
 <img align="left" alt="StarUML" width="35px" src="https://thecrmteam.com/wp-content/uploads/2020/09/agile-icon-01.png" />
 <img align="left" alt="StarUML" width="35px" src="https://mk0loadviewlq8bvma1l.kinstacdn.com/wp-content/uploads/LoadView-Icon-step-curve.png" />
 <img align="left" alt="StarUML" width="35px" src="https://cdn2.iconfinder.com/data/icons/computer-hardware-pack/128/ENTITY-RELATIONSHIP-DIAGRAM-512.png" />
-<img align="left" alt="StarUML" width="35px" src="https://media.schoolsites.ca/uploads/537/2274755.png" />
-<img align="left" alt="StarUML" width="35px" src="https://www.shareicon.net/data/512x512/2016/09/09/827525_browser_512x512.png" />
 <img align="left" alt="StarUML" width="35px" src="https://image.flaticon.com/icons/png/512/3997/3997551.png" />
-<img align="left" alt="StarUML" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ia1FcNchyGHSOwLYpPxftNkd20uFl-Fhh4rel1-vepqz1648hQbCPF9bJCl7CHu1SaI&usqp=CAU" />
+<img align="left" alt="StarUML" width="35px" src="https://image.flaticon.com/icons/png/512/1205/1205526.png" />
 <img align="left" alt="StarUML" width="35px" src="https://mdpiblog.wordpress.sciforum.net/wp-content/uploads/sites/4/2015/11/QA_icon_round_final_03.11.2015.png" />
 
 
