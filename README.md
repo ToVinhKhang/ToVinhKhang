@@ -19,7 +19,7 @@ I have knowledge of the most popular programming languages and the skill to buil
 ### Business Systems Analysis
 <img align="left" alt="StarUML" width="35px" src="https://mk0loadviewlq8bvma1l.kinstacdn.com/wp-content/uploads/LoadView-Icon-step-curve.png" />
 <img align="left" alt="StarUML" width="35px" src="https://cdn2.iconfinder.com/data/icons/computer-hardware-pack/128/ENTITY-RELATIONSHIP-DIAGRAM-512.png" />
-<img align="left" alt="StarUML" width="35px" src="https://e7.pngegg.com/pngimages/714/635/png-clipart-logo-internet-brand-organization-graphics-crm-icon-blue-text-thumbnail.png" />
+<img align="left" alt="StarUML" width="35px" src="https://e7.pngegg.com/pngimages/867/367/png-clipart-sales-customer-relationship-management-big-data-crm-icon-text-logo.png" />
 <img align="left" alt="StarUML" width="35px" src="https://img2.apksum.com/68/com.itech.erpapp/2.1/icon.png" />
 <img align="left" alt="StarUML" width="35px" src="https://cdn0.iconfinder.com/data/icons/project-management-aqua-vol-2/500/Waterfall-512.png" />
 <img align="left" alt="StarUML" width="35px" src="https://thecrmteam.com/wp-content/uploads/2020/09/agile-icon-01.png" />
