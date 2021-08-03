@@ -22,7 +22,7 @@ I have knowledge of the most popular programming languages and the skill to buil
 <img align="left" alt="StarUML" width="35px" src="https://cdn0.iconfinder.com/data/icons/project-management-aqua-vol-2/500/Waterfall-512.png" />
 <img align="left" alt="StarUML" width="35px" src="https://thecrmteam.com/wp-content/uploads/2020/09/agile-icon-01.png" />
 <img align="left" alt="StarUML" width="35px" src="https://mk0loadviewlq8bvma1l.kinstacdn.com/wp-content/uploads/LoadView-Icon-step-curve.png" />
-<img align="left" alt="StarUML" width="35px" src="https://cdn2.iconfinder.com/data/icons/computer-hardware-pack/128/ENTITY-RELATIONSHIP-DIAGRAM-512.png" />
+<img align="left" alt="StarUML" width="35px" src="https://icon-library.com/images/network-flat-icon/network-flat-icon-4.jpg" />
 <img align="left" alt="StarUML" width="35px" src="https://image.flaticon.com/icons/png/512/3997/3997551.png" />
 <img align="left" alt="StarUML" width="35px" src="https://image.flaticon.com/icons/png/512/1205/1205526.png" />
 <img align="left" alt="StarUML" width="35px" src="https://mdpiblog.wordpress.sciforum.net/wp-content/uploads/sites/4/2015/11/QA_icon_round_final_03.11.2015.png" />
@@ -31,7 +31,7 @@ I have knowledge of the most popular programming languages and the skill to buil
 <br />
 
 ### Web Programming and Application
-<img align="left" alt="Html" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />
+<img align="left" alt="Html" width="35px" src="https://icon-library.com/images/crm-icon-png/crm-icon-png-6.jpg" />
 <img align="left" alt="Css" width="33px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" />
 <img align="left" alt="JS" width="33px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
 <img align="left" alt="JQuery" width="33px" src="https://1.bp.blogspot.com/-P08TU96yQsU/VrB0Vcqq88I/AAAAAAAADSU/muRglwvmY5g/s1600/jquery-icon.png" />
