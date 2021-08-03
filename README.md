@@ -27,6 +27,7 @@ I have knowledge of the most popular programming languages and the skill to buil
 <img align="left" alt="StarUML" width="35px" src="https://www.shareicon.net/data/512x512/2016/09/09/827525_browser_512x512.png" />
 <img align="left" alt="StarUML" width="35px" src="https://lh3.googleusercontent.com/s5DCYTUbkC31lPP5HC_np5Kr2i8vQUZTkW8hOLw4AZv2TSjYJT9q3I7rgbRkHXI4mA" />
 <img align="left" alt="StarUML" width="35px" src="https://image.flaticon.com/icons/png/512/1039/1039328.png" />
+<img align="left" alt="StarUML" width="35px" src="https://innovationm.com/images/concept-ux-design-icon-theme.png" />
 
 <img align="left" alt="StarUML" width="35px" src="https://staruml.io/image/staruml_logo.png" />
 <img align="left" alt="Word" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
