@@ -17,12 +17,12 @@ I have knowledge of the most popular programming languages and the skill to buil
 
 # MAIN KNOWLEDGES
 ### Business Systems Analysis
-<img align="left" alt="StarUML" width="35px" src="https://mk0loadviewlq8bvma1l.kinstacdn.com/wp-content/uploads/LoadView-Icon-step-curve.png" />
-<img align="left" alt="StarUML" width="35px" src="https://cdn2.iconfinder.com/data/icons/computer-hardware-pack/128/ENTITY-RELATIONSHIP-DIAGRAM-512.png" />
-<img align="left" alt="StarUML" width="35px" src="http://www.intelliconsys.com/images/services/services3.png" />
+<img align="left" alt="StarUML" width="35px" src="https://cdn-images-1.medium.com/max/1600/0*uFabsFVlfSZZLn98.png" />
 <img align="left" alt="StarUML" width="35px" src="https://img2.apksum.com/68/com.itech.erpapp/2.1/icon.png" />
 <img align="left" alt="StarUML" width="35px" src="https://cdn0.iconfinder.com/data/icons/project-management-aqua-vol-2/500/Waterfall-512.png" />
 <img align="left" alt="StarUML" width="35px" src="https://thecrmteam.com/wp-content/uploads/2020/09/agile-icon-01.png" />
+<img align="left" alt="StarUML" width="35px" src="https://mk0loadviewlq8bvma1l.kinstacdn.com/wp-content/uploads/LoadView-Icon-step-curve.png" />
+<img align="left" alt="StarUML" width="35px" src="https://cdn2.iconfinder.com/data/icons/computer-hardware-pack/128/ENTITY-RELATIONSHIP-DIAGRAM-512.png" />
 <img align="left" alt="StarUML" width="35px" src="https://media.schoolsites.ca/uploads/537/2274755.png" />
 <img align="left" alt="StarUML" width="35px" src="https://www.shareicon.net/data/512x512/2016/09/09/827525_browser_512x512.png" />
 <img align="left" alt="StarUML" width="35px" src="https://lh3.googleusercontent.com/s5DCYTUbkC31lPP5HC_np5Kr2i8vQUZTkW8hOLw4AZv2TSjYJT9q3I7rgbRkHXI4mA" />
