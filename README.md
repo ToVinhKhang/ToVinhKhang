@@ -68,7 +68,6 @@ I have knowledge of the most popular programming languages and the skill to buil
 [<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
 [<img align="left" alt="Instagram" width="40px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />][instagram]
 [<img align="left" alt="Linkedin" width="40px" src="https://www.dtl.coventry.domains/wp-content/uploads/2020/07/LinkedIn-Logo-1024x1024.png" />][linkedin]
-[<img align="left" alt="Google" width="40px" src="https://icons-for-free.com/iconfiles/png/512/google-1320568243143037383.png" />][google]
 
 <br /><br /><br />
 ---
@@ -80,6 +79,6 @@ I have knowledge of the most popular programming languages and the skill to buil
 [facebook]: https://www.facebook.com/VinceKent1996/
 [instagram]: https://www.instagram.com/vkent_/
 [linkedin]: https://www.linkedin.com/in/t%C3%B4-v%C4%A9nh-khang-821662212/
-[google]: https://sites.google.com/view/vkent/
+
 
 
