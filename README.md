@@ -17,10 +17,9 @@ I have knowledge of the most popular programming languages and the skill to buil
 
 # MAIN KNOWLEDGES
 ### Business Systems Analysis
-<img align="left" alt="ERP" width="35px" src="https://img2.apksum.com/68/com.itech.erpapp/2.1/icon.png" />
-<img align="left" alt="CRM" width="35px" src="https://icon-library.com/images/crm-icon-png/crm-icon-png-6.jpg" />
-<img align="left" alt="Waterfall" width="36px" src="https://cdn0.iconfinder.com/data/icons/project-management-aqua-vol-2/500/Waterfall-512.png" />
-<img align="left" alt="Agile" width="39px" src="https://thecrmteam.com/wp-content/uploads/2020/09/agile-icon-01.png" />
+<img align="left" alt="ERP" width="35px" src="https://pdjmaster.files.wordpress.com/2020/04/erp.png" />
+<img align="left" alt="CRM" width="35px" src="https://cdn-images-1.medium.com/max/1600/0*uFabsFVlfSZZLn98.png" />
+<img align="left" alt="SDLC" width="35px" src="https://i.pinimg.com/originals/69/21/06/6921061843ba28f0f7b6ac27ea27dbb8.png" />
 <img align="left" alt="Q&A" width="35px" src="https://mdpiblog.wordpress.sciforum.net/wp-content/uploads/sites/4/2015/11/QA_icon_round_final_03.11.2015.png" />
 <img align="left" alt="Planning" width="37px" src="https://image.flaticon.com/icons/png/512/1205/1205526.png" />
 <img align="left" alt="SWOT" width="33px" src="https://image.flaticon.com/icons/png/512/3997/3997551.png" />
