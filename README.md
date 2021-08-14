@@ -17,9 +17,9 @@ I have knowledge of the most popular programming languages and the skill to buil
 
 # MAIN KNOWLEDGES
 ### Business Systems Analysis
-<img align="left" alt="ERP" width="50px" src="https://pdjmaster.files.wordpress.com/2020/04/erp.png" />
+<img align="left" alt="ERP" width="50px" src="https://sc04.alicdn.com/kf/UTB8yaHtf9bIXKJkSaef761asXXaX.png" />
 <img align="left" alt="CRM" width="50px" src="https://cdn-images-1.medium.com/max/1600/0*uFabsFVlfSZZLn98.png" />
-<img align="left" alt="SDLC" width="50px" src="https://i.pinimg.com/originals/69/21/06/6921061843ba28f0f7b6ac27ea27dbb8.png" />
+<img align="left" alt="SDLC" width="50px" src="https://miro.medium.com/max/1400/0*VFmI3KVq6yhcISVs.png" />
 <img align="left" alt="Q&A" width="50px" src="https://mdpiblog.wordpress.sciforum.net/wp-content/uploads/sites/4/2015/11/QA_icon_round_final_03.11.2015.png" />
 <img align="left" alt="DiagramS" width="50px" src="https://icon-library.com/images/network-flat-icon/network-flat-icon-4.jpg" />
 <img align="left" alt="UIUX" width="50px" src="https://image.winudf.com/v2/image/b3JnLm1kZi5tb29rdXBfaWNvbl8wXzgzZDVkMDM0/icon.png?w=&fakeurl=1" />
