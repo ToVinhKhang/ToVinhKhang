@@ -49,11 +49,11 @@ _• Have an overview of the system including UI/UX, Testing and basic knowledge
 <br />
 
 ## Soft Skills
-• Attitude: Self-Motivated, Responsible, Detail-Oriented, Work Ethic.
+_• Attitude: Self-Motivated, Responsible, Detail-Oriented, Work Ethic._
 <br />
-• Socials: Problem Solving, Presentation, Leadership, Communication,Teamwork.
+_• Socials: Problem Solving, Presentation, Leadership, Communication,Teamwork._
 <br />
-• Spoken Languages: Vietnamese, English, Cantonese and Korean.
+_• Spoken Languages: Vietnamese, English, Cantonese and Korean._
 <br />
 
 <br />
