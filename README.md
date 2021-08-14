@@ -11,19 +11,19 @@
 <br />
 
 # ABOUT ME
-I have knowledge of the most popular programming languages and the skill to build a system model intuitive overview. I am passionate about business systems analysis as a Business Analyst with identify customer requirements and business processes clearly, master knowledge of software development life cycle, provide specification documents and testing. Besides, I also have the ability to design UI/UX, handle client-side rendering in the role of UI Developer. I have a knack for public speaking, have demonstrated experience in a management role, and have effective people and problem-solving skills. As a perfectionist who ensures that every task is completed with the utmost attention to detail.
+_I have knowledge of the most popular programming languages and the skill to build a system model intuitive overview. I am passionate about business systems analysis as a Business Analyst with identify customer requirements and business processes clearly, master knowledge of software development life cycle, provide specification documents and testing. Besides, I also have the ability to design UI/UX, handle client-side rendering in the role of UI Developer. I have a knack for public speaking, have demonstrated experience in a management role, and have effective people and problem-solving skills. As a perfectionist who ensures that every task is completed with the utmost attention to detail._
 
 <br />
 
 # MAIN KNOWLEDGES
 ### Business Systems Analysis
-• Create BRD, SRS documents.
+_• Create BRD, SRS documents._
 <br />
-• Manage the change from beginning to implementation and Identify and make Business processes/rules clearly.
+_• Manage the change from beginning to implementation and Identify and make Business processes/rules clearly._
 <br />
-• Consult, support end-users with incidents or requests regarding business processes that have been implemented.
+_• Consult, support end-users with incidents or requests regarding business processes that have been implemented._
 <br />
-• Have an overview of the system including UI/UX, Testing and basic knowledge of CRM, ERP.
+_• Have an overview of the system including UI/UX, Testing and basic knowledge of CRM, ERP._
 <br />
 
 <br />
