@@ -17,6 +17,7 @@ I have knowledge of the most popular programming languages and the skill to buil
 
 # MAIN KNOWLEDGES
 ### Business Systems Analysis
+<br />
 - Create BRD, SRS documents (Scope, UseCases, ERD,Activity diagram, State diagram, Workflows, Taskflows, Functional Prioritization, SDCL, Mockup, etc).
 <br />
 - Manage the change from beginning to implementation and Identify and make Business processes/rules clearly.
