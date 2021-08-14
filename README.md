@@ -24,7 +24,18 @@ I have knowledge of the most popular programming languages and the skill to buil
 <img align="left" alt="DiagramS" width="50px" src="https://icon-library.com/images/network-flat-icon/network-flat-icon-4.jpg" />
 <img align="left" alt="UIUX" width="50px" src="https://image.winudf.com/v2/image/b3JnLm1kZi5tb29rdXBfaWNvbl8wXzgzZDVkMDM0/icon.png?w=&fakeurl=1" />
 <img align="left" alt="Testing" width="50px" src="https://image.flaticon.com/icons/png/512/3154/3154275.png" />
+<br />
 
+- Create BRD, SRS documents (Scope, UseCases, ERD,Activity diagram, State diagram, Workflows, Taskflows, Functional Prioritization, SDCL, Mockup, etc).
+<br />
+
+- Manage the change from beginning to implementation and Identify and make Business processes/rules clearly.
+<br />
+
+- Consult, support end-users with incidents or requests regarding business processes that have been implemented.
+<br />
+
+- Have an overview of the system including UI/UX, UAT and basic knowledge of CRM, ERP.
 <br />
 
 <br />
