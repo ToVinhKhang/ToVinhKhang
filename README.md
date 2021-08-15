@@ -28,8 +28,6 @@ _• Make sure developers clearly understand the requirements._
 _• Support end-users with incidents or requests regarding business processes that have been implemented._
 <br />
 
-<br />
-
 ### Web Programming and Application
 <img align="left" alt="Html" width="35px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />
 <img align="left" alt="Css" width="33px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" />
@@ -50,7 +48,7 @@ _• Support end-users with incidents or requests regarding business processes t
 
 <br />
 
-## Soft Skills
+## SOFT SKILLS
 _• Attitude: Self-Motivated, Responsible, Detail-Oriented, Work Ethic._
 <br />
 _• Socials: Problem Solving, Presentation, Leadership, Communication,Teamwork._
