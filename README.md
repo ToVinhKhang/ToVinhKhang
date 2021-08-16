@@ -23,9 +23,7 @@ _• Identify customer requirements, make business processes/rules clearly and m
 <br />
 _• Have an overview of the system include UI/UX, Testing and basic knowledge of CRM, ERP._
 <br />
-_• Make sure developers clearly understand the requirements._
-<br />
-_• Support end-users with incidents or requests regarding business processes that have been implemented._
+_• Make sure developers clearly understand the requirements. Support end-users with incidents or requests regarding business processes that have been implemented._
 <br />
 
 
