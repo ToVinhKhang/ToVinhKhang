@@ -17,16 +17,17 @@ _I have knowledge of the most popular programming languages and the skill to bui
 
 # MAIN KNOWLEDGES
 ### Business Systems Analysis
-_• Create BRD/SRS documents. Manage the change from beginning to implementation._
+_• Advice on feature requirements of software projects and provide BRD/SRS documents._
 <br />
-_• Identify customer requirements and make business processes/rules clearly._
+_• Identify customer requirements, make business processes/rules clearly and manage the change from beginning to implementation._
 <br />
-_• Have an overview of the system including UI/UX, Tesing and basic knowledge of CRM, ERP._
+_• Have an overview of the system include UI/UX, Testing and basic knowledge of CRM, ERP._
 <br />
 _• Make sure developers clearly understand the requirements._
 <br />
 _• Support end-users with incidents or requests regarding business processes that have been implemented._
 <br />
+
 
 ### Web Programming and Application
 <img align="left" alt="Html" width="35px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />
