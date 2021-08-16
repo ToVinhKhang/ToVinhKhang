@@ -36,7 +36,7 @@ _• Support end-users with incidents or requests regarding business processes t
 <img align="left" alt="Bootstrap" width="35px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
 <img align="left" alt="NodeJS" width="30px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="CheerIO" width="35px" src="https://camo.githubusercontent.com/2aaeb2f8f97c39cc4cad40d9537ac3317cbec0ce6e7b77971e536c88abbe3e7c/68747470733a2f2f696d616765732e6f70656e636f6c6c6563746976652e636f6d2f616972626e622f643332376436362f6c6f676f2e706e67" />
-<img align="left" alt="PWA" width="35px" src="https://raw.githubusercontent.com/webmaxru/pwatter/77c4d47bc59b0a2da426df8018af91dc1dbbc120/src/assets/favicon/apple-touch-icon.png" />
+<img align="left" alt="PWA" width="35px" src="https://jenia.it/images/technologies/pwa-logo.png" />
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="GIT" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="Netlify" width="35px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
