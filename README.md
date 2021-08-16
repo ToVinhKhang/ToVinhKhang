@@ -67,7 +67,6 @@ _• Spoken Languages: Vietnamese, English, Cantonese and Korean._
 <details>
   <summary>Show GitHub Stats</summary>
   <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ToVinhKhang&count_private=true&include_all_commits=true&theme=nightowl" />
-  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ToVinhKhang&repo=Covid19-Tracker" />
 </details>
 
 [facebook]: https://www.facebook.com/VinceKent1996/
