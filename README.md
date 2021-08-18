@@ -21,7 +21,7 @@ _• Identifying customer requirements, make business processes/rules clear, and
 <br />
 _• Have an overview of the system, technologies, general knowledge of UI/UX, UAT, and basic knowledge of business processes in the fields of insurance, tourism, restaurant, hotel, commerce, etc._
 <br />
-_• Know how to make developers clearly understand the requirements. Support end-users with incidents or requests regarding business processes that have been implemented._
+_• Know how to make developers clearly understand the requirements and support end-users with incidents or requests regarding business processes that have been implemented._
 <br />
 _• Proficient in Word, Excel, Powerpoint, StarUML, AstahUML, Canva, Tableau, VMWare, etc._
 <br />
