@@ -28,13 +28,6 @@ _• Know how to make developers clearly understand the requirements. Support en
 _• Proficient in Word, Excel, Powerpoint, StarUML, AstahUML, Canva, Tableau, VMWare, etc._
 <br />
 
-- Identifying customer requirements, make business processes/rules clear, and manage the change from beginning to implementation.
-- Provide BRD/SRS documents (wireframes, user stories, use cases, activity diagrams, etc)
-- Have an overview of the system and technologies (framework, libraries, modeling, database, restful web services, progressive web app, template engine, hosting, etc).
-- Have general knowledge of UI/UX, UAT, and basic knowledge of business processes in the fields of insurance, tourism, restaurant, hotel, commerce, etc.
-- Know how to make developers clearly understand the requirements. Support end-users with incidents or requests regarding business processes that have been implemented.
-- Proficient in Word, Excel, Powerpoint, StarUML, AstahUML, Canva, Tableau, VMWare, etc.
-
 ### Web Programming and Application
 <img align="left" alt="Html" width="35px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />
 <img align="left" alt="Css" width="33px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" />
