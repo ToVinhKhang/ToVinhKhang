@@ -17,15 +17,23 @@ _I have knowledge of the most popular programming languages and the skills to vi
 
 # MAIN KNOWLEDGES
 ### Business Systems Analysis
-_• Advice on feature requirements of software projects and provide BRD/SRS documents._
+_• Identifying customer requirements, make business processes/rules clear, and manage the change from beginning to implementation.._
 <br />
-_• Identify customer requirements, make business processes/rules clearly and manage the change from beginning to implementation._
+_• Provide BRD/SRS documents (wireframes, user stories, use cases, activity diagrams, etc)._
 <br />
-_• Have general knowledge of UI/UX Design process, Testing process and basic knowledge of CRM, ERP._
+_• Have an overview of the system, technologies, general knowledge of UI/UX, UAT, and basic knowledge of business processes in the fields of insurance, tourism, restaurant, hotel, commerce, etc._
 <br />
-_• Make sure developers clearly understand the requirements and support end-users with incidents or requests regarding business processes that have been implemented._
+_• Know how to make developers clearly understand the requirements. Support end-users with incidents or requests regarding business processes that have been implemented._
+<br />
+_• Proficient in Word, Excel, Powerpoint, StarUML, AstahUML, Canva, Tableau, VMWare, etc._
 <br />
 
+- Identifying customer requirements, make business processes/rules clear, and manage the change from beginning to implementation.
+- Provide BRD/SRS documents (wireframes, user stories, use cases, activity diagrams, etc)
+- Have an overview of the system and technologies (framework, libraries, modeling, database, restful web services, progressive web app, template engine, hosting, etc).
+- Have general knowledge of UI/UX, UAT, and basic knowledge of business processes in the fields of insurance, tourism, restaurant, hotel, commerce, etc.
+- Know how to make developers clearly understand the requirements. Support end-users with incidents or requests regarding business processes that have been implemented.
+- Proficient in Word, Excel, Powerpoint, StarUML, AstahUML, Canva, Tableau, VMWare, etc.
 
 ### Web Programming and Application
 <img align="left" alt="Html" width="35px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />
