@@ -11,7 +11,7 @@
 <br />
 
 # ABOUT ME
-_I have knowledge of the most popular programming languages and the skills to visually model overview systems. I am passionate about business systems analysis with a solid knowledge of Software Development Life Cycle. Understand each stakeholder's role in the software development process. Besides, I used to be in roles UI/UX designer, developer, and tester. I have a knack for public speaking, have demonstrated experience in a management role, have effective people and problem solving skills. A perfectionist who ensures that every task is completed with the utmost attention to detail._
+_I have knowledge of the most popular programming languages and the skills to visually model overview systems. I am passionate about business systems analysis with a solid knowledge of Software Development Life Cycle. Understanding of software technologies as well as business processes of ERP, CRM. Besides, I used to be in roles UI/UX designer, developer, and tester. I have a knack for public speaking, have demonstrated experience in a management role, have effective people and problem solving skills. A perfectionist who ensures that every task is completed with the utmost attention to detail._
 
 <br />
 
