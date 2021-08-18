@@ -21,7 +21,7 @@ _• Advice on feature requirements of software projects and provide BRD/SRS doc
 <br />
 _• Identify customer requirements, make business processes/rules clearly and manage the change from beginning to implementation._
 <br />
-_• Have an overview of the system include UI/UX, Testing and basic knowledge of CRM, ERP._
+_• Have general knowledge of UI/UX Design process, Testing process and basic knowledge of CRM, ERP._
 <br />
 _• Make sure developers clearly understand the requirements and support end-users with incidents or requests regarding business processes that have been implemented._
 <br />
