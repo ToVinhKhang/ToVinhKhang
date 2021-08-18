@@ -47,9 +47,9 @@ _• Proficient in Word, Excel, Powerpoint, StarUML, AstahUML, Canva, Tableau, V
 <br />
 
 ## SOFT SKILLS
-_• Attitude: Self-Motivated, Responsible, Detail-Oriented, Work Ethic._
+_• Attitude: Self-Motivated, Responsible, Detail-Oriented and Work Ethic._
 <br />
-_• Socials: Problem Solving, Presentation, Leadership, Communication,Teamwork._
+_• Socials: Problem Solving, Presentation, Leadership, Communication and Teamwork._
 <br />
 _• Spoken Languages: Vietnamese, English, Cantonese and Korean._
 <br />
