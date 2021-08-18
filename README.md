@@ -17,9 +17,7 @@ _I have knowledge of the most popular programming languages and the skills to vi
 
 # MAIN KNOWLEDGES
 ### Business Systems Analysis
-_• Identifying customer requirements, make business processes/rules clear, and manage the change from beginning to implementation.._
-<br />
-_• Provide BRD/SRS documents (wireframes, user stories, use cases, activity diagrams, etc)._
+_• Identifying customer requirements, make business processes/rules clear, and manage the change from beginning to implementation. Provide BRD/SRS documents (wireframes, user stories, use cases, activity diagrams, etc)._
 <br />
 _• Have an overview of the system, technologies, general knowledge of UI/UX, UAT, and basic knowledge of business processes in the fields of insurance, tourism, restaurant, hotel, commerce, etc._
 <br />
