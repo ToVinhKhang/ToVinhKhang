@@ -51,7 +51,7 @@ _• Attitude: Self-Motivated, Responsible, Detail-Oriented and Work Ethic._
 <br />
 _• Socials: Problem Solving, Presentation, Leadership, Communication and Teamwork._
 <br />
-_• Spoken Languages: Vietnamese, English, Cantonese and Korean._
+_• Spoken Languages: Vietnamese, English, Korean and Chinese._
 <br />
 
 <br />
