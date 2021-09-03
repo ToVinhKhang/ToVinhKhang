@@ -17,13 +17,15 @@ _I have knowledge of the most popular programming languages and the skills to vi
 
 # MAIN KNOWLEDGES
 ### Business Systems Analysis
-_• Identifying customer requirements, make business processes/rules clear, and manage the change from beginning to implementation. Provide BRD/SRS documents (wireframes, user stories, use cases, activity diagrams, etc)._
+_• Identifying customer requirements, make business processes/rules clear (BACCM). Manage the change from beginning to implementation.._
 <br />
-_• Have an overview of the system, technologies, general knowledge of UI/UX, UAT, and basic knowledge of business processes in the fields of insurance, tourism, restaurant, hotel, commerce, etc._
+_• Provide BRD/SRS documents (user stories, use cases, diagrams, flowcharts, etc)._
 <br />
-_• Know how to make developers clearly understand the requirements and support end-users with incidents or requests regarding business processes that have been implemented._
+_• Have knowledge about Waterfall and Agile. Have experience in the fields of insurance, tourism, restaurant, hotel, education, etc._
 <br />
-_• Proficient in Word, Excel, Powerpoint, StarUML, AstahUML, Canva, Tableau, VMWare, etc._
+_• Have general knowledge of UI/UX, UAT. Have an overview of the system and technologies (framework, libraries, database, restful web services, crawling, PWA, deploy, etc)._
+<br />
+_• Know how to make developers clearly understand the requirements. Support end-users with incidents or requests regarding business processes that have been implemented._
 <br />
 
 ### Web Programming and Application
