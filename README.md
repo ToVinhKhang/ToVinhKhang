@@ -21,7 +21,7 @@ _• Identifying customer requirements, make business processes/rules clear (BAC
 <br />
 _• Provide BRD/SRS documents (user stories, use cases, diagrams, flowcharts, etc)._
 <br />
-_• Have knowledge about Waterfall and Agile. Have experience in the fields of insurance, tourism, restaurant, hotel, education, etc._
+_• Have knowledge about Waterfall and Agile. Have knowledge in domain tourism, restaurant, hotel, education, insurance._
 <br />
 _• Have general knowledge of UI/UX, UAT. Have an overview of the system and technologies (framework, libraries, database, restful web services, crawling, PWA, deploy, etc)._
 <br />
