@@ -32,11 +32,14 @@ _• Know how to make developers clearly understand the requirements._
 _• Support end-users with incidents or requests regarding business processes that have been implemented and provide User documentation._
 <br />
 
-<img align="left" alt="Html" width="35px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />
-<img align="left" alt="Css" width="33px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" />
-<img align="left" alt="JS" width="33px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
-<img align="left" alt="JQuery" width="36px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-2.jpg" />
-<img align="left" alt="Bootstrap" width="35px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
+<img align="left" alt="Astah" width="35px" src="https://thichvn.com/wp-content/uploads/2019/01/Astah-Professional-logo.png" />
+<img align="left" alt="Word" width="33px" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/word.png" />
+<img align="left" alt="Excel" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Microsoft_Office_Excel_%282013%E2%80%932019%29.svg/1200px-Microsoft_Office_Excel_%282013%E2%80%932019%29.svg.png" />
+<img align="left" alt="Pwp" width="36px" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/powerpoint.png" />
+<img align="left" alt="Viso" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_Visio_%282013%E2%80%932019%29.svg/1200px-Microsoft_Office_Visio_%282013%E2%80%932019%29.svg.png" />
+<img align="left" alt="Balsamiq" width="36px" src="https://synth.agency/wp-content/uploads/2020/06/Apps-Balsamiq-1024x1024.png" />
+<img align="left" alt="Canvanizer" width="36px" src="https://www.saashub.com/images/app/service_logos/105/a0d99a9e293d/large.png?1574322131" />
+<img align="left" alt="Canva" width="36px" src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=730&crop=1" />
 
 <br />
 
