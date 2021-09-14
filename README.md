@@ -11,7 +11,7 @@
 <br />
 
 # ABOUT ME
-_I am passionate about business systems analysis. Have knowledge of the most popular programming languages and the skills to visually model overview systems and Software Development Life Cycle. Besides, I used to be in roles UI/UX designer, developer, and manual tester. I have a knack for public speaking, have demonstrated experience in a management role, have effective people and problem- solving skills. A perfectionist who ensures that every task is completed with the utmost attention to detail._
+_I am passionate about business systems analysis. Have knowledge of the most popular programming languages, skills to visually model overview systems, and Software Development Life Cycle. Besides, I used to be in roles UI/UX designer, developer, and manual tester. I have a knack for public speaking, have demonstrated experience in a management role, have effective people and problem-solving skills. A perfectionist who ensures that every task is completed with the utmost attention to detail._
 
 <br />
 
@@ -19,13 +19,17 @@ _I am passionate about business systems analysis. Have knowledge of the most pop
 ### Business Systems Analysis
 _• Identifying customer requirements, make business processes/rules clear (BACCM). Manage the change from beginning to implementation.._
 <br />
-_• Provide BRD/SRS documents (user stories, use cases, diagrams, flowcharts, etc)._
+_• Provide BRD/SRS documents (user stories, use cases, diagrams, flowcharts, wireframes, etc)._
 <br />
-_• Have knowledge about Waterfall and Agile. Have knowledge in domain tourism, restaurant, hotel, education, insurance._
+_• Have basic knowledge about Waterfall, Agile and used to be studied courses in domains of tourism, restaurant, hotel, education, insurance._
 <br />
-_• Have general knowledge of UI/UX, UAT. Have an overview of the system and technologies (framework, libraries, database, restful web services, crawling, PWA, deploy, etc)._
+_• Have an overview of technologies (RESTful API, databases, crawler, PWA, hosting, etc).._
 <br />
-_• Know how to make developers clearly understand the requirements. Support end-users with incidents or requests regarding business processes that have been implemented._
+_• Proficient in BA tools (Microsoft Office, AstahUML, Balsamiq, Canvanizer, etc)._
+<br />
+_• Know how to make developers clearly understand the requirements. 
+<br />
+_• Support end-users with incidents or requests regarding business processes that have been implemented and provide User documentation._
 <br />
 
 ### Web Programming and Application
@@ -49,7 +53,7 @@ _• Know how to make developers clearly understand the requirements. Support en
 <br />
 
 ## SOFT SKILLS
-_• Attitude: Self-Motivated, Responsible, Detail-Oriented and Work Ethic._
+_• Attitude: Self-Motivated, Responsible, Detail-Oriented, Work Ethic and Strong willingness to learn.._
 <br />
 _• Socials: Problem Solving, Presentation, Leadership, Communication and Teamwork._
 <br />
