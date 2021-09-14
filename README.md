@@ -27,7 +27,7 @@ _• Have an overview of technologies (RESTful API, databases, crawler, PWA, hos
 <br />
 _• Proficient in BA tools (Microsoft Office, AstahUML, Balsamiq, Canvanizer, etc)._
 <br />
-_• Know how to make developers clearly understand the requirements. _
+_• Know how to make developers clearly understand the requirements._
 <br />
 _• Support end-users with incidents or requests regarding business processes that have been implemented and provide User documentation._
 <br />
