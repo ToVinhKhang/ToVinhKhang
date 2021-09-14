@@ -31,9 +31,9 @@ _• Support end-users with incidents or requests regarding business processes t
 <br />
 
 <img align="left" alt="AstahUML" width="40px" src="https://thichvn.com/wp-content/uploads/2019/01/Astah-Professional-logo.png" />
-<img align="left" alt="StarUML" width="40px" src="https://staruml.io/image/staruml_logo.png" />
+<img align="left" alt="StarUML" width="39px" src="https://staruml.io/image/staruml_logo.png" />
 <img align="left" alt="Word" width="45px" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/word.png" />
-<img align="left" alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Microsoft_Office_Excel_%282013%E2%80%932019%29.svg/1200px-Microsoft_Office_Excel_%282013%E2%80%932019%29.svg.png" />
+<img align="left" alt="Excel" width="39px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Microsoft_Office_Excel_%282013%E2%80%932019%29.svg/1200px-Microsoft_Office_Excel_%282013%E2%80%932019%29.svg.png" />
 <img align="left" alt="Pwp" width="45px" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/powerpoint.png" />
 <img align="left" alt="Viso" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_Visio_%282013%E2%80%932019%29.svg/1200px-Microsoft_Office_Visio_%282013%E2%80%932019%29.svg.png" />
 <img align="left" alt="Balsamiq" width="40px" src="https://synth.agency/wp-content/uploads/2020/06/Apps-Balsamiq-1024x1024.png" />
