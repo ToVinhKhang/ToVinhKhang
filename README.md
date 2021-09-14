@@ -30,7 +30,8 @@ _• Know how to make developers clearly understand the requirements._
 _• Support end-users with incidents or requests regarding business processes that have been implemented and provide User documentation._
 <br />
 
-<img align="left" alt="Astah" width="40px" src="https://thichvn.com/wp-content/uploads/2019/01/Astah-Professional-logo.png" />
+<img align="left" alt="AstahUML" width="40px" src="https://thichvn.com/wp-content/uploads/2019/01/Astah-Professional-logo.png" />
+<img align="left" alt="StarUML" width="40px" src="https://staruml.io/image/staruml_logo.png" />
 <img align="left" alt="Word" width="45px" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/word.png" />
 <img align="left" alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Microsoft_Office_Excel_%282013%E2%80%932019%29.svg/1200px-Microsoft_Office_Excel_%282013%E2%80%932019%29.svg.png" />
 <img align="left" alt="Pwp" width="45px" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/powerpoint.png" />
