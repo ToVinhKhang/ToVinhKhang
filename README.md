@@ -31,6 +31,11 @@ _• Know how to make developers clearly understand the requirements._
 <br />
 _• Support end-users with incidents or requests regarding business processes that have been implemented and provide User documentation._
 <br />
+<img align="left" alt="Html" width="35px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />
+<img align="left" alt="Css" width="33px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" />
+<img align="left" alt="JS" width="33px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
+<img align="left" alt="JQuery" width="36px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-2.jpg" />
+<img align="left" alt="Bootstrap" width="35px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
 
 ### Web Programming and Application
 <img align="left" alt="Html" width="35px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />
