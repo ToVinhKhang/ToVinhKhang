@@ -38,6 +38,7 @@ _• Support end-users with incidents or requests regarding business processes t
 <img align="left" alt="Viso" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_Visio_%282013%E2%80%932019%29.svg/1200px-Microsoft_Office_Visio_%282013%E2%80%932019%29.svg.png" />
 <img align="left" alt="Balsamiq" width="40px" src="https://synth.agency/wp-content/uploads/2020/06/Apps-Balsamiq-1024x1024.png" />
 <img align="left" alt="Canvanizer" width="42px" src="https://canvanizer.com/images/category-thumb/v2/business.png" />
+<img align="left" alt="Jira" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
 <img align="left" alt="Canva" width="40px" src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=730&crop=1" />
 
 <br />
