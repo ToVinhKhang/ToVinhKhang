@@ -19,7 +19,7 @@ _I am passionate about business systems analysis. Have knowledge of the most pop
 ### Business Systems Analysis
 _• Identifying customer requirements, make business processes/rules clear (BACCM). Manage the change from beginning to implementation.._
 <br />
-_• Provide BRD/SRS documents (user stories, use cases, diagrams, flowcharts, wireframes, etc)._
+_• Provide Wireframes, User stories, BRD/SRS docs (use-cases diagrams, activity diagrams, ERD, etc).._
 <br />
 _• Have basic knowledge about Waterfall, Agile and used to be studied courses in domains of tourism, restaurant, hotel, education, insurance._
 <br />
@@ -27,7 +27,7 @@ _• Have an overview of technologies (RESTful API, databases, crawler, PWA, hos
 <br />
 _• Know how to make developers clearly understand the requirements._
 <br />
-_• Support end-users with incidents or requests regarding business processes that have been implemented and provide User documentation._
+_• Support end-users with incidents or requests regarding business processes that have been implemented and provide user guide docs._
 <br />
 
 <img align="left" alt="AstahUML" width="40px" src="https://thichvn.com/wp-content/uploads/2019/01/Astah-Professional-logo.png" />
