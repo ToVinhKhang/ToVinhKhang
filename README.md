@@ -30,12 +30,8 @@ _• Know how to make developers clearly understand the requirements._
 _• Support end-users with incidents or requests regarding business processes that have been implemented and provide user guide docs._
 <br />
 
-<img align="left" alt="AstahUML" width="40px" src="https://thichvn.com/wp-content/uploads/2019/01/Astah-Professional-logo.png" />
-<img align="left" alt="StarUML" width="39px" src="https://staruml.io/image/staruml_logo.png" />
-<img align="left" alt="Word" width="45px" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/word.png" />
-<img align="left" alt="Excel" width="39px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Microsoft_Office_Excel_%282013%E2%80%932019%29.svg/1200px-Microsoft_Office_Excel_%282013%E2%80%932019%29.svg.png" />
-<img align="left" alt="Pwp" width="45px" src="https://findicons.com/files/icons/2795/office_2013_hd/2000/powerpoint.png" />
-<img align="left" alt="Viso" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_Visio_%282013%E2%80%932019%29.svg/1200px-Microsoft_Office_Visio_%282013%E2%80%932019%29.svg.png" />
+<img align="left" alt="UML" width="39px" src="http://www.geocities.ws/jjaimes6603/fase2/imagenes/logo_uml.gif" />
+<img align="left" alt="MS" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/1200px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png" />
 <img align="left" alt="Balsamiq" width="40px" src="https://synth.agency/wp-content/uploads/2020/06/Apps-Balsamiq-1024x1024.png" />
 <img align="left" alt="Jira" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
 <img align="left" alt="Canva" width="40px" src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=730&crop=1" />
@@ -58,7 +54,7 @@ _• Support end-users with incidents or requests regarding business processes t
 <img align="left" alt="GIT" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="Netlify" width="35px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
 <img align="left" alt="Heroku" width="33px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
-<img align="left" alt="Heroku" width="33px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
+<img align="left" alt="Canvanizer" width="33px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
 
 <br />
 
