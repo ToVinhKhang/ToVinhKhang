@@ -17,13 +17,13 @@ _I am passionate about business systems analysis. Have knowledge of the most pop
 
 # MAIN KNOWLEDGES
 ### Business Systems Analysis
-_• Identifying customer requirements, make business processes/rules clear (BACCM). Manage the change from beginning to implementation.._
+_• Identifying customer requirements, make business processes/rules clear (BACCM, SWOT, Wireframe)._
 <br />
-_• Provide Wireframes, User stories, BRD/SRS docs (use-cases diagrams, activity diagrams, ERD, etc).._
+_• Provide User stories, BRD/SRS docs (use-cases diagrams, activity diagrams, ERD, etc)._
 <br />
-_• Have basic knowledge about Waterfall, Agile and used to be studied courses in domains of tourism, restaurant, hotel, education, insurance._
+_• Have basic knowledge about Waterfall, Agile and used to be studied courses in domains of tourism, F&B, education, and insurance._
 <br />
-_• Have an overview of technologies (RESTful API, databases, crawler, PWA, hosting, etc).._
+_• Have an overview of technologies (frameworks, libraries, RESTful web services, databases, crawler, hosting, etc)._
 <br />
 _• Know how to make developers clearly understand the requirements._
 <br />
