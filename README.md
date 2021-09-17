@@ -47,10 +47,10 @@ _• Support end-users with incidents or requests regarding business processes t
 <img align="left" alt="JS" width="33px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
 <img align="left" alt="JQuery" width="36px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-2.jpg" />
 <img align="left" alt="Bootstrap" width="35px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
-<img align="left" alt="NodeJS" width="30px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" alt="NodeJS" width="32px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="PWA" width="40px" src="https://jenia.it/images/technologies/pwa-logo.png" />
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
-<img align="left" alt="Flask" width="33px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
+<img align="left" alt="Flask" width="35px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
 <img align="left" alt="DotNet" width="37px" src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" />
 <img align="left" alt="Git" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="Netlify" width="35px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
