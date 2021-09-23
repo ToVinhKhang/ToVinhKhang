@@ -85,7 +85,7 @@ _• Spoken Languages: Vietnamese, English, Korean and Chinese._
   <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ToVinhKhang&count_private=true&include_all_commits=true&theme=nightowl" />
 </details>
 
-[facebook]: https://www.facebook.com/VinceKent1996/
+[facebook]: https://www.facebook.com/ToVinhKhangTDTU/
 [instagram]: https://www.instagram.com/vkent_/
 [linkedin]: https://www.linkedin.com/in/ToVinhKhang/
 
