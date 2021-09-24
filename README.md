@@ -13,8 +13,6 @@
 # ABOUT ME
 _I am passionate about business analysis, have knowledge of the most popular programming languages, skills to visually model overview systems, public speaking and demonstrated experience as a role manager. Besides, I used to be in roles UIUX designer, developer, and manual tester. A perfectionist who ensures that every task is completed with the utmost attention to detail. ._
 
-<br />
-
 # MAIN KNOWLEDGES
 ### Business Systems Analysis
 _• Gathering and identifying customer requirements to make business processes/rules clear._
@@ -72,13 +70,13 @@ _• Spoken Languages: Vietnamese, English, Korean and Chinese._
 <br />
 
 ## LANGUAGES
-_• Vietnamese._
+_• Vietnamese_
 <br />
-_• English._
+_• English_
 <br />
-_• Korean._
+_• Korean_
 <br />
-_• Chineses._
+_• Chinese_
 <br />
 
 ## CONTACTS
