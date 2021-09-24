@@ -17,17 +17,17 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 
 # MAIN KNOWLEDGES
 ### Business Systems Analysis
-_• Identifying customer requirements, make business processes/rules clear._
+_• Gathering and identifying customer requirements to make business processes/rules clear._
 <br />
-_• Provide BRD/SRS docs, User stories, Wireframes._
+_• Provide User Stories, Wireframes, BRD/SRS docs._
 <br />
-_• Have basic knowledge about Waterfall, Agile and used to be studied courses in domains of tourism, F&B, education, and insurance._
+_• Have basic knowledge about Waterfall, Agile and used to be studied courses in domains of tourism, F&B, education, insurance, e-commerce, etc._
 <br />
 _• Have an overview of technologies (frameworks, libraries, RESTful web services, databases, crawler, hosting, etc)._
 <br />
 _• Know how to make developers clearly understand the requirements._
 <br />
-_• Support end-users with incidents or requests regarding business processes that have been implemented and provide user guide docs._
+_• Support end-users with incidents or requests regarding business processes that have been implemented._
 <br />
 
 <img align="left" alt="UML" width="40px" src="http://www.geocities.ws/jjaimes6603/fase2/imagenes/logo_uml.gif" />
