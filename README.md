@@ -11,7 +11,11 @@
 <br />
 
 # ABOUT ME
-_I am passionate about business systems analysis. Have knowledge of the most popular programming languages, skills to visually model overview systems, and Software Development Life Cycle. Besides, I used to be in roles UI/UX designer, developer, and manual tester. I have a knack for public speaking, have demonstrated experience in a management role, have effective people and problem-solving skills. A perfectionist who ensures that every task is completed with the utmost attention to detail._
+_I am passionate about business analysis, have knowledge of the most popular programming languages, skills to visually model overview systems, and Software Development Life Cycle. Besides, I used to be in roles UI/UX designer, developer, and manual tester. 
+
+I have a knack for public speaking, problem-solving skills, have demonstrated experience as a role manager. A perfectionist who ensures that every task is completed with the utmost attention to detail.
+
+Outside of work, I am into doing swimming and photography, which helps me find life balance and refill the energy for a new day.._
 
 <br />
 
