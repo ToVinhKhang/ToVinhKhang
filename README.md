@@ -21,7 +21,7 @@ _• Gathering and identifying customer requirements to make business processes/
 <br />
 _• Provide User Stories, Wireframes, BRD/SRS docs._
 <br />
-_• Have basic knowledge about Waterfall, Agile and used to be studied courses in domains of tourism, F&B, education, insurance, e-commerce, etc._
+_• Have basic knowledge about Waterfall, Agile and used to be studied courses in domains of tourism, F&B, education, insurance, etc._
 <br />
 _• Have an overview of technologies (frameworks, libraries, RESTful web services, databases, crawler, hosting, etc)._
 <br />
@@ -69,6 +69,16 @@ _• Attitude: Self-Motivated, Responsible, Detail-Oriented, Work Ethic and Stro
 _• Socials: Problem Solving, Presentation, Leadership, Communication and Teamwork._
 <br />
 _• Spoken Languages: Vietnamese, English, Korean and Chinese._
+<br />
+
+## LANGUAGES
+_• Vietnamese._
+<br />
+_• English._
+<br />
+_• Korean._
+<br />
+_• Chineses._
 <br />
 
 <br />
