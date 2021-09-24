@@ -3,7 +3,7 @@
 # SOFTWARE ENGINEERING
 <br>
 
-> Concentration: Business Systems Analysis
+> Concentration: Business Analysis
 <br>
 
 > Minor: Web Programming and Applications
