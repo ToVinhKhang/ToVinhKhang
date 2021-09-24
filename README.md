@@ -71,8 +71,6 @@ _• Socials: Problem Solving, Presentation, Leadership, Communication and Teamw
 _• Spoken Languages: Vietnamese, English, Korean and Chinese._
 <br />
 
-<br />
-
 ## LANGUAGES
 _• Vietnamese._
 <br />
@@ -81,8 +79,6 @@ _• English._
 _• Korean._
 <br />
 _• Chineses._
-<br />
-
 <br />
 
 ## CONTACTS
