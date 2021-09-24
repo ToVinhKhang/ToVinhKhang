@@ -11,7 +11,7 @@
 <br />
 
 # ABOUT ME
-_I am passionate about business analysis, have knowledge of the most popular programming languages, skills to visually model overview systems, and Software Development Life Cycle. Besides, I used to be in roles UI/UX designer, developer, and manual tester. I have a knack for public speaking, problem-solving skills, have demonstrated experience as a role manager. A perfectionist who ensures that every task is completed with the utmost attention to detail. Outside of work, I am into doing swimming and photography, which helps me find life balance and refill the energy for a new day._
+_I am passionate about business analysis, have knowledge of the most popular programming languages, skills to visually model overview systems, problem-solving, public speaking and demonstrated experience as a role manager. Besides, I used to be in roles UIUX designer, developer, and manual tester. A perfectionist who ensures that every task is completed with the utmost attention to detail. ._
 
 <br />
 
@@ -21,7 +21,7 @@ _• Gathering and identifying customer requirements to make business processes/
 <br />
 _• Provide User Stories, Wireframes, BRD/SRS docs._
 <br />
-_• Have basic knowledge about Waterfall, Agile and used to be studied courses in domains of tourism, F&B, education, insurance, etc._
+_• Have knowledge about Agile-Scrum, SDLC, and used to be studied courses in domains of tourism, F&B, education, insurance, etc._
 <br />
 _• Have an overview of technologies (frameworks, libraries, RESTful web services, databases, crawler, hosting, etc)._
 <br />
