@@ -11,7 +11,7 @@
 <br />
 
 # ABOUT ME
-_I am passionate about business analysis, have knowledge of the most popular programming languages, skills to visually model overview systems, problem-solving, public speaking and demonstrated experience as a role manager. Besides, I used to be in roles UIUX designer, developer, and manual tester. A perfectionist who ensures that every task is completed with the utmost attention to detail. ._
+_I am passionate about business analysis, have knowledge of the most popular programming languages, skills to visually model overview systems, public speaking and demonstrated experience as a role manager. Besides, I used to be in roles UIUX designer, developer, and manual tester. A perfectionist who ensures that every task is completed with the utmost attention to detail. ._
 
 <br />
 
@@ -64,7 +64,7 @@ _• Support end-users with incidents or requests regarding business processes t
 <br />
 
 ## SOFT SKILLS
-_• Attitude: Self-Motivated, Responsible, Detail-Oriented, Work Ethic and Strong willingness to learn.._
+_• Attitude: Self-Motivated, Responsible, Detail-Oriented and Work Ethic._
 <br />
 _• Socials: Problem Solving, Presentation, Leadership, Communication and Teamwork._
 <br />
