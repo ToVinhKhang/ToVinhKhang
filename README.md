@@ -11,7 +11,7 @@
 <br />
 
 # ABOUT ME
-_I am passionate about business analysis, have knowledge of the most popular programming languages, skills to visually model overview systems, public speaking and demonstrated experience as a role manager. Besides, I used to be in roles UIUX designer, developer, and manual tester. A perfectionist who ensures that every task is completed with the utmost attention to detail. ._
+_I am passionate about business analysis, have knowledge of the most popular programming languages, skills in overview systems modeling, public speaking, and demonstrated experience as a project manager. Besides, I used to be in roles UIUX designer, developer, and manual tester. A perfectionist who ensures that every task is completed with the utmost attention to detail._
 
 <br />
 
