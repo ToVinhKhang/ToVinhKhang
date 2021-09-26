@@ -11,12 +11,12 @@
 <br />
 
 # ABOUT ME
-_I am passionate about business analysis, have knowledge of the most popular programming languages, skills in overview systems modeling, public speaking, and demonstrated experience as a project manager. Besides, I used to be in roles UIUX designer, developer, and manual tester. A perfectionist who ensures that every task is completed with the utmost attention to detail._
+_I am passionate about business analysis, have knowledge of the most popular programming languages, skills in overview systems modeling, public speaking, and demonstrated experience as a team leader. Besides, I used to be in roles UIUX designer, developer, and tester. A perfectionist who ensures that every task is completed with the utmost attention to detail._
 
 <br />
 
 # MAIN KNOWLEDGES
-### Business Systems Analysis
+### Business Analysis
 _• Gathering and identifying customer requirements to make business processes/rules clear._
 <br />
 _• Provide User Stories, Wireframes, BRD/SRS docs._
@@ -28,6 +28,8 @@ _• Have an overview of technologies (frameworks, libraries, RESTful web servic
 _• Know how to make developers clearly understand the requirements._
 <br />
 _• Support end-users with incidents or requests regarding business processes that have been implemented._
+<br />
+_• Implement UAT to evaluate product conformance to requirements._
 <br />
 
 <img align="left" alt="UML" width="40px" src="http://www.geocities.ws/jjaimes6603/fase2/imagenes/logo_uml.gif" />
@@ -70,13 +72,13 @@ _• Socials: Problem Solving, Presentation, Leadership, Communication and Teamw
 <br />
 
 ## LANGUAGES
-_• Vietnamese_
+_• Vietnamese (Native or bilingual proficiency)_
 <br />
-_• English_
+_• English (Professional working proficiency_
 <br />
-_• Korean_
+_• Korean (Elementary proficiency)_
 <br />
-_• Chinese_
+_• Chinese (Elementary proficiency)_
 <br />
 
 ## CONTACTS
