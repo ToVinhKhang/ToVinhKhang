@@ -11,7 +11,7 @@
 <br />
 
 # ABOUT ME
-_I am passionate about business analysis, have knowledge of the most popular programming languages, skills in overview systems modeling, public speaking, and demonstrated experience as a team leader. Besides, I used to be in roles UIUX designer, developer, and tester. A perfectionist who ensures that every task is completed with the utmost attention to detail._
+_I am passionate about business analysis, have knowledge of the most popular programming languages, skills in business process modeling, public speaking, and demonstrated experience as a team leader. Besides, I used to be in roles UIUX designer, developer, and tester. A perfectionist who ensures that every task is completed with the utmost attention to detail._
 
 <br />
 
