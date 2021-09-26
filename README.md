@@ -29,7 +29,7 @@ _• Know how to make developers clearly understand the requirements._
 <br />
 _• Support end-users with incidents or requests regarding business processes that have been implemented._
 <br />
-_• Implement UAT to evaluate product conformance to requirements._
+_• Implement UAT to evaluate product conformance to customer requirements._
 <br />
 
 <img align="left" alt="UML" width="40px" src="http://www.geocities.ws/jjaimes6603/fase2/imagenes/logo_uml.gif" />
