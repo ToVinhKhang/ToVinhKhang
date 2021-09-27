@@ -23,13 +23,13 @@ _• Provide User Stories, Wireframes, BRD/SRS docs._
 <br />
 _• Have knowledge about Agile-Scrum, SDLC, and used to be studied courses in domains of tourism, F&B, education, insurance, etc._
 <br />
-_• Have an overview of technologies (frameworks, libraries, RESTful web services, databases, crawler, hosting, etc)._
+_• Have an overview of technologies (frameworks, libraries, architecture, crawl, database, hosting, etc) and UIUX._
 <br />
-_• Know how to make developers clearly understand the requirements._
+_• Know how to clarify the requirements with the development team._
 <br />
-_• Support end-users with incidents or requests regarding business processes that have been implemented._
+_• Execute UAT to verifying that the solution works for the user._
 <br />
-_• Implement UAT to evaluate product conformance to customer requirements._
+_• support end-users with incidents or requests regarding business processes that have been implemented._
 <br />
 
 <img align="left" alt="UML" width="40px" src="http://www.geocities.ws/jjaimes6603/fase2/imagenes/logo_uml.gif" />
@@ -49,15 +49,19 @@ _• Implement UAT to evaluate product conformance to customer requirements._
 <img align="left" alt="JS" width="33px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
 <img align="left" alt="JQuery" width="36px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-2.jpg" />
 <img align="left" alt="Bootstrap" width="35px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
+
+<br />
+
 <img align="left" alt="NodeJS" width="32px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
-<img align="left" alt="PWA" width="40px" src="https://jenia.it/images/technologies/pwa-logo.png" />
-<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="Flask" width="35px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
 <img align="left" alt="DotNet" width="37px" src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" />
+<img align="left" alt="Php" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png" />
+
+<br />
+
 <img align="left" alt="Git" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="Netlify" width="35px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
 <img align="left" alt="Heroku" width="33px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
-<img align="left" alt="Php" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png" />
 
 <br />
 
