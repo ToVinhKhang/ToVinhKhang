@@ -15,8 +15,8 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 
 <br />
 
-# MAIN KNOWLEDGES
-### Business Analysis
+# KNOWLEDGE
+## Business Analysis
 _• Gathering and identifying customer requirements to make business processes/rules clear._
 <br />
 _• Provide User Stories, Wireframes, BRD/SRS docs._
@@ -44,7 +44,7 @@ _• Supports end-users with incidents or requests regarding business processes 
 <br />
 
 ## Web Programming and Application
-### Front-end
+### Front-End
 <img align="left" alt="Html" width="35px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />
 <img align="left" alt="Css" width="33px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" />
 <img align="left" alt="JS" width="33px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
@@ -53,8 +53,7 @@ _• Supports end-users with incidents or requests regarding business processes 
 
 <br />
 
-### Back-end
-
+### Back-End
 <img align="left" alt="NodeJS" width="32px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="Flask" width="35px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
 <img align="left" alt="DotNet" width="37px" src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" />
@@ -62,11 +61,10 @@ _• Supports end-users with incidents or requests regarding business processes 
 
 <br />
 
-### Tools & Hosting
-
-<img align="left" alt="Git" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+### Hosting & Tool
 <img align="left" alt="Netlify" width="35px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
 <img align="left" alt="Heroku" width="33px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
+<img align="left" alt="Git" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 
 <br />
 
