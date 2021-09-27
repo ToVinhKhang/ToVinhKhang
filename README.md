@@ -79,7 +79,7 @@ _• Socials: Problem Solving, Presentation, Leadership, Communication and Teamw
 <br />
 
 ## LANGUAGES
-_• Vietnamese (Native or bilingual proficiency)_
+_• Vietnamese (Native proficiency)_
 <br />
 _• English (Professional working proficiency_
 <br />
