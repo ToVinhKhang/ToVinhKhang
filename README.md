@@ -21,7 +21,7 @@ _• Gathering and identifying customer requirements to make business processes/
 <br />
 _• Provide User Stories, Wireframes, BRD/SRS docs._
 <br />
-_• Have knowledge about Agile-Scrum, SDLC, and used to be studied courses in domains of tourism, F&B, education, insurance, etc._
+_• Have knowledge about Agile-Scrum, SDLC, and used to be studied courses in domains of education, sales, tourism, insurance, etc._
 <br />
 _• Have an overview of technologies (frameworks, libraries, architecture, crawl, database, hosting, etc) and UIUX._
 <br />
