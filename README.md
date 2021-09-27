@@ -52,10 +52,14 @@ _• support end-users with incidents or requests regarding business processes t
 
 <br />
 
+<br />
+
 <img align="left" alt="NodeJS" width="32px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="Flask" width="35px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
 <img align="left" alt="DotNet" width="37px" src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" />
 <img align="left" alt="Php" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png" />
+
+<br />
 
 <br />
 
