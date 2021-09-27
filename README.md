@@ -27,9 +27,9 @@ _• Have an overview of technologies (frameworks, libraries, architecture, craw
 <br />
 _• Know how to clarify the requirements with the development team._
 <br />
-_• Execute UAT to verifying that the solution works for the user._
+_• Performs UAT to verifying that the solution works for the user._
 <br />
-_• support end-users with incidents or requests regarding business processes that have been implemented._
+_• Supports end-users with incidents or requests regarding business processes that have been implemented._
 <br />
 
 <img align="left" alt="UML" width="40px" src="http://www.geocities.ws/jjaimes6603/fase2/imagenes/logo_uml.gif" />
@@ -43,8 +43,8 @@ _• support end-users with incidents or requests regarding business processes t
 
 <br />
 
-### Web Programming and Application
-#### Front-end
+## Web Programming and Application
+### Front-end
 <img align="left" alt="Html" width="35px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />
 <img align="left" alt="Css" width="33px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" />
 <img align="left" alt="JS" width="33px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
@@ -53,7 +53,7 @@ _• support end-users with incidents or requests regarding business processes t
 
 <br />
 
-#### Back-end
+### Back-end
 
 <img align="left" alt="NodeJS" width="32px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="Flask" width="35px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
@@ -62,7 +62,7 @@ _• support end-users with incidents or requests regarding business processes t
 
 <br />
 
-#### Tools & Hosting
+### Tools & Hosting
 
 <img align="left" alt="Git" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="Netlify" width="35px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
