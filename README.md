@@ -44,24 +44,16 @@ _• Performs UAT in testing, verifying bugs or issues with end-users._
 <br />
 
 ## Web Programming and Application
-### Front-End
+
 <img align="left" alt="Html" width="35px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />
 <img align="left" alt="Css" width="33px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" />
 <img align="left" alt="JS" width="33px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
 <img align="left" alt="JQuery" width="36px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-2.jpg" />
 <img align="left" alt="Bootstrap" width="35px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
-
-<br />
-
-### Back-End
 <img align="left" alt="NodeJS" width="32px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="Flask" width="35px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
 <img align="left" alt="DotNet" width="37px" src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" />
 <img align="left" alt="Php" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png" />
-
-<br />
-
-### Hosting & Tool
 <img align="left" alt="Netlify" width="35px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
 <img align="left" alt="Heroku" width="33px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
 <img align="left" alt="Git" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
