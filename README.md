@@ -17,7 +17,7 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 
 # KNOWLEDGE
 ## Business Analysis
-_• Gathering and analyzing customer requirements to make business processes/rules clear and clarify the requirements with the development team._
+_• Gathering and analyzing customer requirements to make business processes/rules clear, clarify the requirements with development team._
 <br />
 _• Provide User Stories, Wireframes and Documents._
 <br />
