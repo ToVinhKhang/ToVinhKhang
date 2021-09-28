@@ -11,25 +11,25 @@
 <br />
 
 # ABOUT ME
-_I am passionate about business analysis, have knowledge of the most popular programming languages, skills in business process modeling, public speaking, and demonstrated experience as a team leader. Besides, I used to be in roles UIUX designer, developer, and tester. A perfectionist who ensures that every task is completed with the utmost attention to detail._
+_I am passionate about business analysis, have knowledge of the most popular programming languages, skills in business process modeling, public speaking, and demonstrated experience as a team leader. Besides, I used to be in roles designer, developer, and tester. A perfectionist who ensures that every task is completed with the utmost attention to detail._
 
 <br />
 
 # KNOWLEDGE
 ## Business Analysis
-_• Gathering and identifying customer requirements to make business processes/rules clear._
+_• Gathering and analyzing customer requirements to make business processes/rules clear and clarify the requirements with the development team._
 <br />
-_• Provide User Stories, Wireframes, BRD/SRS docs._
+_• Provide User Stories, Wireframes and Documents._
 <br />
-_• Have knowledge about Agile-Scrum, SDLC, and used to be studied courses in domains of education, sales, tourism, insurance, etc._
+_• Have knowledge about SDLC, Agile Scrum and used to be studied courses in domains of education, tourism, insurance, e-commerce, etc._
 <br />
-_• Have an overview of technologies (frameworks, libraries, architecture, crawl, database, hosting, etc) and UIUX._
+_• Know how to make time management, arrange work effectively for self and team._
 <br />
-_• Know how to clarify the requirements with the development team._
+_• Have an overview of web-based technologies (frameworks, libraries, architecture, crawl, database, hosting, etc) and UIUX._
 <br />
-_• Performs UAT to verifying that the solution works for the user._
+_• Have used through BA tools (Microsoft Office, AstahUML, Jira, Balsamiq, Canvanizer, etc)._
 <br />
-_• Supports end-users with incidents or requests regarding business processes that have been implemented._
+_• Performs UAT in testing, verifying bugs or issues with end-users._
 <br />
 
 <img align="left" alt="UML" width="40px" src="http://www.geocities.ws/jjaimes6603/fase2/imagenes/logo_uml.gif" />
