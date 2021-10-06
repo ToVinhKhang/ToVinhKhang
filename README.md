@@ -1,6 +1,6 @@
 <img width="220" height="220" src="https://tovinhkhang.netlify.app/images/skills.jpg" align="right" />
 
-# SOFTWARE ENGINEERING
+## Bachelor of Software Engineering
 <br>
 
 > Concentration: Business Analysis
