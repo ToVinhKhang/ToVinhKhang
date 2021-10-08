@@ -17,19 +17,17 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 
 # KNOWLEDGE
 ## Business Analysis
-_• Gathering and analyzing customer requirements to make business processes/rules clear, clarify the requirements with development team._
+_• Gathering and analyzing customer requirements to make business processes/rules clear, and clarify the requirements with the development team._
 <br />
-_• Provide User Stories, Wireframes and Documents._
+_•Proficient in provides Specification documents, (Usecases, Activity diagrams, ERD, Swimlane, etc) and Wireframes, User stories._
 <br />
-_• Have knowledge about SDLC, Agile Scrum and used to be studied courses in domains of education, tourism, insurance, e-commerce, etc._
+_• Have knowledge about SDLC, Agile-Scrum and used to be studied courses in domains of education, tourism, insurance, e-commerce, etc._
 <br />
-_• Know how to make time management, arrange work effectively for self and team._
+_• Have an overview of web-based technologies (frameworks, libraries, architectures, databases, hosting, etc) and UI/UX, testing._
 <br />
-_• Have an overview of web-based technologies (frameworks, libraries, architecture, crawl, database, hosting, etc) and UIUX._
+_• Able to suggest technical solutions to solve problems arising during programming._
 <br />
 _• Have used through BA tools (Microsoft Office, AstahUML, Jira, Balsamiq, Canvanizer, etc)._
-<br />
-_• Performs UAT in testing, verifying bugs or issues with end-users._
 <br />
 
 <img align="left" alt="UML" width="40px" src="http://www.geocities.ws/jjaimes6603/fase2/imagenes/logo_uml.gif" />
