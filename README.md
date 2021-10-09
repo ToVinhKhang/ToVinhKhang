@@ -23,7 +23,7 @@ _• Proficient in provides Specification documents (Usecases, Activity diagrams
 <br />
 _• Have knowledge about SDLC, Agile-Scrum and used to be studied courses in domains of education, tourism, insurance, e-commerce, etc._
 <br />
-_• Have an overview of web-based technologies (frameworks, libraries, architectures, databases, hosting, etc) and UI/UX, testing._
+_• Have an overview of web-based technologies (frameworks, libraries, architectures, databases, hosting, etc) and UI/UX, Testing._
 <br />
 _• Able to suggest technical solutions to solve problems arising during programming._
 <br />
