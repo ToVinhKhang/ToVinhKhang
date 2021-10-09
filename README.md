@@ -19,7 +19,7 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 ## Business Analysis
 _• Gathering and analyzing customer requirements to make business processes/rules clear, clarify the requirements with development team._
 <br />
-_• Proficient in provides Specification documents (Usecases, Activity diagrams, ERD, Swimlane, etc) and Wireframes/Mockup, User stories._
+_• Proficient in providing SRS, Wireframes/Mockup, and writing User stories._
 <br />
 _• Have knowledge about Agile-Scrum, and used to work on school projects related to the domain of education, tourism, F&B, insurance, etc._
 <br />
