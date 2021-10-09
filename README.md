@@ -21,11 +21,11 @@ _• Gathering and analyzing customer requirements to make business processes/ru
 <br />
 _• Proficient in provides Specification documents (Usecases, Activity diagrams, ERD, Swimlane, etc) and Wireframes/Mockup, User stories._
 <br />
-_• Have knowledge about SDLC, Agile-Scrum and used to be studied courses in domains of education, tourism, insurance, e-commerce, etc._
+_• Have knowledge about Agile-Scrum, and used to work on school projects related to the domain of education, tourism, F&B, insurance, etc._
 <br />
-_• Have an overview of web-based technologies (frameworks, libraries, architectures, databases, hosting, etc) and UI/UX, Testing._
+_• Have an overview of web-based technologies (frameworks, libraries, architectures, databases, hosting, etc) and UI/UX._
 <br />
-_• Able to suggest technical solutions to solve problems arising during programming._
+_• Able to assist in suggesting solutions to solve problems arising from internal UAT or coding._
 <br />
 _• Have used through BA tools (Microsoft Office, AstahUML, Jira, Balsamiq, Canvanizer, etc)._
 <br />
