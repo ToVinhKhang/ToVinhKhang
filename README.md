@@ -27,7 +27,7 @@ _• Have an overview of web-based technologies (frameworks, libraries, architec
 <br />
 _• Able to assist in suggesting solutions to solve problems arising from internal UAT or coding._
 <br />
-_• Have used through BA tools (Microsoft Office, AstahUML, Jira, Balsamiq, Canvanizer, etc)._
+_• Some used BA tools (Microsoft Office, AstahUML, Jira, Balsamiq, Canvanizer, etc)._
 <br />
 
 <img align="left" alt="UML" width="40px" src="http://www.geocities.ws/jjaimes6603/fase2/imagenes/logo_uml.gif" />
