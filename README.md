@@ -23,7 +23,7 @@ _• Proficient in providing BRD, SRS, Wireframes, Mockup, and User stories._
 <br />
 _• Have knowledge about Agile-Scrum, and used to work on school projects related to the domain of education, tourism, F&B, insurance, etc._
 <br />
-_• Have an overview of web-based technologies (frameworks, libraries, architectures, databases, hosting, etc) and UI/UX._
+_• Have an overview of web-based technologies (frameworks, architectures, databases, hosting, etc), UI/UX mindset, and Testing skill._
 <br />
 _• Able to assist in suggesting solutions to solve problems arising from internal UAT or coding._
 <br />
