@@ -92,7 +92,7 @@ _• Chinese (Elementary proficiency)_
 
 [facebook]: https://www.facebook.com/ToVinhKhangTDTU/
 [instagram]: https://www.instagram.com/vkent_/
-[linkedin]: https://www.linkedin.com/in/ToVinhKhang/
+[linkedin]: https://www.linkedin.com/in/tovinhkhang/
 
 
 
