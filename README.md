@@ -19,7 +19,7 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 ## Business Analysis
 _• Have knowledge about Outsourcing and Agile-Scrum._
 <br />
-_• Gathering and analyzing customer requirements to make business processes/rules, then clarify requirements with the development team_
+_• Gathering and analyzing customer requirements to make business processes/rules, then clarify requirements with the development team._
 <br />
 _• Gain experience in providing SRS, Wireframes, Mockup, and User stories._
 <br />
