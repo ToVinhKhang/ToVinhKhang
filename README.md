@@ -82,7 +82,7 @@ _• Chinese (Elementary proficiency)_
 [<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
 [<img align="left" alt="Instagram" width="40px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />][instagram]
 [<img align="left" alt="Linkedin" width="40px" src="https://www.dtl.coventry.domains/wp-content/uploads/2020/07/LinkedIn-Logo-1024x1024.png" />][linkedin]
-[<img align="left" alt="Gmail" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />][gmail]
+[<img align="left" alt="Gmail" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />][gmail]
 
 <br /><br /><br />
 ---
@@ -94,7 +94,7 @@ _• Chinese (Elementary proficiency)_
 [facebook]: https://www.facebook.com/ToVinhKhangTDTU/
 [instagram]: https://www.instagram.com/vkent_/
 [linkedin]: https://www.linkedin.com/in/tovinhkhang/
-[gmail]: vinhkhang1969@gmail.com
+[gmail]: mailto:vinhkhang1969@gmail.com
 
 
 
