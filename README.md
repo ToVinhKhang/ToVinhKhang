@@ -17,13 +17,15 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 
 # KNOWLEDGE
 ## Business Analysis
-_• Gathering and analyzing customer requirements to make business processes/rules clear, clarify the requirements with development team._
+_• Have knowledge about Outsourcing and Agile-Scrum._
 <br />
-_• Gain experience in SRS, Wireframes/Mockup, and User stories._
+_• Know how to Gathering and analyzing customer requirements to make business processes/rules clear, then clarify requirements with the development team._
 <br />
-_• Have knowledge about Agile-Scrum, and used to work on school projects related to the domain of education, tourism, F&B, insurance, etc._
+_• Gain experience in providing SRS, Wireframes, Mockup, and User stories._
 <br />
-_• Have an overview of web-based technologies (frameworks, architectures, databases, hosting, etc), UI/UX mindset, and Testing skill._
+_• Worked in school projects related to the domain of education, tourism, F&B, insurance, etc._
+<br />
+_• Have an overview of web-based technologies (framework, libraries, architecture, database, hosting, etc), UI/UX mindset, and Testing skills._
 <br />
 _• Able to assist in suggesting solutions to solve problems arising from internal UAT or coding._
 <br />
