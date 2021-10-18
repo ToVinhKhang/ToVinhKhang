@@ -19,9 +19,9 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 ## Business Analysis
 _• Have knowledge about Outsourcing and Agile-Scrum._
 <br />
-_• Gathering and analyzing customer requirements to make business processes/rules, then clarify requirements with the development team._
+_• Experiences in gathering and analyzing customer requirements, clarify requirements with the development team._
 <br />
-_• Gain experience in providing SRS, Wireframes, Mockup, and User stories._
+_• Proficient in providing SRS, Wireframes, Mockup, and User stories._
 <br />
 _• Worked in school projects related to the domain of education, tourism, F&B, insurance, etc._
 <br />
@@ -29,7 +29,7 @@ _• Have an overview of web-based technologies (framework, libraries, architect
 <br />
 _• Able to assist in suggesting solutions to solve problems arising from internal UAT or coding._
 <br />
-_• Proficient in BA tools (Microsoft Office, UML, Jira, Balsamiq, Canvanizer, etc)._
+_• Some BA tools using (Microsoft Office, UML, Jira, Balsamiq, Canvanizer, etc)._
 <br />
 
 <img align="left" alt="UML" width="40px" src="http://www.geocities.ws/jjaimes6603/fase2/imagenes/logo_uml.gif" />
