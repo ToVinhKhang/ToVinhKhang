@@ -39,8 +39,6 @@ _• Some BA tools using (Microsoft Office, UML, Jira, Balsamiq, Canvanizer, etc
 <img align="left" alt="MS" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" />
 <img align="left" alt="Balsamiq" width="45px" src="https://synth.agency/wp-content/uploads/2020/06/Apps-Balsamiq-1024x1024.png" />
 <img align="left" alt="Jira" width="42px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
-<img align="left" alt="Canva" width="42px" src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=730&crop=1" />
-<img align="left" alt="Canvanizer" width="44px" src="https://canvanizer.com/favicon.ico?v=2" />
 
 <br />
 
