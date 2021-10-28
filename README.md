@@ -33,7 +33,10 @@ _• Some BA tools using (Microsoft Office, UML, Jira, Balsamiq, Canvanizer, etc
 <br />
 
 <img align="left" alt="UML" width="40px" src="http://www.geocities.ws/jjaimes6603/fase2/imagenes/logo_uml.gif" />
-<img align="left" alt="MS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/1200px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png" />
+<img align="left" alt="MS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
+<img align="left" alt="MS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2086px-Microsoft_PowerPoint_2013-2019_logo.svg.png" />
+<img align="left" alt="MS" width="40px" src="https://www.wizcase.com/wp-content/uploads/2020/10/vISIO-LOGO.png" />
+<img align="left" alt="MS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" />
 <img align="left" alt="Balsamiq" width="40px" src="https://synth.agency/wp-content/uploads/2020/06/Apps-Balsamiq-1024x1024.png" />
 <img align="left" alt="Jira" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
 <img align="left" alt="Canva" width="40px" src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=730&crop=1" />
