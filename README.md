@@ -32,15 +32,15 @@ _• Able to assist in suggesting solutions to solve problems arising from inter
 _• Some BA tools using (Microsoft Office, UML, Jira, Balsamiq, Canvanizer, etc)._
 <br />
 
-<img align="left" alt="UML" width="40px" src="http://www.geocities.ws/jjaimes6603/fase2/imagenes/logo_uml.gif" />
-<img align="left" alt="MS" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
-<img align="left" alt="MS" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2086px-Microsoft_PowerPoint_2013-2019_logo.svg.png" />
-<img align="left" alt="MS" width="42px" src="https://www.wizcase.com/wp-content/uploads/2020/10/vISIO-LOGO.png" />
-<img align="left" alt="MS" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" />
-<img align="left" alt="Balsamiq" width="42px" src="https://synth.agency/wp-content/uploads/2020/06/Apps-Balsamiq-1024x1024.png" />
-<img align="left" alt="Jira" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
-<img align="left" alt="Canva" width="40px" src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=730&crop=1" />
-<img align="left" alt="Canvanizer" width="42px" src="https://canvanizer.com/favicon.ico?v=2" />
+<img align="left" alt="UML" width="42px" src="http://www.geocities.ws/jjaimes6603/fase2/imagenes/logo_uml.gif" />
+<img align="left" alt="MS" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
+<img align="left" alt="MS" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2086px-Microsoft_PowerPoint_2013-2019_logo.svg.png" />
+<img align="left" alt="MS" width="45px" src="https://www.wizcase.com/wp-content/uploads/2020/10/vISIO-LOGO.png" />
+<img align="left" alt="MS" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" />
+<img align="left" alt="Balsamiq" width="45px" src="https://synth.agency/wp-content/uploads/2020/06/Apps-Balsamiq-1024x1024.png" />
+<img align="left" alt="Jira" width="42px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
+<img align="left" alt="Canva" width="42px" src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=730&crop=1" />
+<img align="left" alt="Canvanizer" width="44px" src="https://canvanizer.com/favicon.ico?v=2" />
 
 <br />
 
