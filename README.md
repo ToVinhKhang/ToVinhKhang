@@ -23,7 +23,7 @@ _• Experiences in gathering and analyzing customer requirements, clarify requi
 <br />
 _• Proficient in providing SRS, Wireframes, Mockup, and User stories._
 <br />
-_• Worked in school projects related to the domain of education, tourism, F&B, insurance, etc._
+_• General understanding in the domain of Education, Game, F&B, Tourism, Insurance, etc._
 <br />
 _• Have an overview of web-based technologies (framework, libraries, architecture, database, hosting, etc), UI/UX mindset, and Testing skills._
 <br />
