@@ -3,10 +3,10 @@
 ## Bachelor of Software Engineering
 <br>
 
-> Concentration: Business Analysis and Design
+> Main (Concentration): Business Analysis and Project Management
 <br>
 
-> Minor: Web Programming and Applications
+> Minor: Web Development and Computer Science.
 
 <br />
 
