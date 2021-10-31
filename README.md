@@ -17,20 +17,6 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 
 # KNOWLEDGE
 ## MAIN
-_• Have knowledge about Outsourcing and Agile-Scrum._
-<br />
-_• Experiences in gathering and analyzing customer requirements, clarify requirements with the development team._
-<br />
-_• Proficient in providing SRS, Wireframes, Mockup, and User stories._
-<br />
-_• General understanding in the domain of Education, Game, F&B, Tourism, Insurance, etc._
-<br />
-_• Have an overview of web-based technologies (framework, libraries, architecture, database, hosting, etc), UI/UX mindset, and Testing skills._
-<br />
-_• Able to assist in suggesting solutions to solve problems arising from internal UAT or coding._
-<br />
-_• Some BA tools using (Microsoft Office, UML, Jira, Balsamiq, Canvanizer, etc)._
-<br />
 
 <img align="left" alt="UML" width="42px" src="https://neo-form.fr/wp-content/uploads/2019/12/formation-uml-analser-concevoir.png" />
 <img align="left" alt="MS" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
