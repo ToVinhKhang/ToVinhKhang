@@ -16,7 +16,7 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 <br />
 
 # KNOWLEDGE
-## Business Analysis
+## MAIN
 _• Have knowledge about Outsourcing and Agile-Scrum._
 <br />
 _• Experiences in gathering and analyzing customer requirements, clarify requirements with the development team._
@@ -32,7 +32,7 @@ _• Able to assist in suggesting solutions to solve problems arising from inter
 _• Some BA tools using (Microsoft Office, UML, Jira, Balsamiq, Canvanizer, etc)._
 <br />
 
-<img align="left" alt="UML" width="42px" src="http://www.geocities.ws/jjaimes6603/fase2/imagenes/logo_uml.gif" />
+<img align="left" alt="UML" width="42px" src="https://neo-form.fr/wp-content/uploads/2019/12/formation-uml-analser-concevoir.png" />
 <img align="left" alt="MS" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
 <img align="left" alt="MS" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2086px-Microsoft_PowerPoint_2013-2019_logo.svg.png" />
 <img align="left" alt="MS" width="45px" src="https://www.wizcase.com/wp-content/uploads/2020/10/vISIO-LOGO.png" />
@@ -44,7 +44,7 @@ _• Some BA tools using (Microsoft Office, UML, Jira, Balsamiq, Canvanizer, etc
 
 <br />
 
-## Web Development
+## MINOR
 
 <img align="left" alt="Html" width="35px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />
 <img align="left" alt="Css" width="33px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" />
