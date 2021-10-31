@@ -57,12 +57,11 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 <img align="left" alt="Anaconda" width="35px" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" />
 <img align="left" alt="Unity" width="38px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
 <img align="left" alt="SQLServer" width="37px" src="https://nayeltraining.com/wp-content/uploads/2021/06/microsoft-sql-server.png" />
+<img align="left" alt="Adruino" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/arduino-1-logo-png-transparent.png" />
+<img align="left" alt="Cisco" width="33px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
 <img align="left" alt="MySQL" width="38px" src="https://lh3.googleusercontent.com/proxy/ncmLCg01nwSc11I8FUIR1TvvKXv0hnJN2GWgkFROyTb_vQ5-KFMyG3CVF9FQHhqeHMV35-RHWkPdzIcf1GKQpYXr-c8neYK1mtfrNWLVrlOWlBW-" />
 <img align="left" alt="Mongo" width="33px" src="https://www.pngrepo.com/png/331488/180/mongodb.png" />
 <img align="left" alt="Java" width="35px" src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" />
-<img align="left" alt="Adruino" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/arduino-1-logo-png-transparent.png" />
-<img align="left" alt="Cisco" width="33px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
-
 
 <br />
 
