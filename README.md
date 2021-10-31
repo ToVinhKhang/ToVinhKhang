@@ -55,6 +55,11 @@ _• Some BA tools using (Microsoft Office, UML, Jira, Balsamiq, Canvanizer, etc
 <img align="left" alt="Flask" width="35px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
 <img align="left" alt="NodeJS" width="32px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="Php" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png" />
+
+<img align="left" alt="Unity" width="35px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
+<img align="left" alt="Python" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
+<img align="left" alt="CSharp" width="35px" src="https://www.filepicker.io/api/file/Y8hH5nNoRWejEljADpba" />
+<img align="left" alt="C" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 <img align="left" alt="SQLServer" width="40px" src="https://nayeltraining.com/wp-content/uploads/2021/06/microsoft-sql-server.png" />
 <img align="left" alt="Netlify" width="35px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
 <img align="left" alt="Heroku" width="33px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
