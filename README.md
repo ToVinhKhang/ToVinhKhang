@@ -85,11 +85,11 @@ _• Korean (Elementary proficiency)_
 _• Chinese (Elementary proficiency)_
 <br />
 
-## CONTACTS
-[<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png" />][facebook]
-[<img align="left" alt="Instagram" width="40px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />][instagram]
+# CONTACTS
 [<img align="left" alt="Linkedin" width="40px" src="https://www.dtl.coventry.domains/wp-content/uploads/2020/07/LinkedIn-Logo-1024x1024.png" />][linkedin]
 [<img align="left" alt="Gmail" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />][gmail]
+[<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png" />][facebook]
+[<img align="left" alt="Instagram" width="40px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />][instagram]
 
 <br /><br /><br />
 ---
