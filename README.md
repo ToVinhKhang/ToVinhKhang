@@ -68,13 +68,14 @@ _• Some BA tools using (Microsoft Office, UML, Jira, Balsamiq, Canvanizer, etc
 <img align="left" alt="Python" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="Flask" width="35px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
 <img align="left" alt="Php" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png" />
-<img align="left" alt="SQLServer" width="38px" src="https://nayeltraining.com/wp-content/uploads/2021/06/microsoft-sql-server.png" />
-<img align="left" alt="MySQL" width="38px" src="https://lh3.googleusercontent.com/proxy/ncmLCg01nwSc11I8FUIR1TvvKXv0hnJN2GWgkFROyTb_vQ5-KFMyG3CVF9FQHhqeHMV35-RHWkPdzIcf1GKQpYXr-c8neYK1mtfrNWLVrlOWlBW-" />
-<img align="left" alt="Mongo" width="37px" src="https://www.pngrepo.com/png/331488/180/mongodb.png" />
+<img align="left" alt="Anaconda" width="37px" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" />
 <img align="left" alt="Adruino" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/arduino-1-logo-png-transparent.png" />
 <img align="left" alt="Cisco" width="33px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
-<img align="left" alt="Anaconda" width="37px" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" />
 <img align="left" alt="Java" width="37px" src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" />
+<img align="left" alt="SQLServer" width="38px" src="https://nayeltraining.com/wp-content/uploads/2021/06/microsoft-sql-server.png" />
+<img align="left" alt="MySQL" width="37px" src="https://lh3.googleusercontent.com/proxy/ncmLCg01nwSc11I8FUIR1TvvKXv0hnJN2GWgkFROyTb_vQ5-KFMyG3CVF9FQHhqeHMV35-RHWkPdzIcf1GKQpYXr-c8neYK1mtfrNWLVrlOWlBW-" />
+<img align="left" alt="Mongo" width="37px" src="https://www.pngrepo.com/png/331488/180/mongodb.png" />
+
 
 <br />
 
