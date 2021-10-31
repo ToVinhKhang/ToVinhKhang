@@ -51,31 +51,30 @@ _• Some BA tools using (Microsoft Office, UML, Jira, Balsamiq, Canvanizer, etc
 <img align="left" alt="JS" width="33px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
 <img align="left" alt="JQuery" width="36px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-2.jpg" />
 <img align="left" alt="Bootstrap" width="35px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
+<img align="left" alt="PWA" width="35px" src="https://angular-pwa-seed.netlify.app/assets/icon.png" />
 <img align="left" alt="CSharp" width="36px" src="https://www.filepicker.io/api/file/Y8hH5nNoRWejEljADpba" />
 <img align="left" alt="DotNet" width="38px" src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" />
 <img align="left" alt="NodeJS" width="32px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
-<img align="left" alt="Unity" width="40px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
+<img align="left" alt="Flask" width="35px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
+<img align="left" alt="Php" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png" />
 <img align="left" alt="Netlify" width="35px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
 <img align="left" alt="Heroku" width="33px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
 <img align="left" alt="Git" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img align="left" alt="PWA" width="37px" src="https://angular-pwa-seed.netlify.app/assets/icon.png" />
 
 <br/>
 
 ####
 
+<img align="left" alt="Unity" width="40px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
 <img align="left" alt="C" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 <img align="left" alt="Python" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img align="left" alt="Flask" width="35px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
-<img align="left" alt="Php" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png" />
 <img align="left" alt="Anaconda" width="37px" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" />
+<img align="left" alt="SQLServer" width="38px" src="https://nayeltraining.com/wp-content/uploads/2021/06/microsoft-sql-server.png" />
+<img align="left" alt="MySQL" width="38px" src="https://lh3.googleusercontent.com/proxy/ncmLCg01nwSc11I8FUIR1TvvKXv0hnJN2GWgkFROyTb_vQ5-KFMyG3CVF9FQHhqeHMV35-RHWkPdzIcf1GKQpYXr-c8neYK1mtfrNWLVrlOWlBW-" />
+<img align="left" alt="Mongo" width="34px" src="https://www.pngrepo.com/png/331488/180/mongodb.png" />
 <img align="left" alt="Adruino" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/arduino-1-logo-png-transparent.png" />
 <img align="left" alt="Cisco" width="33px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
 <img align="left" alt="Java" width="37px" src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" />
-<img align="left" alt="SQLServer" width="38px" src="https://nayeltraining.com/wp-content/uploads/2021/06/microsoft-sql-server.png" />
-<img align="left" alt="MySQL" width="38px" src="https://lh3.googleusercontent.com/proxy/ncmLCg01nwSc11I8FUIR1TvvKXv0hnJN2GWgkFROyTb_vQ5-KFMyG3CVF9FQHhqeHMV35-RHWkPdzIcf1GKQpYXr-c8neYK1mtfrNWLVrlOWlBW-" />
-<img align="left" alt="Mongo" width="35px" src="https://www.pngrepo.com/png/331488/180/mongodb.png" />
-
 
 <br />
 
