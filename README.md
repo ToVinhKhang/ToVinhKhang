@@ -25,6 +25,7 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 <img align="left" alt="MS" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" />
 <img align="left" alt="Balsamiq" width="45px" src="https://synth.agency/wp-content/uploads/2020/06/Apps-Balsamiq-1024x1024.png" />
 <img align="left" alt="Jira" width="42px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
+<img align="left" alt="Canva" width="42px" src="https://www.cookforestconservancy.org/wp-content/uploads/2019/04/logo-canva.png" />
 
 <br />
 
@@ -58,9 +59,10 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 <img align="left" alt="SQLServer" width="38px" src="https://nayeltraining.com/wp-content/uploads/2021/06/microsoft-sql-server.png" />
 <img align="left" alt="MySQL" width="38px" src="https://lh3.googleusercontent.com/proxy/ncmLCg01nwSc11I8FUIR1TvvKXv0hnJN2GWgkFROyTb_vQ5-KFMyG3CVF9FQHhqeHMV35-RHWkPdzIcf1GKQpYXr-c8neYK1mtfrNWLVrlOWlBW-" />
 <img align="left" alt="Mongo" width="34px" src="https://www.pngrepo.com/png/331488/180/mongodb.png" />
+<img align="left" alt="Java" width="37px" src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" />
 <img align="left" alt="Adruino" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/arduino-1-logo-png-transparent.png" />
 <img align="left" alt="Cisco" width="33px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
-<img align="left" alt="Java" width="37px" src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" />
+<img align="left" alt="Postman" width="33px" src="https://timoday.edu.vn/wp-content/uploads/2019/12/Postman.png" />
 
 <br />
 
