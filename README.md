@@ -54,11 +54,11 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 <img align="left" alt="Anaconda" width="35px" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" />
 <img align="left" alt="Unity" width="38px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
 <img align="left" alt="SQLServer" width="37px" src="https://nayeltraining.com/wp-content/uploads/2021/06/microsoft-sql-server.png" />
-<img align="left" alt="Adruino" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/arduino-1-logo-png-transparent.png" />
-<img align="left" alt="Cisco" width="33px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
 <img align="left" alt="Netlify" width="35px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
 <img align="left" alt="Heroku" width="33px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
 <img align="left" alt="Git" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+<img align="left" alt="Adruino" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/arduino-1-logo-png-transparent.png" />
+<img align="left" alt="Cisco" width="33px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
 
 <br />
 
