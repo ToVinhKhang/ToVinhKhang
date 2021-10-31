@@ -66,9 +66,9 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 <br />
 
 ## SOFT SKILLS
-_• Attitude: Self-Motivated, Responsible, Detail-Oriented and Work Ethic._
+_• Self-motivated, Responsible, Detail-oriented, Willingness to learn, and Work ethic._
 <br />
-_• Socials: Problem Solving, Presentation, Leadership, Communication and Teamwork._
+_• Ability: Leadership, Communication, Teamwork, Problem-solving, and Public presentation._
 <br />
 
 ## LANGUAGES
