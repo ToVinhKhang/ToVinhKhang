@@ -73,8 +73,8 @@ _• Some BA tools using (Microsoft Office, UML, Jira, Balsamiq, Canvanizer, etc
 <img align="left" alt="Cisco" width="33px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
 <img align="left" alt="Java" width="37px" src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" />
 <img align="left" alt="SQLServer" width="38px" src="https://nayeltraining.com/wp-content/uploads/2021/06/microsoft-sql-server.png" />
-<img align="left" alt="MySQL" width="37px" src="https://lh3.googleusercontent.com/proxy/ncmLCg01nwSc11I8FUIR1TvvKXv0hnJN2GWgkFROyTb_vQ5-KFMyG3CVF9FQHhqeHMV35-RHWkPdzIcf1GKQpYXr-c8neYK1mtfrNWLVrlOWlBW-" />
-<img align="left" alt="Mongo" width="37px" src="https://www.pngrepo.com/png/331488/180/mongodb.png" />
+<img align="left" alt="MySQL" width="38px" src="https://lh3.googleusercontent.com/proxy/ncmLCg01nwSc11I8FUIR1TvvKXv0hnJN2GWgkFROyTb_vQ5-KFMyG3CVF9FQHhqeHMV35-RHWkPdzIcf1GKQpYXr-c8neYK1mtfrNWLVrlOWlBW-" />
+<img align="left" alt="Mongo" width="35px" src="https://www.pngrepo.com/png/331488/180/mongodb.png" />
 
 
 <br />
