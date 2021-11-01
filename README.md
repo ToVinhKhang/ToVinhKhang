@@ -39,6 +39,8 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 
 <br />
 
+<br />
+
 ## MINOR
 #### Web Development
 <img align="left" alt="Html" width="35px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />
