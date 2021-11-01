@@ -11,11 +11,12 @@
 <br />
 
 # ABOUT ME
-_I am passionate about business analysis and project management. Have knowledge of the most popular present programming languages, gain experience in business process modeling, public speaking, and demonstrated experience as a team leader. Besides, I used to be in roles designer, developer, and tester. _
-<br/>
+
+_I am passionate about business analysis and project management. Have knowledge of the most popular present programming languages, gain experience in business process modeling, public speaking, and demonstrated experience as a team leader. Besides, I used to be in roles designer, developer, and tester._
+<br />
 
 _Furthermore, my part-time jobs in university life required exceptional time management, collaboration efforts, and interpersonal abilities, a perfectionist who ensures that every task is completed with the utmost attention to detail._
-<br/>
+<br />
 
 _Outside of work, I learn about the culture and history of all countries, swimming, photography,... which helps me find life balance and refill the energy for a new day._
 <br />
