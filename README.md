@@ -50,7 +50,6 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 <img align="left" alt="SQLServer" width="37px" src="https://nayeltraining.com/wp-content/uploads/2021/06/microsoft-sql-server.png" />
 <img align="left" alt="Netlify" width="35px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
 <img align="left" alt="Heroku" width="33px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
-<img align="left" alt="Git" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 
 <br/>
 
@@ -63,15 +62,17 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 
 <br />
 
-#### Others
+#### Tools
+<img align="left" alt="Git" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="Anaconda" width="35px" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" />
-<img align="left" alt="Unity" width="38px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
 <img align="left" alt="Sublime" width="35px" src="https://avatars3.githubusercontent.com/u/684879?s=400&amp;v=4" />
 <img align="left" alt="VSC" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />
 <img align="left" alt="VS" width="37px" src="https://static.wikia.nocookie.net/logopedia/images/e/e4/Visual_Studio_2013_Logo.svg/revision/latest" />
+<img align="left" alt="Unity" width="38px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
 <img align="left" alt="Eclipse" width="35px" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" />
 <img align="left" alt="VMWare" width="33px" src="https://img.favpng.com/20/18/2/vmware-workstation-player-computer-icons-computer-file-scalable-vector-graphics-png-favpng-2gZJu5TzXh8kePSbcM1gDv7WP.jpg" />
 <img align="left" alt="Virtualbox" width="37px" src="https://www.upnxtblog.com/wp-content/uploads/2017/11/Virtualbox_logo.png" />
+<img align="left" alt="FSCapture" width="37px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/45039fb7-d63a-4643-b90e-19dc5c3c2738/ds6jvl-4d93cc1b-4a55-489e-beae-2022b6e05553.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ1MDM5ZmI3LWQ2M2EtNDY0My1iOTBlLTE5ZGM1YzNjMjczOFwvZHM2anZsLTRkOTNjYzFiLTRhNTUtNDg5ZS1iZWFlLTIwMjJiNmUwNTU1My5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.9ksUEwCrzT9qhrBO-6X2w-Qh9cjgqVO8_Jj-WmmFt60" />
 
 <br />
 
