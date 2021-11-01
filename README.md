@@ -28,6 +28,8 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 <img align="left" alt="Jira" width="42px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
 <img align="left" alt="Canva" width="42px" src="https://www.cookforestconservancy.org/wp-content/uploads/2019/04/logo-canva.png" />
 <img align="left" alt="Canvanizer" width="42px" src="https://canvanizer.com/favicon.ico?v=2" />
+<img align="left" alt="TeamView" width="42px" src="https://static.teamviewer.com/resources/2019/07/TeamViewer_Logo_512x512.png" />
+<img align="left" alt="Zoom" width="42px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/10/zoom-icon-logo.png" />
 
 <br />
 
@@ -67,9 +69,9 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 <img align="left" alt="Sublime" width="35px" src="https://avatars3.githubusercontent.com/u/684879?s=400&amp;v=4" />
 <img align="left" alt="VSC" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />
 <img align="left" alt="VS" width="37px" src="https://static.wikia.nocookie.net/logopedia/images/e/e4/Visual_Studio_2013_Logo.svg/revision/latest" />
-<img align="left" alt="Netlify" width="35px" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" />
-<img align="left" alt="Heroku" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />
-<img align="left" alt="Git" width="37px" src="https://static.wikia.nocookie.net/logopedia/images/e/e4/Visual_Studio_2013_Logo.svg/revision/latest" />
+<img align="left" alt="Eclipse" width="35px" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" />
+<img align="left" alt="VMWare" width="33px" src="https://img.favpng.com/20/18/2/vmware-workstation-player-computer-icons-computer-file-scalable-vector-graphics-png-favpng-2gZJu5TzXh8kePSbcM1gDv7WP.jpg" />
+<img align="left" alt="Virtualbox" width="37px" src="https://www.upnxtblog.com/wp-content/uploads/2017/11/Virtualbox_logo.png" />
 
 <br />
 
