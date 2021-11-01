@@ -28,10 +28,7 @@ _Furthermore, my part-time jobs in university life required exceptional time man
 <img align="left" alt="DrawIO" width="42px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9461f02c23e995e5d5e46e2676d110af/draw-io.png" />
 <img align="left" alt="Balsamiq" width="45px" src="https://synth.agency/wp-content/uploads/2020/06/Apps-Balsamiq-1024x1024.png" />
 <img align="left" alt="Jira" width="42px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
-<img align="left" alt="TeamView" width="42px" src="https://static.teamviewer.com/resources/2019/07/TeamViewer_Logo_512x512.png" />
-<img align="left" alt="Zoom" width="42px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/10/zoom-icon-logo.png" />
-<img align="left" alt="FSCapture" width="35px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/45039fb7-d63a-4643-b90e-19dc5c3c2738/ds6jvl-4d93cc1b-4a55-489e-beae-2022b6e05553.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ1MDM5ZmI3LWQ2M2EtNDY0My1iOTBlLTE5ZGM1YzNjMjczOFwvZHM2anZsLTRkOTNjYzFiLTRhNTUtNDg5ZS1iZWFlLTIwMjJiNmUwNTU1My5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.9ksUEwCrzT9qhrBO-6X2w-Qh9cjgqVO8_Jj-WmmFt60" />
-<img align="left" alt="Canvanizer" width="42px" src="https://canvanizer.com/favicon.ico?v=2" />
+
 
 <br />
 
