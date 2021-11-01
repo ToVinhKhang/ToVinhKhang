@@ -27,6 +27,7 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 <img align="left" alt="Balsamiq" width="45px" src="https://synth.agency/wp-content/uploads/2020/06/Apps-Balsamiq-1024x1024.png" />
 <img align="left" alt="Jira" width="42px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
 <img align="left" alt="Canva" width="42px" src="https://www.cookforestconservancy.org/wp-content/uploads/2019/04/logo-canva.png" />
+<img align="left" alt="Canvanizer" width="42px" src="https://canvanizer.com/favicon.ico?v=2" />
 
 <br />
 
