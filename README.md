@@ -46,6 +46,9 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 <img align="left" alt="NodeJS" width="32px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="Php" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png" />
 <img align="left" alt="SQLServer" width="37px" src="https://nayeltraining.com/wp-content/uploads/2021/06/microsoft-sql-server.png" />
+<img align="left" alt="Netlify" width="35px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
+<img align="left" alt="Heroku" width="33px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
+<img align="left" alt="Git" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 
 <br/>
 
@@ -56,12 +59,17 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 <img align="left" alt="Cisco" width="33px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
 <img align="left" alt="AdruinoIDE" width="33px" src="https://cdn.freebiesupply.com/logos/large/2x/arduino-1-logo-png-transparent.png" />
 
+<br />
+
 #### Others
-<img align="left" alt="Anaconda" width="38px" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" />
+<img align="left" alt="Anaconda" width="35px" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" />
 <img align="left" alt="Unity" width="38px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
-<img align="left" alt="Netlify" width="35px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
-<img align="left" alt="Heroku" width="33px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
-<img align="left" alt="Git" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+<img align="left" alt="Sublime" width="35px" src="https://avatars3.githubusercontent.com/u/684879?s=400&amp;v=4" />
+<img align="left" alt="VSC" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />
+<img align="left" alt="VS" width="37px" src="https://static.wikia.nocookie.net/logopedia/images/e/e4/Visual_Studio_2013_Logo.svg/revision/latest" />
+<img align="left" alt="Netlify" width="35px" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" />
+<img align="left" alt="Heroku" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />
+<img align="left" alt="Git" width="37px" src="https://static.wikia.nocookie.net/logopedia/images/e/e4/Visual_Studio_2013_Logo.svg/revision/latest" />
 
 <br />
 
