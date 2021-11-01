@@ -17,7 +17,6 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 
 # KNOWLEDGE
 ## MAIN
-#### Business Analysis
 <img align="left" alt="MSW" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
 <img align="left" alt="MSP" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2086px-Microsoft_PowerPoint_2013-2019_logo.svg.png" />
 <img align="left" alt="MSV" width="45px" src="https://www.wizcase.com/wp-content/uploads/2020/10/vISIO-LOGO.png" />
