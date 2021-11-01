@@ -27,6 +27,8 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 
 <br />
 
+<br />
+
 #### Project Management
 <img align="left" alt="MSV" width="45px" src="https://www.wizcase.com/wp-content/uploads/2020/10/vISIO-LOGO.png" />
 <img align="left" alt="MSE" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" />
