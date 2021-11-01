@@ -25,6 +25,8 @@ _I am passionate about business analysis, have knowledge of the most popular pro
 <img align="left" alt="Balsamiq" width="45px" src="https://synth.agency/wp-content/uploads/2020/06/Apps-Balsamiq-1024x1024.png" />
 <img align="left" alt="Canvanizer" width="42px" src="https://canvanizer.com/favicon.ico?v=2" />
 
+<br />
+
 #### Project Management
 <img align="left" alt="MSV" width="45px" src="https://www.wizcase.com/wp-content/uploads/2020/10/vISIO-LOGO.png" />
 <img align="left" alt="MSE" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" />
