@@ -55,7 +55,7 @@ _Furthermore, my part-time jobs in university life required exceptional time man
 <img align="left" alt="Java" width="23px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
 <img align="left" alt="Unity" width="27px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
 <img align="left" alt="C" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
-<img align="left" alt="Cisco" width="35px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
+<img align="left" alt="Cisco" width="20px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
 
 <br />
 
