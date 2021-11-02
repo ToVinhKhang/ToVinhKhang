@@ -51,10 +51,6 @@ _Furthermore, my part-time jobs in university life required exceptional time man
 <img align="left" alt="Netlify" width="25px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
 <img align="left" alt="Heroku" width="23px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
 <img align="left" alt="Git" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-
-<br/>
-
-####
 <img align="left" alt="Python" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="Java" width="25px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
 <img align="left" alt="Unity" width="28px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
