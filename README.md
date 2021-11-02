@@ -3,7 +3,7 @@
 ## Bachelor of Software Engineering
 <br>
 
-> Main: Business Analysis and Project Management
+> Main: Business Analysis and System Analysis.
 <br>
 
 > Minor: Web Development and Computer Science.
