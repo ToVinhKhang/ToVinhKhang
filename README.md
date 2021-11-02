@@ -56,11 +56,10 @@ _Furthermore, my part-time jobs in university life required exceptional time man
 
 ####
 <img align="left" alt="Python" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img align="left" alt="Cisco" width="33px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
-<img align="left" alt="C" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 <img align="left" alt="Java" width="35px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
-<img align="left" alt="Anaconda" width="35px" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" />
 <img align="left" alt="Unity" width="38px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
+<img align="left" alt="C" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
+<img align="left" alt="Cisco" width="33px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
 
 <br />
 
