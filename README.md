@@ -40,7 +40,7 @@ _Furthermore, my part-time jobs in university life required exceptional time man
 <img align="left" alt="Html" width="23px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />
 <img align="left" alt="Css" width="21px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" />
 <img align="left" alt="JS" width="21px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
-<img align="left" alt="JQuery" width="24px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-2.jpg" />
+<img align="left" alt="JQuery" width="23px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-2.jpg" />
 <img align="left" alt="Bootstrap" width="23px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
 <img align="left" alt="CSharp" width="24px" src="https://www.filepicker.io/api/file/Y8hH5nNoRWejEljADpba" />
 <img align="left" alt="DotNet" width="25px" src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" />
@@ -53,7 +53,7 @@ _Furthermore, my part-time jobs in university life required exceptional time man
 <img align="left" alt="Git" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="Java" width="23px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
-<img align="left" alt="Unity" width="27px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
+<img align="left" alt="Unity" width="25px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
 <img align="left" alt="C" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 <img align="left" alt="Cisco" width="21px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
 
