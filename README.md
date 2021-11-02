@@ -57,18 +57,10 @@ _Furthermore, my part-time jobs in university life required exceptional time man
 ####
 <img align="left" alt="Python" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="Cisco" width="33px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
-<img align="left" alt="AdruinoIDE" width="33px" src="https://cdn.freebiesupply.com/logos/large/2x/arduino-1-logo-png-transparent.png" />
 <img align="left" alt="C" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 <img align="left" alt="Java" width="35px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
 <img align="left" alt="Anaconda" width="35px" src="https://www.nicepng.com/png/full/85-851058_anaconda-icon-anaconda-python-icon.png" />
-<img align="left" alt="Sublime" width="35px" src="https://avatars3.githubusercontent.com/u/684879?s=400&amp;v=4" />
-<img align="left" alt="VSC" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />
-<img align="left" alt="VS" width="37px" src="https://static.wikia.nocookie.net/logopedia/images/e/e4/Visual_Studio_2013_Logo.svg/revision/latest" />
 <img align="left" alt="Unity" width="38px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
-<img align="left" alt="Postman" width="37px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
-<img align="left" alt="Virtualbox" width="37px" src="https://www.upnxtblog.com/wp-content/uploads/2017/11/Virtualbox_logo.png" />
-<img align="left" alt="VMWare" width="33px" src="https://img.favpng.com/20/18/2/vmware-workstation-player-computer-icons-computer-file-scalable-vector-graphics-png-favpng-2gZJu5TzXh8kePSbcM1gDv7WP.jpg" />
-<img align="left" alt="Eclipse" width="35px" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" />
 
 <br />
 
