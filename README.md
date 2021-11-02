@@ -37,25 +37,25 @@ _Furthermore, my part-time jobs in university life required exceptional time man
 
 ## MINOR
 
-<img align="left" alt="Html" width="25px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />
-<img align="left" alt="Css" width="23px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" />
-<img align="left" alt="JS" width="23px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
-<img align="left" alt="JQuery" width="26px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-2.jpg" />
-<img align="left" alt="Bootstrap" width="25px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
-<img align="left" alt="CSharp" width="26px" src="https://www.filepicker.io/api/file/Y8hH5nNoRWejEljADpba" />
-<img align="left" alt="DotNet" width="28px" src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" />
-<img align="left" alt="Flask" width="25px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
-<img align="left" alt="NodeJS" width="22px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
-<img align="left" alt="Php" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png" />
-<img align="left" alt="SQLServer" width="27px" src="https://nayeltraining.com/wp-content/uploads/2021/06/microsoft-sql-server.png" />
-<img align="left" alt="Netlify" width="25px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
-<img align="left" alt="Heroku" width="23px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
-<img align="left" alt="Git" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img align="left" alt="Python" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img align="left" alt="Java" width="25px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
-<img align="left" alt="Unity" width="28px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
-<img align="left" alt="C" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
-<img align="left" alt="Cisco" width="23px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
+<img align="left" alt="Html" width="24px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />
+<img align="left" alt="Css" width="22px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" />
+<img align="left" alt="JS" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
+<img align="left" alt="JQuery" width="25px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-2.jpg" />
+<img align="left" alt="Bootstrap" width="24px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
+<img align="left" alt="CSharp" width="25px" src="https://www.filepicker.io/api/file/Y8hH5nNoRWejEljADpba" />
+<img align="left" alt="DotNet" width="27px" src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" />
+<img align="left" alt="Flask" width="24px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
+<img align="left" alt="NodeJS" width="21px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" alt="Php" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png" />
+<img align="left" alt="SQLServer" width="26px" src="https://nayeltraining.com/wp-content/uploads/2021/06/microsoft-sql-server.png" />
+<img align="left" alt="Netlify" width="24px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
+<img align="left" alt="Heroku" width="22px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
+<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+<img align="left" alt="Python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
+<img align="left" alt="Java" width="24px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
+<img align="left" alt="Unity" width="27px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
+<img align="left" alt="C" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
+<img align="left" alt="Cisco" width="22px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
 
 <br />
 
