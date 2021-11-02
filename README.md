@@ -66,7 +66,7 @@ _Furthermore, my part-time jobs in university life required exceptional time man
 ## SOFT SKILLS
 _• Self-motivated, Responsible, Detail-oriented, Willingness to learn, and Work ethic._
 <br />
-_• Ability: Leadership, Communication, Teamwork, Problem-solving, and Public presentation._
+_• Ability: Leadership, Time-management, Communication, Teamwork, Problem-solving, and Presentation._
 <br />
 
 ## LANGUAGES
