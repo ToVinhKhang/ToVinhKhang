@@ -26,7 +26,6 @@ _Furthermore, my part-time jobs in university life required exceptional time man
 <img align="left" alt="MSE" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" />
 <img align="left" alt="Jira" width="42px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
 <img align="left" alt="Balsamiq" width="45px" src="https://synth.agency/wp-content/uploads/2020/06/Apps-Balsamiq-1024x1024.png" />
-<img align="left" alt="StarUML" width="42px" src="https://safedownload.net/uploads/products/staruml-1144262504.png" />
 <img align="left" alt="DrawIO" width="42px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9461f02c23e995e5d5e46e2676d110af/draw-io.png" />
 
 <br />
