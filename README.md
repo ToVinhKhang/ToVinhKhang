@@ -69,14 +69,8 @@ _• Ability: Management, Communication, Teamwork, Problem-solving, and Presenta
 <br />
 
 ## LANGUAGES
-_• Vietnamese (Native proficiency)_
-<br />
-_• English (Professional working proficiency_
-<br />
-_• Korean (Elementary proficiency)_
-<br />
-_• Chinese (Elementary proficiency)_
-<br />
+_ Vietnamese, English, Korean, Chinese_
+
 
 # CONTACTS
 [<img align="left" alt="Linkedin" width="40px" src="https://www.dtl.coventry.domains/wp-content/uploads/2020/07/LinkedIn-Logo-1024x1024.png" />][linkedin]
