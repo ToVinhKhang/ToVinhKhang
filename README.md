@@ -69,7 +69,7 @@ _• Ability: Management, Communication, Teamwork, Problem-solving, and Presenta
 <br />
 
 ## LANGUAGES
-_ Vietnamese, English, Korean, Chinese _
+_Vietnamese, English, Korean, Chinese_
 
 
 # CONTACTS
