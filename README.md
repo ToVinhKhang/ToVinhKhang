@@ -15,7 +15,7 @@
 _I am passionate about business system analysis. Have knowledge of the most popular present programming languages, gain experience in business process modeling and management. Demonstrated experience as a team leader. Besides, I used to be in roles designer, developer, and tester._
 <br />
 
-_Furthermore, my part-time jobs in university life required exceptional time management, collaboration efforts, and interpersonal abilities, a perfectionist who ensures that every task is completed with the utmost attention to detail. Outside of work, I learn about the culture and history of all countries, swimming, photography,... which helps me find life balance and refill the energy for a new day._
+_Furthermore, my part-time jobs in university life required exceptional time management, collaboration and interpersonal. I always ensure that every task is completed with the utmost attention to detail. Outside of work, I learn about the culture and history of all countries, swimming, photography,... which helps me find life balance and refill the energy for a new day._
 <br />
 
 # KNOWLEDGE
@@ -25,7 +25,7 @@ _Furthermore, my part-time jobs in university life required exceptional time man
 <img align="left" alt="MSV" width="45px" src="https://www.wizcase.com/wp-content/uploads/2020/10/vISIO-LOGO.png" />
 <img align="left" alt="MSE" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" />
 <img align="left" alt="Jira" width="42px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
-<img align="left" alt="Balsamiq" width="45px" src="https://synth.agency/wp-content/uploads/2020/06/Apps-Balsamiq-1024x1024.png" />
+<img align="left" alt="Balsamiq" width="45px" src="https://tovinhkhang.netlify.app/images/balsamiq.png" />
 <img align="left" alt="DrawIO" width="42px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9461f02c23e995e5d5e46e2676d110af/draw-io.png" />
 
 <br />
