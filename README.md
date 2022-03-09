@@ -12,10 +12,10 @@
 
 # ABOUT ME
 
-_I am passionate about business system analysis. Have knowledge of the most popular present programming languages, gain experience in business process modeling and management. Demonstrated experience as a team leader. Besides, I used to be in roles designer, developer, and tester._
+_I am passionate about business system analysis. Have knowledge of the most popular programming languages, experience in business process modeling. Demonstrated experience in management, planning and coordinating work. Besides, I used to be in roles developer and tester._
 <br />
 
-_Furthermore, my part-time jobs in university life required exceptional time management, collaboration and interpersonal. I always ensure that every task is completed with the utmost attention to detail. Outside of work, I learn about the culture and history of all countries, swimming, photography,... which helps me find life balance and refill the energy for a new day._
+_Having been working in the IT industry for nearly a year help me improve collaboration and communication. Furthermore, my part-time jobs in university life required special time management. I always ensure that every task is completed with the utmost attention to detail._
 <br />
 
 # KNOWLEDGE
