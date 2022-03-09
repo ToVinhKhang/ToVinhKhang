@@ -65,7 +65,7 @@ _Having been working in the IT industry for nearly a year help me improve collab
 ## SOFT SKILLS
 _• Self-motivated, Responsible, Detail-oriented, Willingness to learn, and Work ethic._
 <br />
-_• Ability: Management, Communication, Teamwork, Problem-solving, and Presentation._
+_• Ability: Management, Communication, Teamwork, Independent, Problem-solving, and Presentation._
 <br />
 
 ## LANGUAGES
