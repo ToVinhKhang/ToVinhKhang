@@ -25,6 +25,7 @@ _Having been working in the IT industry for nearly a year help me improve collab
 <img align="left" alt="MSV" width="45px" src="https://www.wizcase.com/wp-content/uploads/2020/10/vISIO-LOGO.png" />
 <img align="left" alt="MSE" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" />
 <img align="left" alt="Jira" width="42px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
+<img align="left" alt="Confluence" width="42px" src="https://image.winudf.com/v2/image1/Y29tLmF0bGFzc2lhbi5hbmRyb2lkLmNvbmZsdWVuY2UuY29yZV9pY29uXzE1NTg2NDMwNjdfMDI5/icon.png?w=&fakeurl=1" />
 <img align="left" alt="Balsamiq" width="45px" src="https://tovinhkhang.netlify.app/images/balsamiq.png" />
 <img align="left" alt="DrawIO" width="42px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9461f02c23e995e5d5e46e2676d110af/draw-io.png" />
 
