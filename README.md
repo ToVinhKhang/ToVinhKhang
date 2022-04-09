@@ -38,7 +38,7 @@ _Have knowledge of the most popular programming languages and testing techniques
 ## MINOR
 
 <img align="left" alt="Html" width="23px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
-<img align="left" alt="Css" width="21px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" />
+<img align="left" alt="Css" width="21px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 <img align="left" alt="JS" width="21px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
 <img align="left" alt="JQuery" width="23px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-2.jpg" />
 <img align="left" alt="Bootstrap" width="23px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
