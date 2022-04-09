@@ -6,16 +6,16 @@
 > Main: Business Analysis & Product Management
 <br>
 
-> Minor: Software Testing & Web Programing.
+> Minor: Solution Consulting & Software Testing.
 
 <br />
 
 # ABOUT ME
 
-_I am passionate about business system analysis. Have knowledge of the most popular programming languages, experience in business process modeling. Demonstrated experience in management, planning and coordinating work. Besides, I used to be in roles developer and tester._
+_I am passionate about business analysis and solution consulting. Experience in business process modeling, management, planning, and coordinating work. Besides, I used to be in the roles of developer and tester._
 <br />
 
-_Having been working in the IT industry for nearly a year help me improve collaboration and communication. Furthermore, my part-time jobs in university life required special time management. I always ensure that every task is completed with the utmost attention to detail._
+_Have knowledge of the most popular programming languages and testing techniques. Having been working in the IT industry for over a year help me improve collaboration, communication and always ensure every task is completed with the utmost attention to detail._
 <br />
 
 # KNOWLEDGE
