@@ -12,11 +12,9 @@
 
 # ABOUT ME
 
-_I am passionate about business analysis and solution consulting. Experience in business process modeling, management, planning, and coordinating work. Besides, I used to be in the roles of developer and tester._
+_I am passionate about business analysis and solution consulting. Experience in business process modeling, management, planning, and coordinating work. Having knowledge of the most popular programming languages and testing techniques help me be more flexible at work so that I always ensure every task is completed with the utmost attention to detail._
 <br />
 
-_Have knowledge of the most popular programming languages and testing techniques. Having been working in the IT industry for over a year help me improve collaboration, communication and always ensure every task is completed with the utmost attention to detail._
-<br />
 
 # KNOWLEDGE
 ## MAIN
