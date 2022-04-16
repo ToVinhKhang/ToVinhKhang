@@ -3,10 +3,10 @@
 ## Bachelor of Software Engineering
 <br>
 
-> Main: Business Analysis & Product Management
+> Main: Business Analysis & Project Management
 <br>
 
-> Minor: Solution Consulting & Software Testing.
+> Minor: Solution Consulting & Quality Assurance.
 
 <br />
 
