@@ -12,7 +12,7 @@
 
 # ABOUT ME
 
-_I am passionate about business analysis and project management. Experience in business process modeling, management, planning, and coordinating work. Having knowledge of the most popular programming languages and testing techniques help me be more flexible at work so that I always ensure every task is completed with the utmost attention to detail._
+_I am passionate about business analysis and project management. Experience in business process modeling, management, planning, solution suggestion and coordinating work. Having knowledge of the most popular programming languages help me be more flexible at work so that I always ensure every task is completed with the utmost attention to detail._
 <br />
 
 
