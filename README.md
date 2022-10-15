@@ -6,7 +6,7 @@
 > Main: Business Analysis & Project Management
 <br>
 
-> Minor: Solution Consulting e & Quality Assurance.
+> Minor: Solution Consulting & Quality Assurance.
 
 <br />
 
