@@ -26,6 +26,8 @@ _I am passionate about business analysis and project management. Experience in b
 <img align="left" alt="Confluence" width="42px" src="https://image.winudf.com/v2/image1/Y29tLmF0bGFzc2lhbi5hbmRyb2lkLmNvbmZsdWVuY2UuY29yZV9pY29uXzE1NTg2NDMwNjdfMDI5/icon.png?w=&fakeurl=1" />
 <img align="left" alt="Balsamiq" width="45px" src="https://tovinhkhang.netlify.app/images/balsamiq.png" />
 <img align="left" alt="DrawIO" width="42px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9461f02c23e995e5d5e46e2676d110af/draw-io.png" />
+<img align="left" alt="SASS" width="45px" src="https://cdn-icons-png.flaticon.com/512/4784/4784532.png" />
+<img align="left" alt="Swagger" width="42px" src="https://qavalidation.com/wp-content/uploads/2018/12/logo-swagger.png" />
 
 <br />
 
@@ -40,6 +42,7 @@ _I am passionate about business analysis and project management. Experience in b
 <img align="left" alt="JS" width="21px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
 <img align="left" alt="JQuery" width="23px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-2.jpg" />
 <img align="left" alt="Bootstrap" width="23px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
+<img align="left" alt="ES" width="23px" src="https://cdn.iconscout.com/icon/free/png-256/elastic-search-3628746-3029971.png" />
 <img align="left" alt="CSharp" width="24px" src="https://www.filepicker.io/api/file/Y8hH5nNoRWejEljADpba" />
 <img align="left" alt="DotNet" width="25px" src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" />
 <img align="left" alt="Flask" width="23px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
