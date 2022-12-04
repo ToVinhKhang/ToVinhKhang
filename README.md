@@ -51,6 +51,10 @@ _I am passionate about business analysis and project management. Experience in b
 
 <br />
 
+<br />
+
+<br />
+
 <img align="left" alt="Php" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png" />
 <img align="left" alt="SQLServer" width="20px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
 <img align="left" alt="Netlify" width="23px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
