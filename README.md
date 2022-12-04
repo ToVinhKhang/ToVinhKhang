@@ -48,7 +48,7 @@ _I am passionate about business analysis and project management. Experience in b
 <img align="left" alt="Flask" width="23px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
 <img align="left" alt="NodeJS" width="20px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img align="left" alt="Php" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png" />
+<img align="left" alt="Php" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png" />
 <img align="left" alt="SQLServer" width="20px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
 <img align="left" alt="Netlify" width="23px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
 <img align="left" alt="Heroku" width="21px" src="https://cdn.iconscout.com/icon/free/png-256/heroku-2752161-2284978.png" />
