@@ -66,7 +66,7 @@ _I am passionate about business analysis and project management. Experience in d
 ## SOFT SKILLS
 _• Self-motivated, Responsible, Detail-oriented, Willingness to learn, and Work ethic._
 <br />
-_• Ability: Management, Communication, Teamwork, Independent, Problem-solving, and Presentation._
+_• Ability: Management, Independent, Problem-solving, Teamwork, Communication, and Presentation._
 <br />
 
 ## LANGUAGES
