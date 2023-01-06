@@ -12,7 +12,7 @@
 
 # ABOUT ME
 
-_I am passionate about business analysis and project management. Experience in documenting, delivering flexible and scalable solutions, management, and coordinating work. Having knowledge of the most popular programming languages helps me be more relaxed at work so that I always ensure every task is completed with the utmost attention to detail._
+_I am passionate about business analysis and project management. Experience in requirements gathering, process mapping to delivering flexible and scalable solutions, stakeholder management. Have background in software engineering helps me be more relaxed at work with developers so that I always ensure every task is completed with the utmost attention to detail._
 <br />
 
 
