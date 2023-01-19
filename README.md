@@ -8,7 +8,7 @@ _Business Analyst is an interesting position because it can translate business n
 
 # ABOUT ME
 
-_I am passionate about business analysis and project management. Experience in requirements gathering, process mapping to delivering flexible and scalable solutions, stakeholder management. Have background in software engineering helps me be more relaxed at work with developers so that I always ensure every task is completed with the utmost attention to detail._
+_I am interested in business analysis and program management. Experienced in gathering, clarifying requirements, process modeling to delivering flexible and scalable solutions, and stakeholder management. Having a background in software engineering helps me be more relaxed at work with developers so that I always ensure every task is completed with the utmost attention to detail._
 <br />
 
 <br />
