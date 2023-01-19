@@ -1,7 +1,7 @@
 <img width="220" height="220" src="https://tovinhkhang.netlify.app/images/contact.jpg" align="right" />
 
 # PREFACE
-_Business Analyst is an interesting position because it can translate business needs into solution requirements, which needs to understand the structures, policies, and operations of the company. Another saying, it is a bridge between the business view and implementation view._
+_"Business Analyst is an interesting position because it can translate business needs into solution requirements, which needs to understand the structures, policies, and operations of the company. Another saying, it is a bridge between the business view and implementation view."_
 <br />
 
 <br />
@@ -10,14 +10,6 @@ _Business Analyst is an interesting position because it can translate business n
 
 _I am passionate about business analysis and project management. Experience in requirements gathering, process mapping to delivering flexible and scalable solutions, stakeholder management. Have background in software engineering helps me be more relaxed at work with developers so that I always ensure every task is completed with the utmost attention to detail._
 <br />
-
-## Bachelor of Software Engineering
-<br>
-
-> Main: Business Analysis & Project Management
-<br>
-
-> Minor: Solution Consulting & Software Development.
 
 <br />
 
