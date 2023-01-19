@@ -1,5 +1,7 @@
 <img width="220" height="220" src="https://tovinhkhang.netlify.app/images/contact.jpg" align="right" />
 
+Business Analyst is an interesting position because it can translate business needs into solution requirements, which needs to understand the structures, policies, and operations of the company. Another saying, it is a bridge between the business view and implementation view.
+
 ## Bachelor of Software Engineering
 <br>
 
