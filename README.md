@@ -22,10 +22,10 @@ _I am interested in business analysis and program management. Experienced in gat
 <img align="left" alt="Jira" width="42px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
 <img align="left" alt="Confluence" width="42px" src="https://image.winudf.com/v2/image1/Y29tLmF0bGFzc2lhbi5hbmRyb2lkLmNvbmZsdWVuY2UuY29yZV9pY29uXzE1NTg2NDMwNjdfMDI5/icon.png?w=&fakeurl=1" />
 <img align="left" alt="DrawIO" width="42px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9461f02c23e995e5d5e46e2676d110af/draw-io.png" />
-<img align="left" alt="Figma" width="45px" src="[https://cdn-icons-png.flaticon.com/512/4784/4784532.png](https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png)" />
+<img align="left" alt="Figma" width="45px" src="https://cdn-icons-png.flaticon.com/512/4784/4784532.png" />
 <img align="left" alt="Balsamiq" width="45px" src="https://tovinhkhang.netlify.app/images/balsamiq.png" />
 <img align="left" alt="Swagger" width="42px" src="https://qavalidation.com/wp-content/uploads/2018/12/logo-swagger.png" />
-<img align="left" alt="Kibana" width="42px" src="[https://qavalidation.com/wp-content/uploads/2018/12/logo-swagger.png](https://icons-for-free.com/iconfiles/png/512/elastic+kibana-1331550887756419477.png)" />
+<img align="left" alt="Kibana" width="42px" src="https://qavalidation.com/wp-content/uploads/2018/12/logo-swagger.png" />
 
 <br />
 
