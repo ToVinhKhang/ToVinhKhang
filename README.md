@@ -14,7 +14,7 @@ _I am interested in business analysis and program management. Experienced in gat
 <br />
 
 # KNOWLEDGE
-## MAIN
+## BA
 <img align="left" alt="MSW" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
 <img align="left" alt="MSP" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2086px-Microsoft_PowerPoint_2013-2019_logo.svg.png" />
 <img align="left" alt="MSE" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" />
@@ -32,7 +32,7 @@ _I am interested in business analysis and program management. Experienced in gat
 
 <br />
 
-## MINOR
+## TECHNICAL
 
 <img align="left" alt="Html" width="23px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
 <img align="left" alt="Css" width="21px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
