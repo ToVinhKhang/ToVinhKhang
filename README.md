@@ -8,7 +8,7 @@ _Business Analyst is an interesting position because it can translate business n
 
 # ABOUT ME
 
-_I am interested in business analysis and program management. With 2 years of experience in the Healthtech domain, I am confident to take on jobs related to scalable consulting in business process models and solution architecture. Having a background in software engineering helps me be more relaxed at work with developers so that I always ensure every task is completed with the utmost overall attention to detail. _
+_I am interested in business analysis and program management. With 2 years of experience in the Healthtech domain, I am confident to take on jobs related to scalable consulting in business process models and solution architecture. Having a background in software engineering helps me be more relaxed at work with developers so that I always ensure every task is completed with the utmost overall attention to detail._
 <br />
 
 <br />
