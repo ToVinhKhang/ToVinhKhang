@@ -38,7 +38,6 @@ _I am interested in business analysis and program management. With over 2 years 
 <img align="left" alt="Css" width="21px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 <img align="left" alt="JS" width="21px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
 <img align="left" alt="JQuery" width="23px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-2.jpg" />
-<img align="left" alt="Bootstrap" width="23px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
 <img align="left" alt="ES" width="23px" src="https://cdn.iconscout.com/icon/free/png-256/elastic-search-3628746-3029971.png" />
 <img align="left" alt="CSharp" width="24px" src="https://www.filepicker.io/api/file/Y8hH5nNoRWejEljADpba" />
 <img align="left" alt="DotNet" width="25px" src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" />
