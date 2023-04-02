@@ -13,8 +13,7 @@ _I am interested in business analysis and program management. With over 2 years 
 
 <br />
 
-# KNOWLEDGES
-## BA KNOWLEDGE
+# BA TOOLS
 <img align="left" alt="MSW" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
 <img align="left" alt="MSP" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2086px-Microsoft_PowerPoint_2013-2019_logo.svg.png" />
 <img align="left" alt="MSE" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" />
@@ -32,32 +31,6 @@ _I am interested in business analysis and program management. With over 2 years 
 
 <br />
 
-## TECHNICAL KNOWLEDGE
-
-<img align="left" alt="Html" width="23px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
-<img align="left" alt="Css" width="21px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
-<img align="left" alt="JS" width="21px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
-<img align="left" alt="JQuery" width="23px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-2.jpg" />
-<img align="left" alt="ES" width="23px" src="https://cdn.iconscout.com/icon/free/png-256/elastic-search-3628746-3029971.png" />
-<img align="left" alt="CSharp" width="24px" src="https://www.filepicker.io/api/file/Y8hH5nNoRWejEljADpba" />
-<img align="left" alt="DotNet" width="25px" src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" />
-<img align="left" alt="Flask" width="23px" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" />
-<img align="left" alt="NodeJS" width="20px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
-<img align="left" alt="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img align="left" alt="Php" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png" />
-<img align="left" alt="SQLServer" width="20px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
-<img align="left" alt="Netlify" width="23px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" />
-<img align="left" alt="Heroku" width="21px" src="https://cdn.iconscout.com/icon/free/png-256/heroku-2752161-2284978.png" />
-<img align="left" alt="Git" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img align="left" alt="Java" width="23px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-<img align="left" alt="Unity" width="25px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
-<img align="left" alt="Cisco" width="21px" src="https://i0.wp.com/filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png" />
-
-<br />
-
-<br />
-
-<br />
 
 ## SOFT SKILLS
 _• Self-motivated, Responsible, Detail-oriented, Willingness to learn, and Work ethic._
