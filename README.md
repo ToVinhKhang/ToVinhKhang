@@ -8,7 +8,7 @@ _Business Analyst is an interesting position because it can translate business n
 
 # ABOUT ME
 
-_I am interested in business analysis and program management. With over 2 years of experience in Digital transformation for the Product company - Healthtech domain. I am confident to take on jobs related to solution consulting by proposing future visions and scalable business solutions. Having a background in software engineering helps me be more relaxed at work with developers so that I always ensure every task is completed with the utmost overall attention to detail._
+_I have a software engineering background but do have a delicate business mind. With over 2 years in digital transformation, I have been involved in all phases of typical SDLC. So I'm confident to take on jobs related to solution consulting by proposing future visions and scalable business solutions. I can work under pressure, eager to learn new business trends and technology. I love delivering products that make society better._
 <br />
 
 <br />
