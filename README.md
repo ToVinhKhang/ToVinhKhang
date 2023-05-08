@@ -8,7 +8,7 @@ _Business Analyst is an interesting position because it can translate business n
 
 # ABOUT ME
 
-_I have a software engineering background but do have a delicate business mind. With over 2 years in digital transformation, I have been involved in all phases of typical SDLC. So I'm confident and excited to take jobs related to solution consulting of product innovation. I can work under pressure, eager to learn new business trends and technology. Especially, I love delivering products that make society better._
+_I have a software engineering background but do have a delicate business mind. With over 2 years of experience in Product R&D, I have been involved in all phases of typical SDLC. So I'm confident and excited to take jobs related to solution consulting of Digital Transformation. I can work under pressure, eager to learn new business trends and technology. Especially, I love delivering products that make society better._
 <br />
 
 <br />
