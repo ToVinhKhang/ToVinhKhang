@@ -8,7 +8,7 @@ _Business Analyst is an interesting position because it can translate business n
 
 # ABOUT ME
 
-_I have a software engineering background but do have a delicate business mind. Experience in Product R&D, I have been involved in all phases of typical SDLC. With a Software Engineering degree and my experiences, I'm confident and excited to take jobs related to the owner of innovative products. I can work under pressure, eager to learn new business trends and technology. Especially, I love delivering products that make society better._
+_I have a software engineering background but do have a delicate business mind. Experience in Product development, I have been involved in all phases of typical SDLC. With a Software Engineering degree and my experiences, I'm confident and excited to take jobs related to the owner of innovative products. I can work under pressure, eager to learn new business trends and technology. Especially, I love delivering products that make society better._
 <br />
 
 <br />
