@@ -15,9 +15,15 @@ _• Business Analysis_
 _• Project Management_
 <br />
 
-## LANGUAGES
-_Vietnamese, English, Korean, Chinese_
+<br />
 
+## LANGUAGES
+_• Vietnamese_
+<br />
+_• English
+<br />
+
+<br />
 
 # CONTACTS
 [<img align="left" alt="Linkedin" width="40px" src="https://www.dtl.coventry.domains/wp-content/uploads/2020/07/LinkedIn-Logo-1024x1024.png" />][linkedin]
