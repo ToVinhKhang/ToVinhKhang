@@ -7,6 +7,16 @@ _I have a software engineering background but do have a delicate business mind. 
 
 <br />
 
+## EXPERIENCES
+_• Ecommerce_
+<br />
+_• Marketing_
+<br />
+_• Operations_
+<br />
+
+<br />
+
 ## MAIN
 _• Product Management_
 <br />
