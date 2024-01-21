@@ -22,6 +22,8 @@ _• Product Management_
 <br />
 _• Project Management_
 <br />
+_• Stakeholder Management_
+<br />
 _• Business Analysis_
 <br />
 
