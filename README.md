@@ -7,29 +7,12 @@ _I have a software engineering background but do have a delicate business mind. 
 
 <br />
 
-# BA TOOLS
-<img align="left" alt="MSW" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2086px-Microsoft_Word_2013-2019_logo.svg.png" />
-<img align="left" alt="MSP" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/2086px-Microsoft_PowerPoint_2013-2019_logo.svg.png" />
-<img align="left" alt="MSE" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" />
-<img align="left" alt="Jira" width="42px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
-<img align="left" alt="Confluence" width="42px" src="https://image.winudf.com/v2/image1/Y29tLmF0bGFzc2lhbi5hbmRyb2lkLmNvbmZsdWVuY2UuY29yZV9pY29uXzE1NTg2NDMwNjdfMDI5/icon.png?w=&fakeurl=1" />
-<img align="left" alt="DrawIO" width="42px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9461f02c23e995e5d5e46e2676d110af/draw-io.png" />
-<img align="left" alt="Figma" width="42px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
-<img align="left" alt="Balsamiq" width="45px" src="https://tovinhkhang.netlify.app/images/balsamiq.png" />
-<img align="left" alt="Swagger" width="42px" src="https://qavalidation.com/wp-content/uploads/2018/12/logo-swagger.png" />
-<img align="left" alt="Kibana" width="40px" src="https://icons-for-free.com/iconfiles/png/512/elastic+kibana-1331550887756419477.png" />
-
+## MAIN
+_• Product Management_
 <br />
-
+_• Business Analysis_
 <br />
-
-<br />
-
-
-## SOFT SKILLS
-_• Self-motivated, Responsible, Detail-oriented, Willingness to learn, and Work ethic._
-<br />
-_• Ability: Management, Independent, Problem-solving, Teamwork, Communication, and Presentation._
+_• Project Management_
 <br />
 
 ## LANGUAGES
