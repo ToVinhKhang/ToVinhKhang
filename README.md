@@ -17,7 +17,7 @@ _• Operations_
 
 <br />
 
-## MAIN
+## KNOWLEDGE
 _• Product Management_
 <br />
 _• Project Management_
