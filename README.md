@@ -1,11 +1,5 @@
 <img width="220" height="220" src="https://tovinhkhang.netlify.app/images/contact.jpg" align="right" />
 
-# PREFACE
-_Business Analyst is an interesting position because it can translate business needs into solution requirements, which needs to understand the structures, policies, and operations of the company. Another saying, it is a bridge between the business view and implementation view._
-<br />
-
-<br />
-
 # ABOUT ME
 
 _I have a software engineering background but do have a delicate business mind. Experience in Product development, I have been involved in all phases of typical SDLC. With a Software Engineering degree and my experiences, I'm confident and excited to take jobs related to the owner of innovative products. I can work under pressure, eager to learn new business trends and technology. Especially, I love delivering products that make society better._
