@@ -30,7 +30,7 @@ _• Business Analysis_
 ## LANGUAGES
 _• Vietnamese_
 <br />
-_• English
+_• English_
 <br />
 
 <br />
