@@ -10,9 +10,9 @@ _I have a software engineering background but do have a delicate business mind. 
 ## MAIN
 _• Product Management_
 <br />
-_• Business Analysis_
-<br />
 _• Project Management_
+<br />
+_• Business Analysis_
 <br />
 
 <br />
