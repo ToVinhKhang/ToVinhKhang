@@ -44,10 +44,10 @@ _• English_
   <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ToVinhKhang&count_private=true&include_all_commits=true&theme=nightowl" />
 </details>
 
-[facebook]: https://www.facebook.com/ToVinhKhangTDTU/
-[instagram]: https://www.instagram.com/vkent_/
 [linkedin]: https://www.linkedin.com/in/tovinhkhang/
 [gmail]: mailto:vinhkhang1969@gmail.com
+[facebook]: https://www.facebook.com/ToVinhKhangTDTU/
+[instagram]: https://www.instagram.com/vkent_/
 [telegram]: https://t.me/khangkent/
 
 
