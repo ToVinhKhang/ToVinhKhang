@@ -48,7 +48,7 @@ _• English_
 [instagram]: https://www.instagram.com/vkent_/
 [linkedin]: https://www.linkedin.com/in/tovinhkhang/
 [gmail]: mailto:vinhkhang1969@gmail.com
-[telegram]: https://t.me/khangkent
+[telegram]: https://t.me/khangkent/
 
 
 
