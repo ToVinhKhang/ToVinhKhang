@@ -2,7 +2,7 @@
 
 # ABOUT ME
 
-_With a software engineering background, delicate business mind, experience in E2E product development, involvement in all phases of typical SDLC, user-centric design, and data-informed approach, I'm confident and excited to take jobs related to product management from Ecommerce to Operations. I can work under pressure, eager to learn new business trends and technology. Especially, I love delivering products that make society better._
+_With a software engineering background, delicate business mind, experience in SaaS product development, involvement in all phases of typical SDLC, user-centric design, and data-informed approach, I'm confident and excited to take jobs related to product management from Ecommerce to Warehouse Operations. I can work under pressure, eager to learn new business trends and technology. Especially, I love delivering products that make society better._
 <br />
 
 <br />
