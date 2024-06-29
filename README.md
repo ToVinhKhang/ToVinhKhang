@@ -1,6 +1,6 @@
 <img width="220" height="220" src="https://tovinhkhang.netlify.app/images/contact.jpg" align="right" />
 
-# ABOUT ME
+# INTRODUCTION
 
 _With a software engineering background, delicate business mind, experience in SaaS product development, involvement in all phases of typical SDLC, user-centric design, and data-informed approach, I'm confident and excited to take jobs related to product management from Ecommerce to Warehouse Operations. I can work under pressure, eager to learn new business trends and technology. Especially, I love delivering products that make society better._
 <br />
@@ -9,14 +9,22 @@ _With a software engineering background, delicate business mind, experience in S
 
 <br />
 
-## KNOWLEDGE
-_• Product Management_
+## OBJECTIVE
+_• Short-term: Within 1 year, deep dig into aspects from Ecommerce to Warehouse Operations, high focus on product vision and innovation, customer insight in potential markets, and operations optimization to be the youngest expert as a Product Manager._
 <br />
-_• Project Management_
+_• Long-term: Next 5 years, drive regional growth business as an ambitious Senior Product Manager. Ideally around South East Asia and perhaps be an inspirational mentor with best practices growth to global innovation._
 <br />
-_• Stakeholder Management_
+
 <br />
-_• Business Analysis_
+
+## SUMMARY
+_• Experienced in the Healthtech industry from Ecommerce, Marketing, Sales to Supply Chain, Warehouse Operations._
+<br />
+_• Strong in User-centric design thinking,  Data-driven decision-making, Product innovation and Operation optimization._
+<br />
+_• Proficient in Product-project management, Mockup design, Brainstorming with Stakeholders, Competitor research, Technical aspects and Depth knowledge of Agile-Scrum, ART process, and cross-team integrations._
+<br />
+_• Familiar with tools Jira, Confluence, Visily, Miro, ChatGPT, Drawio, GA4, PowerBI, Postman, Swagger, Outlook, Office365,_
 <br />
 
 <br />
