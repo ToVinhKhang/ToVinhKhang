@@ -10,9 +10,9 @@ _With a software engineering background, delicate business mind, 3+ years of exp
 <br />
 
 ## OBJECTIVE
-_• Short-term: Within 1 year, deep dig into aspects from Ecommerce to Warehouse Operations, high focus on product vision and innovation, customer insight in potential markets, and operations optimization to be the youngest expert as a Product Manager._
+_• Short-term: Within 1 year, deep dig into aspects from Ecommerce to Warehouse Operations, focus on product vision, fostering product innovation, customer insight, operations optimization and leadership skill-up to be the youngest Product Manager._
 <br />
-_• Long-term: Next 5 years, drive regional growth business as an ambitious Senior Product Manager. Ideally around South East Asia and perhaps be an inspirational mentor with best practices growth to global innovation._
+_• Long-term: Next 5 years, drive regional growth business as an ambitious Senior Product Manager. Ideally around South East Asia and perhaps be an inspirational mentor with best practices about fostering product growth to global innovation._
 <br />
 
 <br />
