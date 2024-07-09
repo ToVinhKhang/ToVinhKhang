@@ -28,7 +28,7 @@ _• Familiar with tools Jira, Confluence, Visily, Miro, ChatGPT, Drawio, Balsam
 <br />
 _• Attitude: Self-motivated, Responsible, Detail-oriented, Goal-driven person, Work-ethic, Willing to learn._
 <br />
-_• • Abilities: Key Opinion Leaders, Interpersonal Communication, Strategy Thinking, Independent, Problem-solving, Observation, Customer Empathy, Quick-Adaptability, Teamwork, Project Management, Stakeholder Management._
+_• Abilities: Key Opinion Leaders, Interpersonal Communication, Strategy Thinking, Independent, Problem-solving, Observation, Customer Empathy, Quick-Adaptability, Teamwork, Project Management, Stakeholder Management._
 <br />
 
 
