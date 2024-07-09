@@ -24,8 +24,13 @@ _• Strong in User-centric design thinking,  Data-driven decision-making, Produ
 <br />
 _• Proficient in Product-project management, Mockup design, Brainstorming with Stakeholders, Competitor research, Technical aspects and Depth knowledge of Agile-Scrum, ART process, and cross-team integrations._
 <br />
-_• Familiar with tools Jira, Confluence, Visily, Miro, ChatGPT, Drawio, GA4, PowerBI, Postman, Swagger, Outlook, Office365,_
+_• Familiar with tools Jira, Confluence, Visily, Miro, ChatGPT, Drawio, Balsamiq, GA4, PowerBI, Postman, Swagger, Outlook, O365, etc._
 <br />
+_• Attitude: Self-motivated, Responsible, Detail-oriented, Goal-driven person, Work-ethic, Willing to learn._
+<br />
+_• • Abilities: Key Opinion Leaders, Interpersonal Communication, Strategy Thinking, Independent, Problem-solving, Observation, Customer Empathy, Quick-Adaptability, Teamwork, Project Management, Stakeholder Management._
+<br />
+
 
 <br />
 
