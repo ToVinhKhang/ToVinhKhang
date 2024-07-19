@@ -2,7 +2,7 @@
 
 # INTRODUCTION
 
-_With a software engineering background, delicate business mind, over 3 years of experience in SaaS product development, involvement in all phases of typical SDLC, user-centric design, and data-informed approach, I'm confident and excited to take jobs related to product management from Ecommerce to Warehouse Operations. I can work under pressure, eager to learn new business trends and technology. Especially, I love driving products to grow business and make society better._
+_Over 3 years experience in SaaS product development, involved in all phases of typical SDLC. With software engineering background and delicate business mind, I leverage technology to serve business. So far, I have managed multiple projects from different business domains, most of the features were built from scratch and rolled out successfully. I enjoyed the fast-paced environment, fostering product innovation. Especially empowered to drive products grow business and make society better._
 <br />
 
 <br />
@@ -10,9 +10,9 @@ _With a software engineering background, delicate business mind, over 3 years of
 <br />
 
 ## OBJECTIVE
-_• Short-term: Within 1 year, focus on driving product growth, fostering product innovation, handling multi-projects, and leadership skill-up to be the youngest ambitious Product Manager._
+_• Short-term: Keep focus on driving product growth, fostering product innovation, handling multi-projects, and leadership skill-up to be the youngest ambitious Product Manager._
 <br />
-_• Long-term: Next 5 years, drive regional growth business as an ambitious Senior Product Manager. Ideally around South East Asia and perhaps be an inspirational mentor with best practices about fostering product growth to global innovation._
+_• Long-term: Drive regional growth business as an ambitious Senior Product Manager. Ideally around South East Asia and perhaps be an inspirational mentor with best practices about fostering product growth to global innovation._
 <br />
 
 <br />
