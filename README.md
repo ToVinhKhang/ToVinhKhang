@@ -18,7 +18,7 @@ _• Long-term: Drive regional growth business as an ambitious Senior Product Ma
 <br />
 
 ## SUMMARY
-_• Experienced in the Healthtech industry from Ecommerce, Marketing, Sales to Supply Chain, Warehouse Operations._
+_• Experienced in the Product company, from Ecommerce, Marketing, CS, Sales to Supply Chain, Warehouse, Logistics, Accounting departments through Ecosystem (CustomerWeb/App, CRM, CSC, SalesApp, MKT, SCM, WMS, WMSApp, LMS, RiderApp, ACC)._
 <br />
 _• Strong in User-centric design thinking,  Data-driven decision-making, Product innovation and Operation optimization._
 <br />
@@ -26,9 +26,9 @@ _• Proficient in Product-project management, Mockup design, Brainstorming with
 <br />
 _• Familiar with tools Jira, Confluence, Visily, Miro, ChatGPT, Drawio, Balsamiq, GA4, PowerBI, Postman, Swagger, Outlook, O365, etc._
 <br />
-_• Attitude: Self-motivated, Responsible, Detail-oriented, Goal-driven person, Work-ethic, Willing to learn._
+_• Attitude: Responsible, detail-oriented, goal-driven person, work-ethic, patient, willing to learn, self-motivated._
 <br />
-_• Abilities: Key Opinion Leaders, Interpersonal Communication, Strategy Thinking, Independent, Problem-solving, Observation, Customer Empathy, Quick-Adaptability, Teamwork, Project Management, Stakeholder Management._
+_• Abilities: Key opinion leader, interpersonal communication, observation, strategy thinking, independent, customer empathy, quick-adaptability, teamwork, problem-solving._
 <br />
 
 
