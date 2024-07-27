@@ -56,7 +56,7 @@ _• Khmer (Elementary proficiency)_
 [<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png" />][facebook]
 [<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />][instagram]
 [<img align="left" alt="Telegram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" />][telegram]
-[<img align="left" alt="Skype" width="40px" src="https://cdn-icons-png.freepik.com/512/3128/3128338.png" />][skype]
+[<img align="left" alt="Skype" width="50px" src="https://cdn-icons-png.freepik.com/512/3128/3128338.png" />][skype]
 
 
 <br /><br /><br />
