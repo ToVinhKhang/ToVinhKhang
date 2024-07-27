@@ -28,16 +28,24 @@ _• Familiar with tools Jira, Confluence, Visily, Miro, ChatGPT, Drawio, Balsam
 <br />
 _• Attitude: Responsible, detail-oriented, goal-driven person, work-ethic, patient, willing to learn, self-motivated._
 <br />
-_• Abilities: Key opinion leader, interpersonal communication, observation, strategy thinking, independent, customer empathy, quick-adaptability, teamwork, problem-solving._
+_• Abilities: Quick-adaptability, key opinion leader, interpersonal communication, observation, strategy thinking, independence, customer empathy, teamwork, problem-solving._
 <br />
 
 
 <br />
 
 ## LANGUAGES
-_• Vietnamese_
+_• Vietnamese (Native)_
 <br />
-_• English_
+_• English (Professional working proficiency)_
+<br />
+_• Chinese (Elementary proficiency)_
+<br />
+_• Korean (Elementary proficiency)_
+<br />
+_• Thai (Elementary proficiency)_
+<br />
+_• Khmer (Elementary proficiency)_
 <br />
 
 <br />
@@ -48,6 +56,7 @@ _• English_
 [<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png" />][facebook]
 [<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />][instagram]
 [<img align="left" alt="Telegram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" />][telegram]
+[<img align="left" alt="Skype" width="40px" src="https://cdn-icons-png.freepik.com/512/3128/3128338.png" />][skype]
 
 
 <br /><br /><br />
@@ -62,6 +71,7 @@ _• English_
 [facebook]: https://www.facebook.com/ToVinhKhangTDTU/
 [instagram]: https://www.instagram.com/vkent_/
 [telegram]: https://t.me/khangkent/
+[skype]: https://join.skype.com/invite/uUCMufxOQosm
 
 <br />
 
