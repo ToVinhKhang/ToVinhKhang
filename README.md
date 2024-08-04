@@ -10,9 +10,9 @@ _Over 3 years experience in SaaS product development, involved in all phases of 
 <br />
 
 ## OBJECTIVE
-_• Short-term: Keep focus on driving product growth, fostering product innovation, handling multi-projects, and leadership skill-up to be the youngest ambitious Product Manager._
+_• Short-term: Keep focus on solid driving product growth, fostering product innovation, handling multi-projects in a fast-paced environment to become Associate Product Manager._
 <br />
-_• Long-term: Drive regional growth business as an ambitious Senior Product Manager. Ideally around South East Asia and perhaps be an inspirational mentor with best practices about fostering product growth to global innovation._
+_• Long-term: Become Senior Product Manager as a leader and drive regional growth business around South East Asia._
 <br />
 
 <br />
