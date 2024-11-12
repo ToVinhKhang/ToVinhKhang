@@ -10,25 +10,27 @@ _Over 3 years experience in SaaS product development, involved in all phases of 
 <br />
 
 ## OBJECTIVE
-_• Short-term: Keep focus on solid driving product growth, fostering product innovation, handling multi-projects in a fast-paced environment to become Associate Product Manager._
+_• Short-term: Keep focus on driving product growth rapidly, fostering product innovation, handling multiple projects in a fast-paced environment to become Product Manager._
 <br />
-_• Long-term: Become Senior Product Manager as a leader and drive regional growth business around South East Asia._
+_• Long-term: Become Senior Product Manager, master in PDLC and drive product sustainable growth, ideally around South East Asia._
 <br />
 
 <br />
 
 ## SUMMARY
-_• Experienced in the Product company, from Ecommerce, Marketing, CS, Sales to Supply Chain, Warehouse, Logistics, Accounting departments through Ecosystem (CustomerWeb/App, CRM, CSC, SalesApp, MKT, SCM, WMS, WMSApp, LMS, RiderApp, ACC)._
+_• Experienced in B2B, B2C company with diverse projects built from scratch in Ecommerce, ERP and Digital Platforms._
 <br />
-_• Strong in User-centric design thinking,  Data-driven decision-making, Product innovation and Operation optimization._
+_• Proficient in Product Strategy, roadmap, UI-UX design, stakeholder management, and competitor research._
 <br />
-_• Proficient in Product-project management, Mockup design, Brainstorming with Stakeholders, Competitor research, Technical aspects and Depth knowledge of Agile-Scrum, ART process, and cross-team integrations._
+_• Strong in User-centric design thinking, Data-driven decision-making, Product innovation and Operation Optimization._
 <br />
-_• Familiar with tools Jira, Confluence, Visily, Miro, ChatGPT, Drawio, Balsamiq, GA4, PowerBI, Postman, Swagger, Outlook, O365, etc._
+_• Depth knowledge of Agile-Scrum, ART process, and API integrations._
 <br />
-_• Attitude: Responsible, detail-oriented, goal-driven person, work-ethic, patient, willing to learn, self-motivated._
+_• Familiar with tools Jira, Confluence, Visily, Miro, ChatGPT, Drawio, Balsamiq, Github, GA4, PowerBI, Postman, Swagger, O365, etc._
 <br />
-_• Abilities: Quick-adaptability, key opinion leader, interpersonal communication, observation, strategy thinking, independence, customer empathy, teamwork, problem-solving._
+_• Attitude: Can-do, Willing to learn, Work-ethic, Goal-driven person, Detail-oriented and Patient._
+<br />
+_• Abilities: Proactive, Adaptable, Creative thinking, Intercultural communication, Observant and Empathetic, Problem-solving. Teamwork and Independence._
 <br />
 
 
