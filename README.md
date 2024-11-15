@@ -2,7 +2,7 @@
 
 # INTRODUCTION
 
-_Over 3 years experience in SaaS product development, involved in all phases of typical SDLC. With software engineering background and delicate business mind, I leverage technology to serve business. So far, I have managed multiple projects from different business domains, most of the features were built from scratch and rolled out successfully. I enjoyed the fast-paced environment, fostering product innovation. Especially empowered to drive products grow business and make society better._
+_Over 3 years experience in SaaS product development, involved in all phases of typical SDLC. With software engineering background and delicate business mind, I leverage technology to serve business. So far, I have managed multiple projects from different business domains, most of the products were built from scratch and rolled out successfully. I enjoyed the fast-paced environment, fostering product innovation. Especially empowered to drive products grow business and make society better._
 <br />
 
 <br />
