@@ -2,7 +2,7 @@
 
 # INTRODUCTION
 
-_Ambitious and passionate about becoming a solid Product Manager. I have over 3 years of hands-on experience in SaaS product development. With a software engineering background and a delicate business mind, I leverage technology to serve businesses. So far, I have managed multiple projects from different business domains, most of the products were built from scratch and rolled out successfully. I enjoyed the fast-paced environment, fostering product innovation. Especially empowered to drive products grow business and make society better. Outside of work, I read news, travel abroad, learn about the culture and history of other countries which helps me find life balance and refill the energy for a new day._
+_As a Product Owner - Business Analyst, with 4+ years of experience in digital products, who ambitious, and passionate about becoming a solid Product Manager. With a software engineering background and a delicate business mind, I leverage technology to serve businesses. So far, I have managed multiple projects from different business domains, most of the products were built from scratch and rolled out successfully. I enjoyed the fast-paced environment, fostering product innovation. Especially empowered to drive products grow business and make impactful life. Outside of work, I read news, travel abroad, learn about the culture and history of other countries which helps me find life balance and refill the energy for a new day._
 
 <br />
 
@@ -11,9 +11,9 @@ _Ambitious and passionate about becoming a solid Product Manager. I have over 3 
 <br />
 
 ## OBJECTIVE
-_• Short-term: Keep focus on driving product growth rapidly, fostering product innovation, handling multiple projects in a fast-paced environment to become Product Manager._
+_• Short-term: Focus on driving rapid product growth, fostering innovation, and diving deeper into product management to transition into a pure Product Manager._
 <br />
-_• Long-term: Become Senior Product Manager, master in PDLC and drive product sustainable growth, ideally around South East Asia._
+_• Long-term: Aim to become a Senior Product Manager, master the PDLC, and drive sustainable product growth, with a strong focus on the Southeast Asia market._
 <br />
 
 <br />
@@ -21,34 +21,26 @@ _• Long-term: Become Senior Product Manager, master in PDLC and drive product 
 ## SUMMARY
 _• Experienced in B2B, B2C company with diverse projects built from scratch in Ecommerce, ERP and Digital Platforms._
 <br />
-_• Proficient in Product Strategy, roadmap, UI-UX design, stakeholder management, and competitor research._
+_• Experienced in work relocation to Thailand, Cambodia, and offshoring to client companies in Vietnam._
 <br />
-_• Strong in User-centric design thinking, Data-driven decision-making, Product innovation and Operation Optimization._
+_• Proficient in product strategy, roadmaps, UI/UX design, stakeholder management, and competitor research._
 <br />
-_• Depth knowledge of Agile-Scrum, ART process, and API integrations._
+_• Specialized in product innovation, operational optimization through digital transformation, and data-driven decision-making._
 <br />
-_• Familiar with tools Jira, Confluence, Visily, Miro, ChatGPT, Drawio, Balsamiq, Github, GA4, PowerBI, Postman, Swagger, O365, etc._
+_• Knowledgeable about Agile-Scrum, ART processes, and API integrations._
 <br />
-_• Attitude: Can-do, Willing to learn, Work-ethic, Goal-driven person, Detail-oriented and Patient._
+_• Familiar with tools such as Jira, Confluence, Visily, Figma, Miro, ChatGPT, Draw.io, Balsamiq, GitHub Projects, Google Analytics, Power BI, Postman, Swagger, etc._
 <br />
-_• Abilities: Proactive, Adaptable, Creative thinking, Intercultural communication, Observant and Empathetic, Problem-solving. Teamwork and Independence._
+_• Attitude: Can-do, willing to learn, work ethic, goal-driven, detail-oriented, and patient._
+<br />
+_• Abilities: Proactive, adaptable, creative thinking, intercultural communication, observant, empathetic, problem-solving, and effective in both teamwork and independent work._
 <br />
 
 
 <br />
 
 ## LANGUAGES
-_• Vietnamese (Native)_
-<br />
-_• English (Professional working proficiency)_
-<br />
-_• Chinese (Elementary proficiency)_
-<br />
-_• Korean (Elementary proficiency)_
-<br />
-_• Thai (Elementary proficiency)_
-<br />
-_• Khmer (Elementary proficiency)_
+_Vietnamese and English (both written and verbal communication)._
 <br />
 
 <br />
