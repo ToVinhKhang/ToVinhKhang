@@ -2,7 +2,7 @@
 
 # INTRODUCTION
 
-_As a Product Owner - Business Analyst, with 4+ years of experience in digital products, who ambitious, and passionate about becoming a solid Product Manager. With a software engineering background and a delicate business mind, I leverage technology to serve businesses. So far, I have managed multiple projects from different business domains, most of the products were built from scratch and rolled out successfully. I enjoyed the fast-paced environment, fostering product innovation. Especially empowered to drive products grow business and make impactful life. Outside of work, I read news, travel abroad, learn about the culture and history of other countries which helps me find life balance and refill the energy for a new day._
+_As a Product Owner cum Business Analyst, with 4+ years of experience in digital products, who ambitious, and passionate about becoming a solid Product Manager. With a software engineering background and a delicate business mind, I leverage technology to serve businesses. So far, I have managed multiple projects from different business domains, most of the products were built from scratch and rolled out successfully. I enjoyed the fast-paced environment, fostering product innovation. Especially empowered to drive products grow business and make impactful life. Outside of work, I read news, travel abroad, learn about the culture and history of other countries which helps me find life balance and refill the energy for a new day._
 
 <br />
 
@@ -19,7 +19,7 @@ _• Long-term: Aim to become a Senior Product Manager, master the PDLC, and dri
 <br />
 
 ## SUMMARY
-_• Experienced in B2B, B2C company with diverse projects built from scratch in Ecommerce, ERP and Digital Platforms._
+_• • Experienced in B2B, and B2C companies with diverse projects built from scratch in HealthTech, HRTech, Fintech, MediaTech, etc._
 <br />
 _• Experienced in work relocation to Thailand, Cambodia, and offshoring to client companies in Vietnam._
 <br />
