@@ -19,7 +19,7 @@ _• Long-term: Aim to become a Senior Product Manager, master the PDLC, and dri
 <br />
 
 ## SUMMARY
-_• • Experienced in B2B, and B2C companies with diverse projects built from scratch in HealthTech, HRTech, Fintech, MediaTech, etc._
+_• Experienced in B2B, and B2C companies with diverse projects built from scratch in HealthTech, HRTech, Fintech, MediaTech, etc._
 <br />
 _• Experienced in work relocation to Thailand, Cambodia, and offshoring to client companies in Vietnam._
 <br />
