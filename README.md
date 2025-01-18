@@ -2,7 +2,7 @@
 
 # INTRODUCTION
 
-_As a Product Owner cum Business Analyst, with 4+ years of experience in digital products, who ambitious, and passionate about becoming a solid Product Manager. With a software engineering background and a delicate business mind, I leverage technology to serve businesses. So far, I have managed multiple projects from different business domains, most of the products were built from scratch and rolled out successfully. I enjoyed the fast-paced environment, fostering product innovation. Especially empowered to drive products grow business and make impactful life. Outside of work, I read news, travel abroad, learn about the culture and history of other countries which helps me find life balance and refill the energy for a new day._
+_As a Product Owner cum Business Analyst, with 4+ years of experience in digital product development, I am an ambitious and passionate professional on a clear path to becoming a well-rounded Product Manager. With a strong foundation in software engineering and a delicate business mind, I leverage technology to serve businesses. So far, I have managed multiple projects across diverse business domains, most of the products were built from scratch and rolled out successfully. I thrive in fast-paced environment, fostering product innovation, particularly focusing on business outcomes and meaningful impact on society._
 
 <br />
 
