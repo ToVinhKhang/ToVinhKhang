@@ -1,4 +1,4 @@
-<img width="220" height="220" src="https://tovinhkhang.netlify.app/images/contact.jpg" align="right" />
+<img width="220" src="https://tovinhkhang.netlify.app/images/contact.jpg" align="right" />
 
 # INTRODUCTION
 
