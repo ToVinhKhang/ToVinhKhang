@@ -11,9 +11,9 @@ _As a Product Owner cum Business Analyst, with 4+ years of experience in digital
 <br />
 
 ## OBJECTIVE
-_• Short-term: Focus on driving rapid product growth, fostering innovation, and diving deeper into product management to transition into a pure Product Manager._
+_• Short-term: Become a Product Manager, focusing on driving rapid product growth, fostering innovation, and diving deeper into product management and ensure projects committed KPIs._
 <br />
-_• Long-term: Aim to become a Senior Product Manager, master the PDLC, and drive sustainable product growth, with a strong focus on the Southeast Asia market._
+_• Long-term: Aim to become a Senior Product Manager, drive sustainable product growth, strong focus on the Southeast Asia market and ensure projects are profitable._
 <br />
 
 <br />
