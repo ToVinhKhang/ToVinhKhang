@@ -2,7 +2,7 @@
 
 # INTRODUCTION
 
-_As a Product Owner cum Business Analyst, with 4+ years of experience in digital product development, a strong foundation in software engineering and a delicate business mind, I leverage technology to serve businesses. So far, I have managed multiple projects across diverse business domains, most of the products were built from scratch and rolled out successfully. I thrive in a fast-paced environment, fostering product innovation, particularly focusing on business outcomes and meaningful impact on society. _
+_As a Product Owner cum Business Analyst, with 4+ years of experience in digital product development, a strong foundation in software engineering and a delicate business mind, I leverage technology to serve businesses. So far, I have managed multiple projects across diverse business domains, most of the products were built from scratch and rolled out successfully. I thrive in a fast-paced environment, fostering product innovation, particularly focusing on business outcomes and meaningful impact on society._
 
 <br />
 
