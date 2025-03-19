@@ -11,7 +11,7 @@ _As a Product Owner, with 3+ years of experience in product development, strong 
 <br />
 
 ## OBJECTIVE
-_• Short-term: Become an Associate Product Manager, driving product growth, fostering innovation, achieving key KPIs and enhancing my leadership skills by collaborating with cross-functional teams and optimizing product development processes._
+_• Short-term: Become a Senior Product Owner, driving product growth, fostering innovation, achieving key KPIs and enhancing my leadership skills by collaborating with cross-functional teams and optimizing product development processes._
 <br />
 _• Long-term: Aim to be a Senior Product Manager, leading product teams, ensuring sustainable growth, maximizing profitability. My focus is on creating impactful products for the Southeast Asian market that align with local needs and emerging trends._
 <br />
