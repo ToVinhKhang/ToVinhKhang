@@ -19,21 +19,21 @@ _• Long-term: Aim to be a Senior Product Manager, leading product teams, ensur
 <br />
 
 ## SUMMARY
-_• Experienced in B2B, and B2C companies with diverse projects built from scratch in HealthTech, HRTech, Fintech, MediaTech, etc._
+_• Experienced in Product companies, strong in Pharmaceutical Distribution (Ecommerce, ERP)._
 <br />
 _• Experienced in work relocation to Thailand, Cambodia, and offshoring to client companies in Vietnam._
 <br />
-_• Proficient in product strategy, roadmaps, UI/UX design, stakeholder management, and competitor research._
+_• Proficient in define Product Plan (Strategy, Roadmap, Launching plan), wireframe-mockup and manage product backlogs._
 <br />
-_• Specialized in product innovation, operational optimization through digital transformation, and data-driven decision-making._
+_• Specialized in Product Innovation, Operational Optimization through Digital Transformation, and data-driven decision-making._
 <br />
-_• Knowledgeable about Agile-Scrum, ART processes, and API integrations._
+_• Knowledgeable about Agile-Scrum, MoSCoW prioritization, ART processes, and API integrations._
 <br />
-_• Familiar with tools such as Jira, Confluence, Visily, Figma, Miro, ChatGPT, Draw.io, Balsamiq, GitHub Projects, Google Analytics, Power BI, Postman, Swagger, etc._
+_• Familiar with Visily, Figma, Miro, ChatGPT, Draw.io, Github Projects, Jira, Confluence, Outlook, GA, PowerBI, Kibana, Postman, etc._
 <br />
 _• Attitude: Can-do, willing to learn, work ethic, goal-driven, detail-oriented, and patient._
 <br />
-_• Abilities: Proactive, adaptable, creative thinking, intercultural communication, observant, empathetic, problem-solving, and effective in both teamwork and independent work._
+_• Abilities: Proactive, adaptable, creative thinking, observant, empathetic, problem-solving._
 <br />
 
 
