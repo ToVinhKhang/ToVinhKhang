@@ -19,21 +19,15 @@ _• Long-term: Aim to be a Product Manager, leading product teams, ensuring sus
 <br />
 
 ## SUMMARY
-_• Experienced in Product companies, strong in Pharmaceutical Distribution (Ecommerce, ERP)._
+_• Product Management: Product strategy, roadmap, launching plan, backlog management._
 <br />
-_• Experienced in work relocation to Thailand, Cambodia, and offshoring to client companies in Vietnam._
+_• International Impact: Led products across Thailand and Cambodia; managed offshore delivery in Vietnam clients._
 <br />
-_• Proficient in define Product Plan (Strategy, Roadmap, Launching plan), wireframe-mockup and manage product backlogs._
+_• Framework & Tools: Agile-Scrum, MoSCoW, ART; Proficient in Jira, Confluence, Visily, Figma, Miro, PowerBI, GA, Postman, Kibana._
 <br />
-_• Specialized in Product Innovation, Operational Optimization through Digital Transformation, and data-driven decision-making._
+_• Attitude: Can-do, highly adaptable, proactive, goal-driven._
 <br />
-_• Knowledgeable about Agile-Scrum, MoSCoW prioritization, ART processes, and API integrations._
-<br />
-_• Familiar with Visily, Figma, Miro, ChatGPT, Draw.io, Github Projects, Jira, Confluence, Outlook, GA, PowerBI, Kibana, Postman, etc._
-<br />
-_• Attitude: Can-do, willing to learn, work ethic, goal-driven, detail-oriented, and patient._
-<br />
-_• Abilities: Proactive, adaptable, creative thinking, observant, empathetic, problem-solving._
+_• Language: Vietnamese - native; English - intermediate_
 <br />
 
 
