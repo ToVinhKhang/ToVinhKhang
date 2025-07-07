@@ -2,7 +2,7 @@
 
 # INTRODUCTION
 
-_As a Product Owner, with 4+ years of experience in product development, strong foundation in software engineering, and delicate business mind, I leverage technology to serve businesses. So far, I have managed multiple projects across diverse business domains, most of the products were built from scratch and rolled out successfully. I thrive in fast-paced environment, fostering product innovation, particularly focusing on business outcomes and meaningful impact on society._
+_With 4 years of experience in product development, strong foundation in software engineering, and delicate business mind, I leverage technology to serve businesses. So far, I have managed multiple projects across diverse business domains, most of the products were built from scratch and rolled out successfully. I thrive in fast-paced environment, fostering product innovation, particularly focusing on business outcomes and meaningful impact on society._
 
 <br />
 
