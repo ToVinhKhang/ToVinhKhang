@@ -41,8 +41,6 @@ _• Language: Vietnamese - native; English - intermediate_
 [<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png" />][facebook]
 [<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />][instagram]
 [<img align="left" alt="Telegram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" />][telegram]
-[<img align="left" alt="Skype" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Skype-icon-new.png" />][skype]
-
 
 <br /><br /><br />
 ---
@@ -53,12 +51,12 @@ _• Language: Vietnamese - native; English - intermediate_
 
 [linkedin]: https://www.linkedin.com/in/tovinhkhang/
 [gmail]: mailto:vinhkhang1969@gmail.com
-[facebook]: https://www.facebook.com/ToVinhKhangTDTU/
+[facebook]: https://www.facebook.com/khang.product/
 [instagram]: https://www.instagram.com/vkent_/
 [telegram]: https://t.me/khangkent/
-[skype]: https://join.skype.com/invite/uUCMufxOQosm
 
 <br />
 
 <br />
+
 
