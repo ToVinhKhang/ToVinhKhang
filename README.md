@@ -11,7 +11,7 @@ _With 4 years of experience in product development, strong foundation in softwar
 <br />
 
 ## OBJECTIVES
-_• Short-term: Become a Senior Product Owner, driving product growth, fostering innovation, achieving key KPIs and enhancing my leadership skills by collaborating with cross-functional teams and optimizing product development processes._
+_• Short-term: Become a Product Lead, driving product growth, fostering innovation, achieving key KPIs and enhancing my leadership skills by collaborating with cross-functional teams and optimizing product development processes._
 <br />
 _• Long-term: Aim to be a Product Manager, leading product teams, ensuring sustainable growth, maximizing profitability. My focus is on creating impactful products for the Southeast Asian market that align with local needs and emerging trends._
 <br />
@@ -21,11 +21,11 @@ _• Long-term: Aim to be a Product Manager, leading product teams, ensuring sus
 ## KEY SKILLS
 _• Product Management: Product strategy, roadmap, launching plan, backlog management._
 <br />
-_• International Impact: Led products across Thailand and Cambodia; managed offshore delivery in Vietnam clients._
+_• International Impact: Led products across Thailand and Cambodia; managed offshore delivery clients in Vietnam._
 <br />
-_• Framework & Tools: Agile-Scrum, MoSCoW, ART; Proficient in Jira, Confluence, Visily, Figma, Miro, PowerBI, GA, Postman, Kibana._
+_• Framework & Tools: Agile, MoSCoW, ART, Jira, Confluence, Visily, Figma, Miro, Postman, Semantic, PowerBI, GA, Kibana, etc._
 <br />
-_• Attitude: Can-do, highly adaptable, proactive, goal-driven._
+_• Attitude & Ability: adaptable, goal-driven, data-informed, proactive, innovative, ownership, management._
 <br />
 _• Language: Vietnamese - native; English - intermediate_
 <br />
@@ -58,5 +58,6 @@ _• Language: Vietnamese - native; English - intermediate_
 <br />
 
 <br />
+
 
 
