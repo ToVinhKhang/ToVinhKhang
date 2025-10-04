@@ -5,9 +5,7 @@ _With 4 years of experience in product development across diverse domains, I hav
 
 <br />
 
-<br />
 
-<br />
 
 ## OBJECTIVES
 _• Short-term: Become a Product Lead, driving product growth, fostering innovation, achieving key KPIs and enhancing my leadership skills by collaborating with cross-functional teams and optimizing product development processes._
@@ -44,6 +42,7 @@ _• Long-term: Aim to be a Product Manager, leading product teams, ensuring sus
 <br />
 
 <br />
+
 
 
 
