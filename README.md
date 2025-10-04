@@ -1,8 +1,7 @@
-<img width="220" src="https://tovinhkhang.netlify.app/images/contact.jpg" align="right" />
 
 # INTRODUCTION
 
-_With 4 years of experience in product development, strong foundation in software engineering, and delicate business mind, I leverage technology to serve businesses. So far, I have managed multiple projects across diverse business domains, most of the products were built from scratch and rolled out successfully. I thrive in fast-paced environment, fostering product innovation, particularly focusing on business outcomes and meaningful impact on society._
+_With 4 years of experience in product development across diverse domains, I have led end-to-end initiatives from ideation to launch, building products from scratch and scaling them in fast-paced environments. My focus is on achieving measurable business outcomes, fostering innovation, and creating products that generate lasting value for both organizations and society._
 
 <br />
 
@@ -17,19 +16,6 @@ _• Long-term: Aim to be a Product Manager, leading product teams, ensuring sus
 <br />
 
 <br />
-
-## KEY SKILLS
-_• Product Management: Product strategy, roadmap, launching plan, backlog management._
-<br />
-_• International Impact: Led products across Thailand and Cambodia; managed offshore delivery clients in Vietnam._
-<br />
-_• Framework & Tools: Agile, MoSCoW, ART, Jira, Confluence, Visily, Figma, Miro, Postman, Semantic, PowerBI, GA, Kibana, etc._
-<br />
-_• Attitude & Ability: adaptable, goal-driven, data-informed, proactive, innovative, ownership, management._
-<br />
-_• Language: Vietnamese - native; English - intermediate_
-<br />
-
 
 <br />
 
@@ -58,6 +44,7 @@ _• Language: Vietnamese - native; English - intermediate_
 <br />
 
 <br />
+
 
 
 
