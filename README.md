@@ -1,7 +1,7 @@
 
 # INTRODUCTION
 
-_With 4 years of experience in product development across diverse domains, I have led end-to-end initiatives from ideation to launch, building products from scratch and scaling them in fast-paced environments. My focus is on achieving measurable business outcomes, fostering innovation, and creating products that generate lasting value for both organizations and society._
+_With 4 years of experience in product development across diverse domains, I have led end-to-end initiatives from ideation to launch in fast-paced environments. I drive product growth through data-informed strategy, user-centric design, and cross-functional collaboration, fostering innovation and delivering scalable, impactful digital products that achieve measurable business outcomes._
 
 <br />
 
@@ -42,6 +42,7 @@ _• Long-term: Aim to be a Product Manager, leading product teams, ensuring sus
 <br />
 
 <br />
+
 
 
 
