@@ -1,16 +1,8 @@
 
-# INTRODUCTION
+# SUMMARY
 
-_With 4 years of experience in product development across diverse domains, I have led end-to-end initiatives from ideation to launch in fast-paced environments. I drive product growth through data-informed strategy, user-centric design, and cross-functional collaboration, fostering innovation and delivering scalable, impactful digital products that achieve measurable business outcomes._
+_With 4 years of experience in product development across diverse domains, I have led end-to-end initiatives from ideation to launch in fast-paced environments. I leverage technology and user-centric design to drive business growth and deliver measurable value. Currently expanding my product ownership toward a Product Manager role across multiple product lines, I’m focused on shaping scalable strategies and frameworks that sustain long-term impact._
 
-<br />
-
-
-
-## OBJECTIVES
-_• Short-term: Become a Product Lead, driving product growth, fostering innovation, achieving key KPIs and enhancing my leadership skills by collaborating with cross-functional teams and optimizing product development processes._
-<br />
-_• Long-term: Aim to be a Product Manager, leading product teams, ensuring sustainable growth, maximizing profitability. My focus is on creating impactful products for the Southeast Asian market that align with local needs and emerging trends._
 <br />
 
 <br />
@@ -42,6 +34,7 @@ _• Long-term: Aim to be a Product Manager, leading product teams, ensuring sus
 <br />
 
 <br />
+
 
 
 
