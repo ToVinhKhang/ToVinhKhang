@@ -1,7 +1,7 @@
 
 # SUMMARY
 
-_With 4 years of experience in product development across diverse domains, I have led end-to-end initiatives from ideation to launch in fast-paced environments. I leverage technology and user-centric design to drive business growth and deliver measurable value. Currently expanding my product ownership toward a Product Manager role across multiple product lines, I’m focused on shaping scalable strategies and frameworks that sustain long-term impact._
+_With 5 years of experience in product development across diverse domains, I have led end-to-end initiatives from ideation to launch in fast-paced environments. I leverage technology and user-centric design to drive business growth and deliver measurable value. Currently expanding my product ownership toward a Product Manager role across multiple product lines, I’m focused on shaping scalable strategies and frameworks that sustain long-term impact._
 
 <br />
 
@@ -34,6 +34,7 @@ _With 4 years of experience in product development across diverse domains, I hav
 <br />
 
 <br />
+
 
 
 
